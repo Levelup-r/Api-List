@@ -1,0 +1,11 @@
+{
+    "Name" : "languagelayer",
+    "Link" : "https://languagelayer.com/",
+    "Description" : "Language detection.",
+    "Auth" : "No",
+    "HTTPS" : "Yes",
+    "CORS" : "Unknown",
+    "Docs" : "https://languagelayer.com/documentation",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

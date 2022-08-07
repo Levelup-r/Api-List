@@ -1,0 +1,11 @@
+{
+    "Name" : "Oxford",
+    "Link" : "oxforddictionaries.com/",
+    "Description" : "Dictionary Data.",
+    "Auth" : "Yes",
+    "HTTPS" : "Yes",
+    "CORS" : "No",
+    "Docs" : "https://developer.oxforddictionaries.com/",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

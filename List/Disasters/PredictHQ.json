@@ -1,0 +1,11 @@
+{
+    "Name" : "PredictHQ",
+    "Link" : "https://predicthq.com/",
+    "Description" : "Events and natural disasters data.",
+    "Auth" : "Yes",
+    "HTTPS" : "Yes",
+    "CORS" : "Unknown",
+    "Docs" : "https://docs.predicthq.com/",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

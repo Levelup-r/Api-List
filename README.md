@@ -26,6 +26,21 @@ The reason for using this kind of format is to allow further developement for th
 
 also a status js file must be included aswell, that file must be a nodejs function that returns either ``Live`` or ``Offline`` or ``Unknown`` for the api and for its name must be ``Name.js`` aswell for example ``Api_List.js`` a template will be given when possible, and for the tokens, in case the api request a private token then the function should take it as a parameter and return ``Token`` in case the token is missing while if the api uses a public token that its okay to publish then it should be used as default value for the token parameter.
 
+### _Cat.json
+
+The ``_Cat.json`` file is meant to have information of the catgeory it follows a simple format 
+
+```json
+{
+    "Name": "Name",
+    "Slug": "Slug",
+    "Description": "Description"
+}
+
+```
+
+And it is meant to be used in the category description for the web interface.
+
 ## Status Check
 The API status check is a system that i plan to add into this project, it works by simply requesting the API and checking if it is online and working as it should, the way this check works is by testing if the API respond in the way that it is meant to, for example the file will request ``jikan`` which is an anime api and ask for info about anime with id ``1`` if the title match which is in this case ``Cowboy Bebop`` then it should return as the api is ``Live``, if it fail to request the api then it should return ``Offline`` while if it manages to request the api sucessfully but it returns something other then the expected result in this case ``Cowboy Bebop`` then it should return ``unknown`` those files will then be given to a specific engine that will run them on request and show the results in a easy to use web interface.
 

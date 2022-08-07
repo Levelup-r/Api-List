@@ -1,0 +1,11 @@
+{
+    "Name" : "anonfiles",
+    "Link" : "https://anonfiles.com/",
+    "Description" : "File Sharing and Storage.",
+    "Auth" : "No",
+    "HTTPS" : "Yes",
+    "CORS" : "Unknown",
+    "Docs" : "https://anonfiles.com/docs/api",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

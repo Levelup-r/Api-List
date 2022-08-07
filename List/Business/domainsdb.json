@@ -1,0 +1,11 @@
+{
+    "Name" : "domainsdb",
+    "Link" : "https://domainsdb.info/",
+    "Description" : "Registered Domain Names Search.",
+    "Auth" : "No",
+    "HTTPS" : "Yes",
+    "CORS" : "Unknown",
+    "Docs" : "https://api.domainsdb.info/v1",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

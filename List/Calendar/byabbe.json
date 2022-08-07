@@ -1,0 +1,11 @@
+{
+    "Name" : "byabbe",
+    "Link" : "https://byabbe.se/on-this-day/on-this-day.yaml",
+    "Description" : "Seach histories from wikipedia for a perticular day.",
+    "Auth" : "No",
+    "HTTPS" : "Yes",
+    "CORS" : "Unknown",
+    "Docs" : "https://byabbe.se/on-this-day/#/default/get__month___day__events_json",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

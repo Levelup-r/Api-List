@@ -1,0 +1,11 @@
+{
+    "Name" : "Codeship",
+    "Link" : "https://codeship.com",
+    "Description" : "Codeship is a Continuous Integration Platform in the cloud.",
+    "Auth" : "Yes",
+    "HTTPS" : "Yes",
+    "CORS" : "Unknown",
+    "Docs" : "https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

@@ -1,0 +1,11 @@
+{
+    "Name" : "CircleCI",
+    "Link" : "https://circleci.com/",
+    "Description" : "Automate the software development process using continuous integration and continuous delivery.",
+    "Auth" : "Yes",
+    "HTTPS" : "Yes",
+    "CORS" : "Unknown",
+    "Docs" : "https://circleci.com/docs/api/v1-reference/",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

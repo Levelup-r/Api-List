@@ -1,0 +1,11 @@
+{
+    "Name" : "cat-facts",
+    "Link" : "https://cat-fact.herokuapp.com/",
+    "Description" : "Daily cat facts! 🐱",
+    "Auth" : "No",
+    "HTTPS" : "Yes",
+    "CORS" : "No",
+    "Docs" : "https://alexwohlbruck.github.io/cat-facts/",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

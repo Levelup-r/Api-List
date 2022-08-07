@@ -1,0 +1,11 @@
+{
+    "Name" : "Jikan",
+    "Link" : "https://jikan.moe/",
+    "Description" : "Jikan (時間) is an open-source PHP & REST API for the “most active online anime + manga community and database” — MyAnimeList.net. It parses the website to satisfy the need for an API.",
+    "Auth" : "No",
+    "HTTPS" : "Yes",
+    "CORS" : "Yes",
+    "Docs" : "https://docs.api.jikan.moe/",
+    "Status_Check": "False",
+    "Status_Token" : "NONE"
+ }

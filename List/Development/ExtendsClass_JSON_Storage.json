@@ -1,0 +1,11 @@
+{
+    "Name": "ExtendsClass JSON Storage",
+    "Link": "https:\/\/extendsclass.com\/json-storage.html",
+    "Description": "A simple JSON store API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/extendsclass.com\/json-storage.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

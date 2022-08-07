@@ -1,0 +1,11 @@
+{
+    "Name": "Sonar",
+    "Link": "https:\/\/github.com\/Cgboal\/SonarSearch",
+    "Description": "Project Sonar DNS Enumeration API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/Cgboal\/SonarSearch",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

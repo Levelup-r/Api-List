@@ -1,0 +1,11 @@
+{
+    "Name": "Gazette Data, UK",
+    "Link": "https:\/\/www.thegazette.co.uk\/data",
+    "Description": "UK official public record API",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.thegazette.co.uk\/data",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

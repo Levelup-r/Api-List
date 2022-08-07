@@ -1,0 +1,11 @@
+{
+    "Name": "icy.tools",
+    "Link": "https:\/\/developers.icy.tools\/",
+    "Description": "GraphQL based NFT API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.icy.tools\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

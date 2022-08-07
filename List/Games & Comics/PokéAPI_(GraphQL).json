@@ -1,0 +1,11 @@
+{
+    "Name": "Pok\u00e9API (GraphQL)",
+    "Link": "https:\/\/github.com\/mazipan\/graphql-pokeapi",
+    "Description": "The Unofficial GraphQL for PokeAPI",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/mazipan\/graphql-pokeapi",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

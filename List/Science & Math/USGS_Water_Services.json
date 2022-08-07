@@ -1,0 +1,11 @@
+{
+    "Name": "USGS Water Services",
+    "Link": "https:\/\/waterservices.usgs.gov\/",
+    "Description": "Water quality and level info for rivers and lakes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/waterservices.usgs.gov\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Zube",
+    "Link": "https:\/\/zube.io\/docs\/api",
+    "Description": "Full stack project management",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/zube.io\/docs\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

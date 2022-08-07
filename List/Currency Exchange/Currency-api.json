@@ -1,0 +1,11 @@
+{
+    "Name": "Currency-api",
+    "Link": "https:\/\/github.com\/fawazahmed0\/currency-api#readme",
+    "Description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/fawazahmed0\/currency-api#readme",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

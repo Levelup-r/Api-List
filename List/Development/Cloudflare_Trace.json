@@ -1,0 +1,11 @@
+{
+    "Name": "Cloudflare Trace",
+    "Link": "https:\/\/github.com\/fawazahmed0\/cloudflare-trace-api",
+    "Description": "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS\/SSL Version & More",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/fawazahmed0\/cloudflare-trace-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

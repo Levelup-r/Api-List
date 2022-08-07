@@ -1,0 +1,11 @@
+{
+    "Name": "IUCN",
+    "Link": "http:\/\/apiv3.iucnredlist.org\/api\/v3\/docs",
+    "Description": "IUCN Red List of Threatened Species",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "http:\/\/apiv3.iucnredlist.org\/api\/v3\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "WhatJobs",
+    "Link": "https:\/\/www.whatjobs.com\/affiliates",
+    "Description": "Job search engine",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.whatjobs.com\/affiliates",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

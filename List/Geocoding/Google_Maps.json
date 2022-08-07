@@ -1,0 +1,11 @@
+{
+    "Name": "Google Maps",
+    "Link": "https:\/\/developers.google.com\/maps\/",
+    "Description": "Create\/customize digital maps based on Google Maps data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/maps\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

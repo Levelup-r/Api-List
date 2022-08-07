@@ -1,0 +1,11 @@
+{
+    "Name": "Enigma Public",
+    "Link": "https:\/\/developers.enigma.com\/docs",
+    "Description": "Broadest collection of public data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developers.enigma.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

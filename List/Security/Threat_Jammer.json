@@ -1,0 +1,11 @@
+{
+    "Name": "Threat Jammer",
+    "Link": "https:\/\/threatjammer.com\/docs\/index",
+    "Description": "Risk scoring service from curated threat intelligence data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/threatjammer.com\/docs\/index",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

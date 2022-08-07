@@ -1,0 +1,11 @@
+{
+    "Name": "TheMealDB",
+    "Link": "https:\/\/www.themealdb.com\/api.php",
+    "Description": "Meal Recipes",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.themealdb.com\/api.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, USA",
+    "Link": "https:\/\/www.data.gov\/",
+    "Description": "United States Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.gov\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "AniDB",
+    "Link": "https:\/\/wiki.anidb.net\/HTTP_API_Definition",
+    "Description": "Anime Database",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wiki.anidb.net\/HTTP_API_Definition",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

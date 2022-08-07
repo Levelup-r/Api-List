@@ -1,0 +1,11 @@
+{
+    "Name": "IQAir",
+    "Link": "https:\/\/www.iqair.com\/air-pollution-data-api",
+    "Description": "Air quality and weather data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.iqair.com\/air-pollution-data-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

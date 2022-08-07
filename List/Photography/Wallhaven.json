@@ -1,0 +1,11 @@
+{
+    "Name": "Wallhaven",
+    "Link": "https:\/\/wallhaven.cc\/help\/api",
+    "Description": "Wallpapers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wallhaven.cc\/help\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

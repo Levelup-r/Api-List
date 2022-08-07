@@ -1,0 +1,11 @@
+{
+    "Name": "Intelligence X",
+    "Link": "https:\/\/github.com\/IntelligenceX\/SDK\/blob\/master\/Intelligence%20X%20API.pdf",
+    "Description": "Perform OSINT via Intelligence X",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/IntelligenceX\/SDK\/blob\/master\/Intelligence%20X%20API.pdf",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

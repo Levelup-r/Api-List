@@ -1,0 +1,11 @@
+{
+    "Name": "Clash Royale",
+    "Link": "https:\/\/developer.clashroyale.com",
+    "Description": "Clash Royale Game Information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.clashroyale.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

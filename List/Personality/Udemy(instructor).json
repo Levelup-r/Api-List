@@ -1,0 +1,11 @@
+{
+    "Name": "Udemy(instructor)",
+    "Link": "https:\/\/www.udemy.com\/developers\/instructor\/",
+    "Description": "API for instructors on Udemy",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.udemy.com\/developers\/instructor\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

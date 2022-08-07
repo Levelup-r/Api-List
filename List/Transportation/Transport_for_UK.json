@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for UK",
+    "Link": "https:\/\/developer.transportapi.com",
+    "Description": "Transport API and dataset for UK",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.transportapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

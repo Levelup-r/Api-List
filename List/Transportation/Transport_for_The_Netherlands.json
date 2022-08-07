@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for The Netherlands",
+    "Link": "https:\/\/github.com\/skywave\/KV78Turbo-OVAPI\/wiki",
+    "Description": "OVAPI, country-wide public transport",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/skywave\/KV78Turbo-OVAPI\/wiki",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

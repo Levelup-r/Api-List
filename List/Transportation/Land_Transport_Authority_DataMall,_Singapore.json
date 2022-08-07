@@ -1,0 +1,11 @@
+{
+    "Name": "Land Transport Authority DataMall, Singapore",
+    "Link": "https:\/\/datamall.lta.gov.sg\/content\/dam\/datamall\/datasets\/LTA_DataMall_API_User_Guide.pdf",
+    "Description": "Singapore transport information",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/datamall.lta.gov.sg\/content\/dam\/datamall\/datasets\/LTA_DataMall_API_User_Guide.pdf",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

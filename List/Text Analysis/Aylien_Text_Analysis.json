@@ -1,0 +1,11 @@
+{
+    "Name": "Aylien Text Analysis",
+    "Link": "https:\/\/docs.aylien.com\/textapi\/#getting-started",
+    "Description": "A collection of information retrieval and natural language APIs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.aylien.com\/textapi\/#getting-started",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

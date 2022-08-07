@@ -1,0 +1,11 @@
+{
+    "Name": "Carbon Interface",
+    "Link": "https:\/\/docs.carboninterface.com\/",
+    "Description": "API to calculate carbon (C02) emissions estimates for common C02 emitting activities",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.carboninterface.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

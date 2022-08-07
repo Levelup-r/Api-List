@@ -1,0 +1,11 @@
+{
+    "Name": "Forismatic",
+    "Link": "http:\/\/forismatic.com\/en\/api\/",
+    "Description": "Inspirational Quotes",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/forismatic.com\/en\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

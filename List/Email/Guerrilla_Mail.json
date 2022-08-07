@@ -1,0 +1,11 @@
+{
+    "Name": "Guerrilla Mail",
+    "Link": "https:\/\/www.guerrillamail.com\/GuerrillaMailAPI.html",
+    "Description": "Disposable temporary Email addresses",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.guerrillamail.com\/GuerrillaMailAPI.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "WorldCoinIndex",
+    "Link": "https:\/\/www.worldcoinindex.com\/apiservice",
+    "Description": "Cryptocurrencies Prices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.worldcoinindex.com\/apiservice",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

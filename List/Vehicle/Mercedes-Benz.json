@@ -1,0 +1,11 @@
+{
+    "Name": "Mercedes-Benz",
+    "Link": "https:\/\/developer.mercedes-benz.com\/apis",
+    "Description": "Telematics data, remotely access vehicle functions, car configurator, locate service dealers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/developer.mercedes-benz.com\/apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

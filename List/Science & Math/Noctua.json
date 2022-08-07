@@ -1,0 +1,11 @@
+{
+    "Name": "Noctua",
+    "Link": "https:\/\/api.noctuasky.com\/api\/v1\/swaggerdoc\/",
+    "Description": "REST API used to access NoctuaSky features",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.noctuasky.com\/api\/v1\/swaggerdoc\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

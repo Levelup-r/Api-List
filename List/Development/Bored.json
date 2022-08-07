@@ -1,0 +1,11 @@
+{
+    "Name": "Bored",
+    "Link": "https:\/\/www.boredapi.com\/",
+    "Description": "Find random activities to fight boredom",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.boredapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

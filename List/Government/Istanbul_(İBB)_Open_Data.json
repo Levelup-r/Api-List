@@ -1,0 +1,11 @@
+{
+    "Name": "Istanbul (\u0130BB) Open Data",
+    "Link": "https:\/\/data.ibb.gov.tr",
+    "Description": "Data sets from the \u0130stanbul Metropolitan Municipality (\u0130BB)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.ibb.gov.tr",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

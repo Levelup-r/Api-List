@@ -1,0 +1,11 @@
+{
+    "Name": "iLovePDF",
+    "Link": "https:\/\/developer.ilovepdf.com\/",
+    "Description": "Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents\/month",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developer.ilovepdf.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

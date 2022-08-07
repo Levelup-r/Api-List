@@ -1,0 +1,11 @@
+{
+    "Name": "Yo Momma Jokes",
+    "Link": "https:\/\/github.com\/beanboi7\/yomomma-apiv2",
+    "Description": "REST API for Yo Momma Jokes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/beanboi7\/yomomma-apiv2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Tomorrow",
+    "Link": "https:\/\/docs.tomorrow.io",
+    "Description": "Weather API Powered by Proprietary Technology",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.tomorrow.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

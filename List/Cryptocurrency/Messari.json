@@ -1,0 +1,11 @@
+{
+    "Name": "Messari",
+    "Link": "https:\/\/messari.io\/api",
+    "Description": "Provides API endpoints for thousands of crypto assets",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/messari.io\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

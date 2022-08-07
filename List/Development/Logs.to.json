@@ -1,0 +1,11 @@
+{
+    "Name": "Logs.to",
+    "Link": "https:\/\/logs.to\/",
+    "Description": "Generate logs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/logs.to\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Hashnode",
+    "Link": "https:\/\/hashnode.com",
+    "Description": "A blogging platform built for developers",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/hashnode.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

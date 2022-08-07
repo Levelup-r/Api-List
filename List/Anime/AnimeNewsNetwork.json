@@ -1,0 +1,11 @@
+{
+    "Name": "AnimeNewsNetwork",
+    "Link": "https:\/\/www.animenewsnetwork.com\/encyclopedia\/api.php",
+    "Description": "Anime industry news",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.animenewsnetwork.com\/encyclopedia\/api.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

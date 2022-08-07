@@ -1,0 +1,11 @@
+{
+    "Name": "Dailymotion",
+    "Link": "https:\/\/developer.dailymotion.com\/",
+    "Description": "Dailymotion Developer API",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.dailymotion.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

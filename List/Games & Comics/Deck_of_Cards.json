@@ -1,0 +1,11 @@
+{
+    "Name": "Deck of Cards",
+    "Link": "http:\/\/deckofcardsapi.com\/",
+    "Description": "Deck of Cards",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/deckofcardsapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

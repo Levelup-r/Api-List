@@ -1,0 +1,11 @@
+{
+    "Name": "GamerPower",
+    "Link": "https:\/\/www.gamerpower.com\/api-read",
+    "Description": "Game Giveaways Tracker",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.gamerpower.com\/api-read",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

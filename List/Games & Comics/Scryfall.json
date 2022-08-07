@@ -1,0 +1,11 @@
+{
+    "Name": "Scryfall",
+    "Link": "https:\/\/scryfall.com\/docs\/api",
+    "Description": "Magic: The Gathering database",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/scryfall.com\/docs\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

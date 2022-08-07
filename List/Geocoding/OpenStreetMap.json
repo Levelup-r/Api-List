@@ -1,0 +1,11 @@
+{
+    "Name": "OpenStreetMap",
+    "Link": "http:\/\/wiki.openstreetmap.org\/wiki\/API",
+    "Description": "Navigation, geolocation and geographical data",
+    "Auth": "`OAuth`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/wiki.openstreetmap.org\/wiki\/API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

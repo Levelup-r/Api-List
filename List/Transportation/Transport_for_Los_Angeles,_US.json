@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Los Angeles, US",
+    "Link": "https:\/\/developer.metro.net\/api\/",
+    "Description": "Data about positions of Metro vehicles in real time and travel their routes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.metro.net\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

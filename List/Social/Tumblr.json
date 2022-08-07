@@ -1,0 +1,11 @@
+{
+    "Name": "Tumblr",
+    "Link": "https:\/\/www.tumblr.com\/docs\/en\/api\/v2",
+    "Description": "Read and write Tumblr Data",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.tumblr.com\/docs\/en\/api\/v2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

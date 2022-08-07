@@ -1,0 +1,11 @@
+{
+    "Name": "1inch",
+    "Link": "https:\/\/1inch.io\/api\/",
+    "Description": "API for querying decentralize exchange",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/1inch.io\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

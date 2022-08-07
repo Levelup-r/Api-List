@@ -1,0 +1,11 @@
+{
+    "Name": "Digi-Key",
+    "Link": "https:\/\/www.digikey.com\/en\/resources\/api-solutions",
+    "Description": "Retrieve price and inventory of electronic components as well as place orders",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.digikey.com\/en\/resources\/api-solutions",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

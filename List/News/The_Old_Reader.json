@@ -1,0 +1,11 @@
+{
+    "Name": "The Old Reader",
+    "Link": "https:\/\/github.com\/theoldreader\/api",
+    "Description": "RSS reader",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/theoldreader\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

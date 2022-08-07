@@ -1,0 +1,11 @@
+{
+    "Name": "Dribbble",
+    "Link": "https:\/\/developer.dribbble.com",
+    "Description": "Discover the world\u2019s top designers & creatives",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.dribbble.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

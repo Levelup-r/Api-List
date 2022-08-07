@@ -1,0 +1,11 @@
+{
+    "Name": "Charity Search",
+    "Link": "http:\/\/charityapi.orghunter.com\/",
+    "Description": "Non-profit charity data",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/charityapi.orghunter.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

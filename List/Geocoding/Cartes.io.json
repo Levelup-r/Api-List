@@ -1,0 +1,11 @@
+{
+    "Name": "Cartes.io",
+    "Link": "https:\/\/github.com\/M-Media-Group\/Cartes.io\/wiki\/API",
+    "Description": "Create maps and markers for anything",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/M-Media-Group\/Cartes.io\/wiki\/API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

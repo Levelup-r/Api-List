@@ -1,0 +1,11 @@
+{
+    "Name": "Open Collective",
+    "Link": "https:\/\/docs.opencollective.com\/help\/developers\/api",
+    "Description": "Get Open Collective data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.opencollective.com\/help\/developers\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

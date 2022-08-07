@@ -1,0 +1,11 @@
+{
+    "Name": "CitySDK",
+    "Link": "http:\/\/www.citysdk.eu\/citysdk-toolkit\/",
+    "Description": "Open APIs for select European cities",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.citysdk.eu\/citysdk-toolkit\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

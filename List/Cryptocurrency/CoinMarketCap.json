@@ -1,0 +1,11 @@
+{
+    "Name": "CoinMarketCap",
+    "Link": "https:\/\/coinmarketcap.com\/api\/",
+    "Description": "Cryptocurrencies Prices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/coinmarketcap.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

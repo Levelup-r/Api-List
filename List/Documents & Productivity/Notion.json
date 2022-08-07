@@ -1,0 +1,11 @@
+{
+    "Name": "Notion",
+    "Link": "https:\/\/developers.notion.com\/docs\/getting-started",
+    "Description": "Integrate with Notion",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.notion.com\/docs\/getting-started",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

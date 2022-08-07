@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, India",
+    "Link": "https:\/\/data.gov.in\/",
+    "Description": "Indian Government Open Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.in\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

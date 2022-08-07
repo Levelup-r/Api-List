@@ -1,0 +1,11 @@
+{
+    "Name": "Meetup.com",
+    "Link": "https:\/\/www.meetup.com\/api\/guide",
+    "Description": "Data about Meetups from Meetup.com",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.meetup.com\/api\/guide",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

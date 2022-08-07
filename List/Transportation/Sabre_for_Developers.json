@@ -1,0 +1,11 @@
+{
+    "Name": "Sabre for Developers",
+    "Link": "https:\/\/developer.sabre.com\/guides\/travel-agency\/quickstart\/getting-started-in-travel",
+    "Description": "Travel Search - Limited usage",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.sabre.com\/guides\/travel-agency\/quickstart\/getting-started-in-travel",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

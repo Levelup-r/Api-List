@@ -1,0 +1,11 @@
+{
+    "Name": "Drivet URL Shortener",
+    "Link": "https:\/\/wiki.drivet.xyz\/en\/url-shortener\/add-links",
+    "Description": "Shorten a long URL easily and fast",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wiki.drivet.xyz\/en\/url-shortener\/add-links",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

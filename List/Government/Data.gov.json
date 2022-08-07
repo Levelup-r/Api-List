@@ -1,0 +1,11 @@
+{
+    "Name": "Data.gov",
+    "Link": "https:\/\/api.data.gov\/",
+    "Description": "US Government Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.data.gov\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

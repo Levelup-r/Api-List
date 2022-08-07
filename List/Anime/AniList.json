@@ -1,0 +1,11 @@
+{
+    "Name": "AniList",
+    "Link": "https:\/\/github.com\/AniList\/ApiV2-GraphQL-Docs",
+    "Description": "Anime discovery & tracking",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/AniList\/ApiV2-GraphQL-Docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

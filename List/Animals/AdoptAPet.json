@@ -1,0 +1,11 @@
+{
+    "Name": "AdoptAPet",
+    "Link": "https:\/\/www.adoptapet.com\/public\/apis\/pet_list.html",
+    "Description": "Resource to help get pets adopted",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.adoptapet.com\/public\/apis\/pet_list.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

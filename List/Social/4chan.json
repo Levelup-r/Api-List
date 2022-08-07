@@ -1,0 +1,11 @@
+{
+    "Name": "4chan",
+    "Link": "https:\/\/github.com\/4chan\/4chan-API",
+    "Description": "Simple image-based bulletin board dedicated to a variety of topics",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/4chan\/4chan-API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

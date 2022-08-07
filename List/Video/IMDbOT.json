@@ -1,0 +1,11 @@
+{
+    "Name": "IMDbOT",
+    "Link": "https:\/\/github.com\/SpEcHiDe\/IMDbOT",
+    "Description": "Unofficial IMDb Movie \/ Series Information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/SpEcHiDe\/IMDbOT",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

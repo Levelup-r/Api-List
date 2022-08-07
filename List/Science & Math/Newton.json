@@ -1,0 +1,11 @@
+{
+    "Name": "Newton",
+    "Link": "https:\/\/newton.vercel.app",
+    "Description": "Symbolic and Arithmetic Math Calculator",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/newton.vercel.app",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

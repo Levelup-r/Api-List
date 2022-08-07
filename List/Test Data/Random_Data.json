@@ -1,0 +1,11 @@
+{
+    "Name": "Random Data",
+    "Link": "https:\/\/random-data-api.com",
+    "Description": "Random data generator",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/random-data-api.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

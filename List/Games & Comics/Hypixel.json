@@ -1,0 +1,11 @@
+{
+    "Name": "Hypixel",
+    "Link": "https:\/\/api.hypixel.net\/",
+    "Description": "Hypixel player stats",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.hypixel.net\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

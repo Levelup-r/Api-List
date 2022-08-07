@@ -1,0 +1,11 @@
+{
+    "Name": "Buddy",
+    "Link": "https:\/\/buddy.works\/docs\/api\/getting-started\/overview",
+    "Description": "The fastest continuous integration and continuous delivery platform",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/buddy.works\/docs\/api\/getting-started\/overview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

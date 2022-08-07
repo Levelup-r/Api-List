@@ -1,0 +1,11 @@
+{
+    "Name": "US Autocomplete",
+    "Link": "https:\/\/www.smarty.com\/docs\/cloud\/us-autocomplete-pro-api",
+    "Description": "Enter address data quickly with real-time address suggestions",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.smarty.com\/docs\/cloud\/us-autocomplete-pro-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

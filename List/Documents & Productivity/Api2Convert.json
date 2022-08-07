@@ -1,0 +1,11 @@
+{
+    "Name": "Api2Convert",
+    "Link": "https:\/\/www.api2convert.com\/",
+    "Description": "Online File Conversion API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.api2convert.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

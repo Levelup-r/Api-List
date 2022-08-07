@@ -1,0 +1,11 @@
+{
+    "Name": "Mailchimp",
+    "Link": "https:\/\/mailchimp.com\/developer\/",
+    "Description": "Send marketing campaigns and transactional mails",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mailchimp.com\/developer\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Code Detection API",
+    "Link": "https:\/\/codedetectionapi.runtime.dev",
+    "Description": "Detect, label, format and enrich the code in your app or in your data pipeline",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/codedetectionapi.runtime.dev",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

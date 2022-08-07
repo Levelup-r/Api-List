@@ -1,0 +1,11 @@
+{
+    "Name": "Geodata.gov.gr",
+    "Link": "https:\/\/geodata.gov.gr\/en\/",
+    "Description": "Open geospatial data and API service for Greece",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/geodata.gov.gr\/en\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Code::Stats",
+    "Link": "https:\/\/codestats.net\/api-docs",
+    "Description": "Automatic time tracking for programmers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/codestats.net\/api-docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

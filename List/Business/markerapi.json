@@ -1,0 +1,11 @@
+{
+    "Name": "markerapi",
+    "Link": "https:\/\/markerapi.com",
+    "Description": "Trademark Search",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/markerapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

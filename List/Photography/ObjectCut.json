@@ -1,0 +1,11 @@
+{
+    "Name": "ObjectCut",
+    "Link": "https:\/\/objectcut.com\/",
+    "Description": "Image Background removal",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/objectcut.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Changelogs.md",
+    "Link": "https:\/\/changelogs.md",
+    "Description": "Structured changelog metadata from open source projects",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/changelogs.md",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

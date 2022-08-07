@@ -1,0 +1,11 @@
+{
+    "Name": "ORB Intelligence",
+    "Link": "https:\/\/api.orb-intelligence.com\/docs\/",
+    "Description": "Company lookup",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.orb-intelligence.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

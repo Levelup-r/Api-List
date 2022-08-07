@@ -1,0 +1,11 @@
+{
+    "Name": "Google Books",
+    "Link": "https:\/\/developers.google.com\/books\/",
+    "Description": "Books",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/books\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

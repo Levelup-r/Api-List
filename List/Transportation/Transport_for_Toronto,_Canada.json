@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Toronto, Canada",
+    "Link": "https:\/\/myttc.ca\/developers",
+    "Description": "TTC",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/myttc.ca\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

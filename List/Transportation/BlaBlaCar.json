@@ -1,0 +1,11 @@
+{
+    "Name": "BlaBlaCar",
+    "Link": "https:\/\/dev.blablacar.com",
+    "Description": "Search car sharing trips",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dev.blablacar.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

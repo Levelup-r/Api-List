@@ -1,0 +1,11 @@
+{
+    "Name": "TVMaze",
+    "Link": "http:\/\/www.tvmaze.com\/api",
+    "Description": "TV Show Data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.tvmaze.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

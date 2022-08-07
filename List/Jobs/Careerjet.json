@@ -1,0 +1,11 @@
+{
+    "Name": "Careerjet",
+    "Link": "https:\/\/www.careerjet.com\/partners\/api\/",
+    "Description": "Job search engine",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.careerjet.com\/partners\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

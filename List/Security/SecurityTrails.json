@@ -1,0 +1,11 @@
+{
+    "Name": "SecurityTrails",
+    "Link": "https:\/\/securitytrails.com\/corp\/apidocs",
+    "Description": "Domain and IP related information such as current and historical WHOIS and DNS records",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/securitytrails.com\/corp\/apidocs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

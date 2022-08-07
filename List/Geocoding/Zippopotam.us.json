@@ -1,0 +1,11 @@
+{
+    "Name": "Zippopotam.us",
+    "Link": "http:\/\/www.zippopotam.us",
+    "Description": "Get information about place such as country, city, state, etc",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.zippopotam.us",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

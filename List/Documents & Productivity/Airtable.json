@@ -1,0 +1,11 @@
+{
+    "Name": "Airtable",
+    "Link": "https:\/\/airtable.com\/api",
+    "Description": "Integrate with Airtable",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/airtable.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

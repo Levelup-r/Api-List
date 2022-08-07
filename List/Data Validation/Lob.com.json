@@ -1,0 +1,11 @@
+{
+    "Name": "Lob.com",
+    "Link": "https:\/\/lob.com\/",
+    "Description": "US Address Verification",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/lob.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

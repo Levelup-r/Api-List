@@ -1,0 +1,11 @@
+{
+    "Name": "Best Buy",
+    "Link": "https:\/\/bestbuyapis.github.io\/api-documentation\/#overview",
+    "Description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bestbuyapis.github.io\/api-documentation\/#overview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

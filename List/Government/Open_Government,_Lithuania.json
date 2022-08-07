@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Lithuania",
+    "Link": "https:\/\/data.gov.lt\/public\/api\/1",
+    "Description": "Lithuania Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.lt\/public\/api\/1",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "QuickChart",
+    "Link": "https:\/\/quickchart.io\/",
+    "Description": "Generate chart and graph images",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/quickchart.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

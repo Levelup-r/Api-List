@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Finland",
+    "Link": "https:\/\/digitransit.fi\/en\/developers\/ ",
+    "Description": "Finnish transport API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/digitransit.fi\/en\/developers\/ ",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "PoetryDB",
+    "Link": "https:\/\/github.com\/thundercomb\/poetrydb#readme",
+    "Description": "Enables you to get instant data from our vast poetry collection",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/thundercomb\/poetrydb#readme",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

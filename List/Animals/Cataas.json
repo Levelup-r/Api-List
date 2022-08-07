@@ -1,0 +1,11 @@
+{
+    "Name": "Cataas",
+    "Link": "https:\/\/cataas.com\/",
+    "Description": "Cat as a service (cats pictures and gifs)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/cataas.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

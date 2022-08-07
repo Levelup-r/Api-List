@@ -1,0 +1,11 @@
+{
+    "Name": "FRED",
+    "Link": "https:\/\/fred.stlouisfed.org\/docs\/api\/fred\/",
+    "Description": "Economic data from the Federal Reserve Bank of St. Louis",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/fred.stlouisfed.org\/docs\/api\/fred\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

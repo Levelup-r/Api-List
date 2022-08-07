@@ -1,0 +1,11 @@
+{
+    "Name": "ITIS",
+    "Link": "https:\/\/www.itis.gov\/ws_description.html",
+    "Description": "Integrated Taxonomic Information System",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.itis.gov\/ws_description.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

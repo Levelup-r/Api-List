@@ -1,0 +1,11 @@
+{
+    "Name": "Non-Working Days",
+    "Link": "https:\/\/isdayoff.ru",
+    "Description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/isdayoff.ru",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Hasura",
+    "Link": "https:\/\/hasura.io\/opensource\/",
+    "Description": "GraphQL and REST API Engine with built in Authorization",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/hasura.io\/opensource\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

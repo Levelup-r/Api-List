@@ -1,0 +1,11 @@
+{
+    "Name": "Railway Transport for France",
+    "Link": "https:\/\/www.digital.sncf.com\/startup\/api",
+    "Description": "SNCF public API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.digital.sncf.com\/startup\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

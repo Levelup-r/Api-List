@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Queensland Government",
+    "Link": "https:\/\/www.data.qld.gov.au\/",
+    "Description": "Queensland Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.qld.gov.au\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

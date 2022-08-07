@@ -1,0 +1,11 @@
+{
+    "Name": "Banco do Brasil",
+    "Link": "https:\/\/developers.bb.com.br\/home",
+    "Description": "All Banco do Brasil financial transaction APIs",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developers.bb.com.br\/home",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

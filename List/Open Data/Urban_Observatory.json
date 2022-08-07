@@ -1,0 +1,11 @@
+{
+    "Name": "Urban Observatory",
+    "Link": "https:\/\/urbanobservatory.ac.uk",
+    "Description": "The largest set of publicly available real time urban data in the UK",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "https:\/\/urbanobservatory.ac.uk",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

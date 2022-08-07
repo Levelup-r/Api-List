@@ -1,0 +1,11 @@
+{
+    "Name": "Random Stuff",
+    "Link": "https:\/\/api-docs.pgamerx.com\/",
+    "Description": "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api-docs.pgamerx.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

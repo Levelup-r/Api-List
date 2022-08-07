@@ -1,0 +1,11 @@
+{
+    "Name": "Localbitcoins",
+    "Link": "https:\/\/localbitcoins.com\/api-docs\/",
+    "Description": "P2P platform to buy and sell Bitcoins",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/localbitcoins.com\/api-docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

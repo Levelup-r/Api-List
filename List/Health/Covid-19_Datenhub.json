@@ -1,0 +1,11 @@
+{
+    "Name": "Covid-19 Datenhub",
+    "Link": "https:\/\/npgeo-corona-npgeo-de.hub.arcgis.com",
+    "Description": "Maps, datasets, applications and more in the context of COVID-19",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/npgeo-corona-npgeo-de.hub.arcgis.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

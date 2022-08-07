@@ -1,0 +1,11 @@
+{
+    "Name": "Chinese Character Web",
+    "Link": "http:\/\/ccdb.hemiola.com\/",
+    "Description": "Chinese character definitions and pronunciations",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "http:\/\/ccdb.hemiola.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

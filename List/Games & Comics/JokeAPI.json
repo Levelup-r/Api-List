@@ -1,0 +1,11 @@
+{
+    "Name": "JokeAPI",
+    "Link": "https:\/\/sv443.net\/jokeapi\/v2\/",
+    "Description": "Programming, Miscellaneous and Dark Jokes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/sv443.net\/jokeapi\/v2\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

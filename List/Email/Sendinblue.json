@@ -1,0 +1,11 @@
+{
+    "Name": "Sendinblue",
+    "Link": "https:\/\/developers.sendinblue.com\/docs",
+    "Description": "A service that provides solutions relating to marketing and\/or transactional email and\/or SMS",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.sendinblue.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

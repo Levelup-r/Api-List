@@ -1,0 +1,11 @@
+{
+    "Name": "Yelp",
+    "Link": "https:\/\/www.yelp.com\/developers\/documentation\/v3",
+    "Description": "Find Local Business",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.yelp.com\/developers\/documentation\/v3",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

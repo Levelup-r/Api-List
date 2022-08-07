@@ -1,0 +1,11 @@
+{
+    "Name": "Longdo Map",
+    "Link": "https:\/\/map.longdo.com\/docs\/",
+    "Description": "Interactive map with detailed places and information portal in Thailand",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/map.longdo.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

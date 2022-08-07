@@ -1,0 +1,11 @@
+{
+    "Name": "AccuWeather",
+    "Link": "https:\/\/developer.accuweather.com\/apis",
+    "Description": "Weather and forecast data",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.accuweather.com\/apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

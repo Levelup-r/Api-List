@@ -1,0 +1,11 @@
+{
+    "Name": "Google Photos",
+    "Link": "https:\/\/developers.google.com\/photos",
+    "Description": "Integrate Google Photos with your apps or devices",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/photos",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

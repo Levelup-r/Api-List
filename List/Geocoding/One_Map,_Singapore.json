@@ -1,0 +1,11 @@
+{
+    "Name": "One Map, Singapore",
+    "Link": "https:\/\/www.onemap.gov.sg\/docs\/",
+    "Description": "Singapore Land Authority REST API services for Singapore addresses",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.onemap.gov.sg\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

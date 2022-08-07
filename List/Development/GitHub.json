@@ -1,0 +1,11 @@
+{
+    "Name": "GitHub",
+    "Link": "https:\/\/docs.github.com\/en\/free-pro-team@latest\/rest",
+    "Description": "Make use of GitHub repositories, code and user info programmatically",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.github.com\/en\/free-pro-team@latest\/rest",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

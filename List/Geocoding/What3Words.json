@@ -1,0 +1,11 @@
+{
+    "Name": "What3Words",
+    "Link": "https:\/\/what3words.com",
+    "Description": "Three words as rememberable and unique coordinates worldwide",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/what3words.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Excuser",
+    "Link": "https:\/\/excuser.herokuapp.com\/",
+    "Description": "Get random excuses for various situations",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/excuser.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

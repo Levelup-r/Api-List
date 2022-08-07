@@ -1,0 +1,11 @@
+{
+    "Name": "Adzuna",
+    "Link": "https:\/\/developer.adzuna.com\/overview",
+    "Description": "Job board aggregator",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.adzuna.com\/overview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

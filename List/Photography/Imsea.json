@@ -1,0 +1,11 @@
+{
+    "Name": "Imsea",
+    "Link": "https:\/\/imsea.herokuapp.com\/",
+    "Description": "Free image search",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/imsea.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

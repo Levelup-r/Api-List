@@ -1,0 +1,11 @@
+{
+    "Name": "Currencylayer",
+    "Link": "https:\/\/currencylayer.com\/documentation",
+    "Description": "Exchange rates and currency conversion",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/currencylayer.com\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

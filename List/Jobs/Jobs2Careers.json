@@ -1,0 +1,11 @@
+{
+    "Name": "Jobs2Careers",
+    "Link": "http:\/\/api.jobs2careers.com\/api\/spec.pdf",
+    "Description": "Job aggregator",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/api.jobs2careers.com\/api\/spec.pdf",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

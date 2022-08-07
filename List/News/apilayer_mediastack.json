@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer mediastack",
+    "Link": "https:\/\/mediastack.com\/",
+    "Description": "Free, Simple REST API for Live News & Blog Articles",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mediastack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

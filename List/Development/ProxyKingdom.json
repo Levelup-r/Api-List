@@ -1,0 +1,11 @@
+{
+    "Name": "ProxyKingdom",
+    "Link": "https:\/\/proxykingdom.com",
+    "Description": "Rotating Proxy API that produces a working proxy on every request",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/proxykingdom.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

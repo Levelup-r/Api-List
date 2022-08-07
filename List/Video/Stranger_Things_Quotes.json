@@ -1,0 +1,11 @@
+{
+    "Name": "Stranger Things Quotes",
+    "Link": "https:\/\/github.com\/shadowoff09\/strangerthings-quotes",
+    "Description": "Returns Stranger Things quotes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/shadowoff09\/strangerthings-quotes",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Programming Quotes",
+    "Link": "https:\/\/github.com\/skolakoda\/programming-quotes-api",
+    "Description": "Programming Quotes API for open source projects",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/skolakoda\/programming-quotes-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

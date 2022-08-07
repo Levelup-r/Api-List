@@ -1,0 +1,11 @@
+{
+    "Name": "Klarna",
+    "Link": "https:\/\/docs.klarna.com\/klarna-payments\/api\/payments-api\/",
+    "Description": "Klarna payment and shopping service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.klarna.com\/klarna-payments\/api\/payments-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

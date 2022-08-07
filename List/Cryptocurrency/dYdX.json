@@ -1,0 +1,11 @@
+{
+    "Name": "dYdX",
+    "Link": "https:\/\/docs.dydx.exchange\/",
+    "Description": "Decentralized cryptocurrency exchange",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.dydx.exchange\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

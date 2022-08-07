@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer weatherstack",
+    "Link": "https:\/\/weatherstack.com\/",
+    "Description": "Real-Time & Historical World Weather Data API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/weatherstack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

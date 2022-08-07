@@ -1,0 +1,11 @@
+{
+    "Name": "Qrcode Monkey",
+    "Link": "https:\/\/www.qrcode-monkey.com\/qr-code-api-with-logo\/",
+    "Description": "Integrate custom and unique looking QR codes into your system or workflow",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.qrcode-monkey.com\/qr-code-api-with-logo\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

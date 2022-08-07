@@ -1,0 +1,11 @@
+{
+    "Name": "Riot Games",
+    "Link": "https:\/\/developer.riotgames.com\/",
+    "Description": "League of Legends Game Information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.riotgames.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "GETPing",
+    "Link": "https:\/\/www.getping.info",
+    "Description": "Trigger an email notification with a simple GET request",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.getping.info",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "SpotSense",
+    "Link": "https:\/\/spotsense.io\/",
+    "Description": "Add location based interactions to your mobile app",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/spotsense.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

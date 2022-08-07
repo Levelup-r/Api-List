@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Korea",
+    "Link": "https:\/\/www.data.go.kr\/",
+    "Description": "Korea Government Open Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.go.kr\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

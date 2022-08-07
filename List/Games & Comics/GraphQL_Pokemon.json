@@ -1,0 +1,11 @@
+{
+    "Name": "GraphQL Pokemon",
+    "Link": "https:\/\/github.com\/favware\/graphql-pokemon",
+    "Description": "GraphQL powered Pokemon API. Supports generations 1 through 8",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/favware\/graphql-pokemon",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Redash",
+    "Link": "https:\/\/redash.io\/help\/user-guide\/integrations-and-api\/api",
+    "Description": "Access your queries and dashboards on Redash",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/redash.io\/help\/user-guide\/integrations-and-api\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

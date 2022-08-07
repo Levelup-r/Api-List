@@ -1,0 +1,11 @@
+{
+    "Name": "Stytch",
+    "Link": "https:\/\/stytch.com\/",
+    "Description": "User infrastructure for modern applications",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/stytch.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

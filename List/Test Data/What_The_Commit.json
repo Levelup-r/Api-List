@@ -1,0 +1,11 @@
+{
+    "Name": "What The Commit",
+    "Link": "http:\/\/whatthecommit.com\/index.txt",
+    "Description": "Random commit message generator",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Yes |",
+    "Docs": "http:\/\/whatthecommit.com\/index.txt",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

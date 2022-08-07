@@ -1,0 +1,11 @@
+{
+    "Name": "Flickr",
+    "Link": "https:\/\/www.flickr.com\/services\/api\/",
+    "Description": "Flickr Services",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.flickr.com\/services\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

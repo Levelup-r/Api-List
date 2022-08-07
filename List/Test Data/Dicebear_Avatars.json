@@ -1,0 +1,11 @@
+{
+    "Name": "Dicebear Avatars",
+    "Link": "https:\/\/avatars.dicebear.com\/",
+    "Description": "Generate random pixel-art avatars",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/avatars.dicebear.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

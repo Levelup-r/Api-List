@@ -1,0 +1,11 @@
+{
+    "Name": "INEI",
+    "Link": "http:\/\/iinei.inei.gob.pe\/microdatos\/",
+    "Description": "Peruvian Statistical Government Open Data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/iinei.inei.gob.pe\/microdatos\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "DynaPictures",
+    "Link": "https:\/\/dynapictures.com\/docs\/",
+    "Description": "Generate Hundreds of Personalized Images in Minutes",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/dynapictures.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

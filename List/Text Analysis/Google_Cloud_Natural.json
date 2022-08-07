@@ -1,0 +1,11 @@
+{
+    "Name": "Google Cloud Natural",
+    "Link": "https:\/\/cloud.google.com\/natural-language\/docs\/",
+    "Description": "Natural language understanding technology, including sentiment, entity and syntax analysis",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/cloud.google.com\/natural-language\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

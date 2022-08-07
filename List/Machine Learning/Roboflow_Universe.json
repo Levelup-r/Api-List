@@ -1,0 +1,11 @@
+{
+    "Name": "Roboflow Universe",
+    "Link": "https:\/\/universe.roboflow.com",
+    "Description": "Pre-trained computer vision models",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/universe.roboflow.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

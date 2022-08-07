@@ -1,0 +1,11 @@
+{
+    "Name": "Pusher Beams",
+    "Link": "https:\/\/pusher.com\/beams",
+    "Description": "Push notifications for Android & iOS",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pusher.com\/beams",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

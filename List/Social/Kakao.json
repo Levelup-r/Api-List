@@ -1,0 +1,11 @@
+{
+    "Name": "Kakao",
+    "Link": "https:\/\/developers.kakao.com\/",
+    "Description": "Kakao Login, Share on KakaoTalk, Social Plugins and more",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.kakao.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

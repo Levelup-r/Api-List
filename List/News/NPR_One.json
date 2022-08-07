@@ -1,0 +1,11 @@
+{
+    "Name": "NPR One",
+    "Link": "http:\/\/dev.npr.org\/api\/",
+    "Description": "Personalized news listening experience from NPR",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/dev.npr.org\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

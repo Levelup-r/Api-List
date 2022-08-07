@@ -1,0 +1,11 @@
+{
+    "Name": "Bank of Russia",
+    "Link": "https:\/\/www.cbr.ru\/development\/SXML\/",
+    "Description": "Exchange rates and currency conversion",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.cbr.ru\/development\/SXML\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

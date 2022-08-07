@@ -1,0 +1,11 @@
+{
+    "Name": "Clockify",
+    "Link": "https:\/\/clockify.me\/developers-api ",
+    "Description": "Clockify's REST-based API can be used to push\/pull data to\/from it & integrate it with other systems",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/clockify.me\/developers-api ",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

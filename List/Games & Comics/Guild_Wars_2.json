@@ -1,0 +1,11 @@
+{
+    "Name": "Guild Wars 2",
+    "Link": "https:\/\/wiki.guildwars2.com\/wiki\/API:Main",
+    "Description": "Guild Wars 2 Game Information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wiki.guildwars2.com\/wiki\/API:Main",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

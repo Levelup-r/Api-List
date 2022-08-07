@@ -1,0 +1,11 @@
+{
+    "Name": "FreeToGame",
+    "Link": "https:\/\/www.freetogame.com\/api-doc",
+    "Description": "Free-To-Play Games Database",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.freetogame.com\/api-doc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

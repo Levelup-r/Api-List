@@ -1,0 +1,11 @@
+{
+    "Name": "Launch Library 2",
+    "Link": "https:\/\/thespacedevs.com\/llapi",
+    "Description": "Spaceflight launches and events database",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/thespacedevs.com\/llapi",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

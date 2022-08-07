@@ -1,0 +1,11 @@
+{
+    "Name": "Icelandic APIs",
+    "Link": "http:\/\/docs.apis.is\/",
+    "Description": "Open APIs that deliver services in or regarding Iceland",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/docs.apis.is\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

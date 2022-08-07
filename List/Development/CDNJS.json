@@ -1,0 +1,11 @@
+{
+    "Name": "CDNJS",
+    "Link": "https:\/\/api.cdnjs.com\/libraries\/jquery",
+    "Description": "Library info on CDNJS",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.cdnjs.com\/libraries\/jquery",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

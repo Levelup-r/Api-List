@@ -1,0 +1,11 @@
+{
+    "Name": "Tomba email finder",
+    "Link": "https:\/\/tomba.io\/api",
+    "Description": "Email Finder for B2B sales and email marketing and email verifier",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/tomba.io\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

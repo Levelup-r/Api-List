@@ -1,0 +1,11 @@
+{
+    "Name": "Imgflip",
+    "Link": "https:\/\/imgflip.com\/api",
+    "Description": "Gets an array of popular memes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/imgflip.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

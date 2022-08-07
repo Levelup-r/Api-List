@@ -1,0 +1,11 @@
+{
+    "Name": "Advice Slip",
+    "Link": "http:\/\/api.adviceslip.com\/",
+    "Description": "Generate random advice slips",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/api.adviceslip.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

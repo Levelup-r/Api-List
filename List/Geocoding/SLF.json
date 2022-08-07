@@ -1,0 +1,11 @@
+{
+    "Name": "SLF",
+    "Link": "https:\/\/github.com\/slftool\/slftool.github.io\/blob\/master\/API.md",
+    "Description": "German city, country, river, database",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/slftool\/slftool.github.io\/blob\/master\/API.md",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

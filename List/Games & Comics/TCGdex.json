@@ -1,0 +1,11 @@
+{
+    "Name": "TCGdex",
+    "Link": "https:\/\/www.tcgdex.net\/docs",
+    "Description": "Multi languages Pok\u00e9mon TCG Information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.tcgdex.net\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

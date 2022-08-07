@@ -1,0 +1,11 @@
+{
+    "Name": "Zoo Animals",
+    "Link": "https:\/\/zoo-animal-api.herokuapp.com\/",
+    "Description": "Facts and pictures of zoo animals",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/zoo-animal-api.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

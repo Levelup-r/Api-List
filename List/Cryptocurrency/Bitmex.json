@@ -1,0 +1,11 @@
+{
+    "Name": "Bitmex",
+    "Link": "https:\/\/www.bitmex.com\/app\/apiOverview",
+    "Description": "Real-Time Cryptocurrency derivatives trading platform based in Hong Kong",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.bitmex.com\/app\/apiOverview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

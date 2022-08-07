@@ -1,0 +1,11 @@
+{
+    "Name": "Telize",
+    "Link": "https:\/\/rapidapi.com\/fcambus\/api\/telize\/",
+    "Description": "Telize offers location information from any IP address",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/rapidapi.com\/fcambus\/api\/telize\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

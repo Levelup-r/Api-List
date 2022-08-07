@@ -1,0 +1,11 @@
+{
+    "Name": "Hirak Translation",
+    "Link": "https:\/\/translate.hirak.site\/",
+    "Description": "Translate between 21 of most used languages, accurate, unlimited requests",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/translate.hirak.site\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

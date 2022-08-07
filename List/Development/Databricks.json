@@ -1,0 +1,11 @@
+{
+    "Name": "Databricks",
+    "Link": "https:\/\/docs.databricks.com\/dev-tools\/api\/latest\/index.html",
+    "Description": "Service to manage your databricks account,clusters, notebooks, jobs and workspaces",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.databricks.com\/dev-tools\/api\/latest\/index.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

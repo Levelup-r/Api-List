@@ -1,0 +1,11 @@
+{
+    "Name": "IPGEO",
+    "Link": "https:\/\/api.techniknews.net\/ipgeo\/",
+    "Description": "Unlimited free IP Address API with useful information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.techniknews.net\/ipgeo\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

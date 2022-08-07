@@ -1,0 +1,11 @@
+{
+    "Name": "Uebermaps",
+    "Link": "https:\/\/uebermaps.com\/api\/v2",
+    "Description": "Discover and share maps with friends",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/uebermaps.com\/api\/v2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

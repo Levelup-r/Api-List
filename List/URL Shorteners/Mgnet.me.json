@@ -1,0 +1,11 @@
+{
+    "Name": "Mgnet.me",
+    "Link": "http:\/\/mgnet.me\/api.html",
+    "Description": "Torrent URL shorten API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "http:\/\/mgnet.me\/api.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

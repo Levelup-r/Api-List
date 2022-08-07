@@ -1,0 +1,11 @@
+{
+    "Name": "openSenseMap",
+    "Link": "https:\/\/api.opensensemap.org\/",
+    "Description": "Data from Personal Weather Stations called senseBoxes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.opensensemap.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

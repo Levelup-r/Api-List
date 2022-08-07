@@ -1,0 +1,11 @@
+{
+    "Name": "Covid-19 India",
+    "Link": "https:\/\/data.covid19india.org\/",
+    "Description": "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.covid19india.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

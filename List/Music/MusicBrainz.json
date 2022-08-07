@@ -1,0 +1,11 @@
+{
+    "Name": "MusicBrainz",
+    "Link": "https:\/\/musicbrainz.org\/doc\/Development\/XML_Web_Service\/Version_2",
+    "Description": "Music",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/musicbrainz.org\/doc\/Development\/XML_Web_Service\/Version_2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

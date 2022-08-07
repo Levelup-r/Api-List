@@ -1,0 +1,11 @@
+{
+    "Name": "7digital",
+    "Link": "https:\/\/docs.7digital.com\/reference",
+    "Description": "Api of Music store 7digital",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.7digital.com\/reference",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

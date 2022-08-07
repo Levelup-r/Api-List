@@ -1,0 +1,11 @@
+{
+    "Name": "USAJOBS",
+    "Link": "https:\/\/developer.usajobs.gov\/",
+    "Description": "US government job board",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.usajobs.gov\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

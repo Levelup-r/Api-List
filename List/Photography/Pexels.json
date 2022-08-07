@@ -1,0 +1,11 @@
+{
+    "Name": "Pexels",
+    "Link": "https:\/\/www.pexels.com\/api\/",
+    "Description": "Free Stock Photos and Videos",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.pexels.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

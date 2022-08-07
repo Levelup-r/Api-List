@@ -1,0 +1,11 @@
+{
+    "Name": "Azure DevOps Health",
+    "Link": "https:\/\/docs.microsoft.com\/en-us\/rest\/api\/resourcehealth",
+    "Description": "Resource health helps you diagnose and get support when an Azure issue impacts your resources",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "https:\/\/docs.microsoft.com\/en-us\/rest\/api\/resourcehealth",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

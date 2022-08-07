@@ -1,0 +1,11 @@
+{
+    "Name": "SAWO Labs",
+    "Link": "https:\/\/sawolabs.com",
+    "Description": "Simplify login and improve user experience by integrating passwordless authentication in your app",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/sawolabs.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

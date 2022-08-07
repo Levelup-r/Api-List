@@ -1,0 +1,11 @@
+{
+    "Name": "MMO Games",
+    "Link": "https:\/\/www.mmobomb.com\/api",
+    "Description": "MMO Games Database, News and Giveaways",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.mmobomb.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

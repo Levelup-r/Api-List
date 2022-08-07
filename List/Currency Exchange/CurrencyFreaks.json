@@ -1,0 +1,11 @@
+{
+    "Name": "CurrencyFreaks",
+    "Link": "https:\/\/currencyfreaks.com\/",
+    "Description": "Provides current and historical currency exchange rates with free plan 1K requests\/month",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/currencyfreaks.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Nobel Prize",
+    "Link": "https:\/\/www.nobelprize.org\/about\/developer-zone-2\/",
+    "Description": "Open data about nobel prizes and events",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.nobelprize.org\/about\/developer-zone-2\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

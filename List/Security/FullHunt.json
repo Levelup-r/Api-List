@@ -1,0 +1,11 @@
+{
+    "Name": "FullHunt",
+    "Link": "https:\/\/api-docs.fullhunt.io\/#introduction",
+    "Description": "Searchable attack surface database of the entire internet",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api-docs.fullhunt.io\/#introduction",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

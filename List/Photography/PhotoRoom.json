@@ -1,0 +1,11 @@
+{
+    "Name": "PhotoRoom",
+    "Link": "https:\/\/www.photoroom.com\/api\/",
+    "Description": "Remove background from images",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.photoroom.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

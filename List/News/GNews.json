@@ -1,0 +1,11 @@
+{
+    "Name": "GNews",
+    "Link": "https:\/\/gnews.io\/",
+    "Description": "Search for news from various sources",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/gnews.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

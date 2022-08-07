@@ -1,0 +1,11 @@
+{
+    "Name": "Imagga",
+    "Link": "https:\/\/imagga.com\/",
+    "Description": "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/imagga.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

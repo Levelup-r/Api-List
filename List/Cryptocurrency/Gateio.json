@@ -1,0 +1,11 @@
+{
+    "Name": "Gateio",
+    "Link": "https:\/\/www.gate.io\/api2",
+    "Description": "API provides spot, margin and futures trading operations",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.gate.io\/api2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

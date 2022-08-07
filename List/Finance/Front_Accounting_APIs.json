@@ -1,0 +1,11 @@
+{
+    "Name": "Front Accounting APIs",
+    "Link": "https:\/\/frontaccounting.com\/fawiki\/index.php?n=Devel.SimpleAPIModule",
+    "Description": "Front accounting is multilingual and multicurrency software for small businesses",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/frontaccounting.com\/fawiki\/index.php?n=Devel.SimpleAPIModule",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "REST Countries",
+    "Link": "https:\/\/restcountries.com",
+    "Description": "Get information about countries via a RESTful API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/restcountries.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

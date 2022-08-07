@@ -1,0 +1,11 @@
+{
+    "Name": "Impala Hotel Bookings",
+    "Link": "https:\/\/docs.impala.travel\/docs\/booking-api\/",
+    "Description": "Hotel content, rates and room bookings",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/docs.impala.travel\/docs\/booking-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

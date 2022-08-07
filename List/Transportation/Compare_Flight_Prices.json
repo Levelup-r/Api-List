@@ -1,0 +1,11 @@
+{
+    "Name": "Compare Flight Prices",
+    "Link": "https:\/\/rapidapi.com\/obryan-software-obryan-software-default\/api\/compare-flight-prices\/",
+    "Description": "API for comparing flight prices across platforms",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/obryan-software-obryan-software-default\/api\/compare-flight-prices\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

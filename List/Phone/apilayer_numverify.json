@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer numverify",
+    "Link": "https:\/\/numverify.com",
+    "Description": "Phone number validation",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/numverify.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "National Bank of Poland",
+    "Link": "http:\/\/api.nbp.pl\/en.html",
+    "Description": "A collection of currency exchange rates (data in XML and JSON)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "http:\/\/api.nbp.pl\/en.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Veriphone",
+    "Link": "https:\/\/veriphone.io",
+    "Description": "Phone number validation & carrier lookup",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/veriphone.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

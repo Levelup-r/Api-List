@@ -1,0 +1,11 @@
+{
+    "Name": "Abstract VAT Validation",
+    "Link": "https:\/\/www.abstractapi.com\/vat-validation-rates-api",
+    "Description": "Validate VAT numbers and calculate VAT rates",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.abstractapi.com\/vat-validation-rates-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

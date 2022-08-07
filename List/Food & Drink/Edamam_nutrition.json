@@ -1,0 +1,11 @@
+{
+    "Name": "Edamam nutrition",
+    "Link": "https:\/\/developer.edamam.com\/edamam-docs-nutrition-api",
+    "Description": "Nutrition Analysis",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.edamam.com\/edamam-docs-nutrition-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

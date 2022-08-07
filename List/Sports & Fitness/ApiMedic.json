@@ -1,0 +1,11 @@
+{
+    "Name": "ApiMedic",
+    "Link": "https:\/\/apimedic.com\/",
+    "Description": "ApiMedic offers a medical symptom checker API primarily for patients",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apimedic.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

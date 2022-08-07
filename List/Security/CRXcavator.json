@@ -1,0 +1,11 @@
+{
+    "Name": "CRXcavator",
+    "Link": "https:\/\/crxcavator.io\/apidocs",
+    "Description": "Chrome extension risk scoring",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/crxcavator.io\/apidocs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

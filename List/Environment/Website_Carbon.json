@@ -1,0 +1,11 @@
+{
+    "Name": "Website Carbon",
+    "Link": "https:\/\/api.websitecarbon.com\/",
+    "Description": "API to estimate the carbon footprint of loading web pages",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.websitecarbon.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "chucknorris.io",
+    "Link": "https:\/\/api.chucknorris.io",
+    "Description": "JSON API for hand curated Chuck Norris jokes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.chucknorris.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

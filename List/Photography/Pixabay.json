@@ -1,0 +1,11 @@
+{
+    "Name": "Pixabay",
+    "Link": "https:\/\/pixabay.com\/sk\/service\/about\/api\/",
+    "Description": "Photography",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pixabay.com\/sk\/service\/about\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

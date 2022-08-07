@@ -1,0 +1,11 @@
+{
+    "Name": "Waifu.pics",
+    "Link": "https:\/\/waifu.pics\/docs",
+    "Description": "Image sharing platform for anime images",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/waifu.pics\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "WakaTime",
+    "Link": "https:\/\/wakatime.com\/developers",
+    "Description": "Automated time tracking leaderboards for programmers",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wakatime.com\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

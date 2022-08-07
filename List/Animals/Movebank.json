@@ -1,0 +1,11 @@
+{
+    "Name": "Movebank",
+    "Link": "https:\/\/github.com\/movebank\/movebank-api-doc",
+    "Description": "Movement and Migration data of animals",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/movebank\/movebank-api-doc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

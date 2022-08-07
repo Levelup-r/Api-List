@@ -1,0 +1,11 @@
+{
+    "Name": "City, Prague Open Data",
+    "Link": "http:\/\/opendata.praha.eu\/en",
+    "Description": "Prague(CZ) City Open Data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/opendata.praha.eu\/en",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

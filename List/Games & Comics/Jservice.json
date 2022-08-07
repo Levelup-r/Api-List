@@ -1,0 +1,11 @@
+{
+    "Name": "Jservice",
+    "Link": "http:\/\/jservice.io",
+    "Description": "Jeopardy Question Database",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/jservice.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

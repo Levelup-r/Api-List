@@ -1,0 +1,11 @@
+{
+    "Name": "Crafatar",
+    "Link": "https:\/\/crafatar.com",
+    "Description": "API for Minecraft skins and faces",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/crafatar.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "AIS Hub",
+    "Link": "http:\/\/www.aishub.net\/api",
+    "Description": "Real-time data of any marine and inland vessel equipped with AIS tracking system",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.aishub.net\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

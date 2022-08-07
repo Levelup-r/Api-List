@@ -1,0 +1,11 @@
+{
+    "Name": "Google Firebase",
+    "Link": "https:\/\/firebase.google.com\/docs",
+    "Description": "Google's mobile application development platform that helps build, improve, and grow app",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/firebase.google.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Nordigen",
+    "Link": "https:\/\/nordigen.com\/en\/account_information_documenation\/integration\/quickstart_guide\/",
+    "Description": "Connect to bank accounts using official bank APIs and get raw transaction data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/nordigen.com\/en\/account_information_documenation\/integration\/quickstart_guide\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

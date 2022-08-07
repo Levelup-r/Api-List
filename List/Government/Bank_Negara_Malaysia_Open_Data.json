@@ -1,0 +1,11 @@
+{
+    "Name": "Bank Negara Malaysia Open Data",
+    "Link": "https:\/\/apikijangportal.bnm.gov.my\/",
+    "Description": "Malaysia Central Bank Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apikijangportal.bnm.gov.my\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

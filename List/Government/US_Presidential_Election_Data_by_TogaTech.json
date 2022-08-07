@@ -1,0 +1,11 @@
+{
+    "Name": "US Presidential Election Data by TogaTech",
+    "Link": "https:\/\/uselection.togatech.org\/api\/",
+    "Description": "Basic candidate data and live electoral vote counts for top two parties in US presidential election",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/uselection.togatech.org\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

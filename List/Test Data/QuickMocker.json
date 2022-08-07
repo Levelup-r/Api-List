@@ -1,0 +1,11 @@
+{
+    "Name": "QuickMocker",
+    "Link": "https:\/\/quickmocker.com",
+    "Description": "API mocking tool to generate contextual, fake or random data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/quickmocker.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

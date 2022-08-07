@@ -1,0 +1,11 @@
+{
+    "Name": "AI For Thai",
+    "Link": "https:\/\/aiforthai.in.th\/index.php",
+    "Description": "Free Various Thai AI API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/aiforthai.in.th\/index.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

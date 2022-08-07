@@ -1,0 +1,11 @@
+{
+    "Name": "National Park Service, US",
+    "Link": "https:\/\/www.nps.gov\/subjects\/developer\/",
+    "Description": "Data from the US National Park Service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.nps.gov\/subjects\/developer\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

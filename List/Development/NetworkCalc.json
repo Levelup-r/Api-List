@@ -1,0 +1,11 @@
+{
+    "Name": "NetworkCalc",
+    "Link": "https:\/\/networkcalc.com\/api\/docs",
+    "Description": "Network calculators, including subnets, DNS, binary, and security tools",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/networkcalc.com\/api\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

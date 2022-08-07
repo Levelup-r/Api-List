@@ -1,0 +1,11 @@
+{
+    "Name": "STAPI",
+    "Link": "http:\/\/stapi.co",
+    "Description": "Information on all things Star Trek",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "http:\/\/stapi.co",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

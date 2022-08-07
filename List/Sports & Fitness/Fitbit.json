@@ -1,0 +1,11 @@
+{
+    "Name": "Fitbit",
+    "Link": "https:\/\/dev.fitbit.com\/",
+    "Description": "Fitbit Information",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dev.fitbit.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

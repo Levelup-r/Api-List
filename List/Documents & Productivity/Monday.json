@@ -1,0 +1,11 @@
+{
+    "Name": "Monday",
+    "Link": "https:\/\/api.developer.monday.com\/docs",
+    "Description": "Programmatically access and update data inside a monday.com account",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.developer.monday.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

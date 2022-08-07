@@ -1,0 +1,11 @@
+{
+    "Name": "SpaceX",
+    "Link": "https:\/\/api.spacex.land\/graphql\/",
+    "Description": "GraphQL, Company, Ships, launchpad and launch data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.spacex.land\/graphql\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Trove",
+    "Link": "https:\/\/trove.nla.gov.au\/about\/create-something\/using-api",
+    "Description": "Search through the National Library of Australia collection of 1000s of digitised newspapers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/trove.nla.gov.au\/about\/create-something\/using-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

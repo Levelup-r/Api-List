@@ -1,0 +1,11 @@
+{
+    "Name": "SonarQube",
+    "Link": "https:\/\/sonarcloud.io\/web_api",
+    "Description": "SonarQube REST APIs to detect bugs, code smells & security vulnerabilities",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/sonarcloud.io\/web_api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

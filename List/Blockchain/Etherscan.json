@@ -1,0 +1,11 @@
+{
+    "Name": "Etherscan",
+    "Link": "https:\/\/etherscan.io\/apis",
+    "Description": "Ethereum explorer API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/etherscan.io\/apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

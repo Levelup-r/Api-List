@@ -1,0 +1,11 @@
+{
+    "Name": "xMath",
+    "Link": "https:\/\/x-math.herokuapp.com\/",
+    "Description": "Random mathematical expressions",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/x-math.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

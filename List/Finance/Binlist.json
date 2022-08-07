@@ -1,0 +1,11 @@
+{
+    "Name": "Binlist",
+    "Link": "https:\/\/binlist.net\/",
+    "Description": "Public access to a database of IIN\/BIN information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/binlist.net\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

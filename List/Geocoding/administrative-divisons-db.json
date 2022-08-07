@@ -1,0 +1,11 @@
+{
+    "Name": "administrative-divisons-db",
+    "Link": "https:\/\/github.com\/kamikazechaser\/administrative-divisions-db",
+    "Description": "Get all administrative divisions of a country",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/kamikazechaser\/administrative-divisions-db",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

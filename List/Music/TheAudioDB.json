@@ -1,0 +1,11 @@
+{
+    "Name": "TheAudioDB",
+    "Link": "https:\/\/www.theaudiodb.com\/api_guide.php",
+    "Description": "Music",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.theaudiodb.com\/api_guide.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

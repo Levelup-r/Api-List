@@ -1,0 +1,11 @@
+{
+    "Name": "Product Hunt",
+    "Link": "https:\/\/api.producthunt.com\/v2\/docs",
+    "Description": "The best new products in tech",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.producthunt.com\/v2\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

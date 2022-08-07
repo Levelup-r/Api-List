@@ -1,0 +1,11 @@
+{
+    "Name": "QWeather",
+    "Link": "https:\/\/dev.qweather.com\/en\/",
+    "Description": "Location-based weather data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/dev.qweather.com\/en\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

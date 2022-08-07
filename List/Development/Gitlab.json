@@ -1,0 +1,11 @@
+{
+    "Name": "Gitlab",
+    "Link": "https:\/\/docs.gitlab.com\/ee\/api\/",
+    "Description": "Automate GitLab interaction programmatically",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.gitlab.com\/ee\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

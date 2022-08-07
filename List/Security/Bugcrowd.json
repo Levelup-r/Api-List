@@ -1,0 +1,11 @@
+{
+    "Name": "Bugcrowd",
+    "Link": "https:\/\/docs.bugcrowd.com\/api\/getting-started\/",
+    "Description": "Bugcrowd API for interacting and tracking the reported issues programmatically",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.bugcrowd.com\/api\/getting-started\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

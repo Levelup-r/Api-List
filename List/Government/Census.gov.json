@@ -1,0 +1,11 @@
+{
+    "Name": "Census.gov",
+    "Link": "https:\/\/www.census.gov\/data\/developers\/data-sets.html",
+    "Description": "The US Census Bureau provides various APIs and data sets on demographics and businesses",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.census.gov\/data\/developers\/data-sets.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

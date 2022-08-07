@@ -1,0 +1,11 @@
+{
+    "Name": "FunTranslations",
+    "Link": "https:\/\/api.funtranslations.com\/",
+    "Description": "Translate Text into funny languages",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.funtranslations.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

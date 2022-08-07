@@ -1,0 +1,11 @@
+{
+    "Name": "Countly",
+    "Link": "https:\/\/api.count.ly\/reference",
+    "Description": "Countly web analytics",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.count.ly\/reference",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

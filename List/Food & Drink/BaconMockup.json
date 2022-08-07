@@ -1,0 +1,11 @@
+{
+    "Name": "BaconMockup",
+    "Link": "https:\/\/baconmockup.com\/",
+    "Description": "Resizable bacon placeholder images",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/baconmockup.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

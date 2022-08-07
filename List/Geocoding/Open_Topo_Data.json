@@ -1,0 +1,11 @@
+{
+    "Name": "Open Topo Data",
+    "Link": "https:\/\/www.opentopodata.org",
+    "Description": "Elevation and ocean depth for a latitude and longitude",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.opentopodata.org",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

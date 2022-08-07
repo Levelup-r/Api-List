@@ -1,0 +1,11 @@
+{
+    "Name": "vatlayer",
+    "Link": "https:\/\/vatlayer.com\/documentation",
+    "Description": "VAT number validation",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/vatlayer.com\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Tenders in Spain",
+    "Link": "https:\/\/tenders.guru\/es\/api",
+    "Description": "Get data for procurements in Spain in JSON format",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tenders.guru\/es\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

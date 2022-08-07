@@ -1,0 +1,11 @@
+{
+    "Name": "API Gr\u00e1tis",
+    "Link": "https:\/\/apigratis.com.br\/",
+    "Description": "Multiples services and public APIs",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apigratis.com.br\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

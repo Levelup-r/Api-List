@@ -1,0 +1,11 @@
+{
+    "Name": "Destiny The Game",
+    "Link": "https:\/\/bungie-net.github.io\/multi\/index.html",
+    "Description": "Bungie Platform API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bungie-net.github.io\/multi\/index.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

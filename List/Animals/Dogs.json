@@ -1,0 +1,11 @@
+{
+    "Name": "Dogs",
+    "Link": "https:\/\/dog.ceo\/dog-api\/",
+    "Description": "Based on the Stanford Dogs Dataset",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/dog.ceo\/dog-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

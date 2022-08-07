@@ -1,0 +1,11 @@
+{
+    "Name": "Sportmonks Cricket",
+    "Link": "https:\/\/docs.sportmonks.com\/cricket\/",
+    "Description": "Live cricket score, player statistics and fantasy API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.sportmonks.com\/cricket\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "City, Toronto Open Data",
+    "Link": "https:\/\/open.toronto.ca\/",
+    "Description": "Toronto (CA) City Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/open.toronto.ca\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

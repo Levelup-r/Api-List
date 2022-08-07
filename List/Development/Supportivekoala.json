@@ -1,0 +1,11 @@
+{
+    "Name": "Supportivekoala",
+    "Link": "https:\/\/developers.supportivekoala.com\/",
+    "Description": "Autogenerate images with template",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developers.supportivekoala.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

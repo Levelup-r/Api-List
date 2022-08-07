@@ -1,0 +1,11 @@
+{
+    "Name": "Ducks Unlimited",
+    "Link": "https:\/\/gis.ducks.org\/datasets\/du-university-chapters\/api",
+    "Description": "API explorer that gives a query URL with a JSON response of locations and cities",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/gis.ducks.org\/datasets\/du-university-chapters\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

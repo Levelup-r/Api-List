@@ -1,0 +1,11 @@
+{
+    "Name": "Quarantine",
+    "Link": "https:\/\/quarantine.country\/coronavirus\/api\/",
+    "Description": "Coronavirus API with free COVID-19 live updates",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/quarantine.country\/coronavirus\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

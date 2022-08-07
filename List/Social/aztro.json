@@ -1,0 +1,11 @@
+{
+    "Name": "aztro",
+    "Link": "https:\/\/aztro.sameerkumar.website\/",
+    "Description": "Daily horoscope info for yesterday, today, and tomorrow",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/aztro.sameerkumar.website\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

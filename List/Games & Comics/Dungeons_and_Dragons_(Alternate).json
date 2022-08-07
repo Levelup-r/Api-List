@@ -1,0 +1,11 @@
+{
+    "Name": "Dungeons and Dragons (Alternate)",
+    "Link": "https:\/\/open5e.com\/",
+    "Description": "Includes all monsters and spells from the SRD (System Reference Document) as well as a search API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/open5e.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

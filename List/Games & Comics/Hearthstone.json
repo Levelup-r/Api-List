@@ -1,0 +1,11 @@
+{
+    "Name": "Hearthstone",
+    "Link": "http:\/\/hearthstoneapi.com\/",
+    "Description": "Hearthstone Cards Information",
+    "Auth": "`X-Mashape-Key`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/hearthstoneapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

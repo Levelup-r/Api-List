@@ -1,0 +1,11 @@
+{
+    "Name": "AnimeFacts",
+    "Link": "https:\/\/chandan-02.github.io\/anime-facts-rest-api\/",
+    "Description": "Anime Facts (over 100+)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/chandan-02.github.io\/anime-facts-rest-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

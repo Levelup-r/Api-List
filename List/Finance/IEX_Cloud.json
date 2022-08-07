@@ -1,0 +1,11 @@
+{
+    "Name": "IEX Cloud",
+    "Link": "https:\/\/iexcloud.io\/docs\/api\/",
+    "Description": "Realtime & Historical Stock and Market Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/iexcloud.io\/docs\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

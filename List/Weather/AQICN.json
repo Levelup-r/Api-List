@@ -1,0 +1,11 @@
+{
+    "Name": "AQICN",
+    "Link": "https:\/\/aqicn.org\/api\/",
+    "Description": "Air Quality Index Data for over 1000 cities",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/aqicn.org\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

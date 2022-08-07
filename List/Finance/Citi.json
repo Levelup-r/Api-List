@@ -1,0 +1,11 @@
+{
+    "Name": "Citi",
+    "Link": "https:\/\/sandbox.developerhub.citi.com\/api-catalog-list",
+    "Description": "All Citigroup account and statement data APIs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/sandbox.developerhub.citi.com\/api-catalog-list",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

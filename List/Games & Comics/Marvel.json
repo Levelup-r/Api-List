@@ -1,0 +1,11 @@
+{
+    "Name": "Marvel",
+    "Link": "https:\/\/developer.marvel.com",
+    "Description": "Marvel Comics",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.marvel.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

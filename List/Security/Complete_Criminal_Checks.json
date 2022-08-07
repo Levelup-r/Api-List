@@ -1,0 +1,11 @@
+{
+    "Name": "Complete Criminal Checks",
+    "Link": "https:\/\/completecriminalchecks.com\/Developers",
+    "Description": "Provides data of offenders from all U.S. States and Pureto Rico",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/completecriminalchecks.com\/Developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Navitia",
+    "Link": "https:\/\/doc.navitia.io\/",
+    "Description": "The open API for building cool stuff with transport data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/doc.navitia.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

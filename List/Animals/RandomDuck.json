@@ -1,0 +1,11 @@
+{
+    "Name": "RandomDuck",
+    "Link": "https:\/\/random-d.uk\/api",
+    "Description": "Random pictures of ducks",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/random-d.uk\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

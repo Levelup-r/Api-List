@@ -1,0 +1,11 @@
+{
+    "Name": "Blynk-Cloud",
+    "Link": "https:\/\/blynkapi.docs.apiary.io\/#",
+    "Description": "Control IoT Devices from Blynk IoT Cloud",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/blynkapi.docs.apiary.io\/#",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

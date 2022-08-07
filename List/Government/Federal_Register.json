@@ -1,0 +1,11 @@
+{
+    "Name": "Federal Register",
+    "Link": "https:\/\/www.federalregister.gov\/reader-aids\/developer-resources\/rest-api",
+    "Description": "The Daily Journal of the United States Government",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.federalregister.gov\/reader-aids\/developer-resources\/rest-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

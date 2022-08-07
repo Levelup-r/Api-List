@@ -1,0 +1,11 @@
+{
+    "Name": "Collins",
+    "Link": "https:\/\/api.collinsdictionary.com\/api\/v1\/documentation\/html\/",
+    "Description": "Bilingual Dictionary and Thesaurus Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.collinsdictionary.com\/api\/v1\/documentation\/html\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

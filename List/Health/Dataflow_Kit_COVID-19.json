@@ -1,0 +1,11 @@
+{
+    "Name": "Dataflow Kit COVID-19",
+    "Link": "https:\/\/covid-19.dataflowkit.com",
+    "Description": "COVID-19 live statistics into sites per hour",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/covid-19.dataflowkit.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

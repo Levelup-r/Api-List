@@ -1,0 +1,11 @@
+{
+    "Name": "BC Ferries",
+    "Link": "https:\/\/www.bcferriesapi.ca",
+    "Description": "Sailing times and capacities for BC Ferries",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.bcferriesapi.ca",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

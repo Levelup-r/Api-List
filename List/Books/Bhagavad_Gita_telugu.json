@@ -1,0 +1,11 @@
+{
+    "Name": "Bhagavad Gita telugu",
+    "Link": "https:\/\/gita-api.vercel.app",
+    "Description": "Bhagavad Gita API in telugu and odia languages",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/gita-api.vercel.app",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

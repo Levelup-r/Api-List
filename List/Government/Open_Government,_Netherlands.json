@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Netherlands",
+    "Link": "https:\/\/data.overheid.nl\/en\/ondersteuning\/data-publiceren\/api",
+    "Description": "Netherlands Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.overheid.nl\/en\/ondersteuning\/data-publiceren\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

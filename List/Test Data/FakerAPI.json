@@ -1,0 +1,11 @@
+{
+    "Name": "FakerAPI",
+    "Link": "https:\/\/fakerapi.it\/en",
+    "Description": "APIs collection to get fake data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/fakerapi.it\/en",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

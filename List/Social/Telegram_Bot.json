@@ -1,0 +1,11 @@
+{
+    "Name": "Telegram Bot",
+    "Link": "https:\/\/core.telegram.org\/bots\/api",
+    "Description": "Simplified HTTP version of the MTProto API for bots",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/core.telegram.org\/bots\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

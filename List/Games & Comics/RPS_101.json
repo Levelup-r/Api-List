@@ -1,0 +1,11 @@
+{
+    "Name": "RPS 101",
+    "Link": "https:\/\/rps101.pythonanywhere.com\/api",
+    "Description": "Rock, Paper, Scissors with 101 objects",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/rps101.pythonanywhere.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

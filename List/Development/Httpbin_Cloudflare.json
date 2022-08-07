@@ -1,0 +1,11 @@
+{
+    "Name": "Httpbin Cloudflare",
+    "Link": "https:\/\/cloudflare-quic.com\/b\/",
+    "Description": "A Simple HTTP Request & Response Service with HTTP\/3 Support by Cloudflare",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/cloudflare-quic.com\/b\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Jikan",
+    "Link": "https:\/\/jikan.moe",
+    "Description": "Unofficial MyAnimeList API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/jikan.moe",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

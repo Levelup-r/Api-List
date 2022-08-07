@@ -1,0 +1,11 @@
+{
+    "Name": "HERE Maps",
+    "Link": "https:\/\/developer.here.com",
+    "Description": "Create\/customize digital maps based on HERE Maps data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.here.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

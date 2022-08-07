@@ -1,0 +1,11 @@
+{
+    "Name": "TETR.IO",
+    "Link": "https:\/\/tetr.io\/about\/api\/",
+    "Description": "TETR.IO Tetra Channel API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tetr.io\/about\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

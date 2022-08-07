@@ -1,0 +1,11 @@
+{
+    "Name": "Magic The Gathering",
+    "Link": "http:\/\/magicthegathering.io\/",
+    "Description": "Magic The Gathering Game Information",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/magicthegathering.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

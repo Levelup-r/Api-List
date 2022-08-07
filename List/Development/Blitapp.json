@@ -1,0 +1,11 @@
+{
+    "Name": "Blitapp",
+    "Link": "https:\/\/blitapp.com\/api\/",
+    "Description": "Schedule screenshots of web pages and sync them to your cloud",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/blitapp.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

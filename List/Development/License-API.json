@@ -1,0 +1,11 @@
+{
+    "Name": "License-API",
+    "Link": "https:\/\/github.com\/cmccandless\/license-api\/blob\/master\/README.md",
+    "Description": "Unofficial REST API for choosealicense.com",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/cmccandless\/license-api\/blob\/master\/README.md",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

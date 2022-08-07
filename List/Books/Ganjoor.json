@@ -1,0 +1,11 @@
+{
+    "Name": "Ganjoor",
+    "Link": "https:\/\/api.ganjoor.net",
+    "Description": "Classic Persian poetry works including access to related manuscripts, recitations and music tracks",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.ganjoor.net",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

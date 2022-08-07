@@ -1,0 +1,11 @@
+{
+    "Name": "Kitsu",
+    "Link": "https:\/\/kitsu.docs.apiary.io\/",
+    "Description": "Anime discovery platform",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/kitsu.docs.apiary.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

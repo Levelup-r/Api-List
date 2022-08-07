@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Canada",
+    "Link": "http:\/\/open.canada.ca\/en",
+    "Description": "Canadian Government Open Data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/open.canada.ca\/en",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

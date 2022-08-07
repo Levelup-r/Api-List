@@ -1,0 +1,11 @@
+{
+    "Name": "Geoapify",
+    "Link": "https:\/\/www.geoapify.com\/api\/geocoding-api\/",
+    "Description": "Forward and reverse geocoding, address autocomplete",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.geoapify.com\/api\/geocoding-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

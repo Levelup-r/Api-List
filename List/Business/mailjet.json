@@ -1,0 +1,11 @@
+{
+    "Name": "mailjet",
+    "Link": "https:\/\/www.mailjet.com\/",
+    "Description": "Marketing email can be sent and mail templates made in MJML or HTML can be sent using API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mailjet.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

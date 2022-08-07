@@ -1,0 +1,11 @@
+{
+    "Name": "Associated Press",
+    "Link": "https:\/\/developer.ap.org\/",
+    "Description": "Search for news and metadata from Associated Press",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.ap.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

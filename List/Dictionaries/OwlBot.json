@@ -1,0 +1,11 @@
+{
+    "Name": "OwlBot",
+    "Link": "https:\/\/owlbot.info\/",
+    "Description": "Definitions with example sentence and photo if available",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/owlbot.info\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Lichess",
+    "Link": "https:\/\/lichess.org\/api",
+    "Description": "Access to all data of users, games, puzzles and etc on Lichess",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/lichess.org\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

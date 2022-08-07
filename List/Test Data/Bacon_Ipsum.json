@@ -1,0 +1,11 @@
+{
+    "Name": "Bacon Ipsum",
+    "Link": "https:\/\/baconipsum.com\/json-api\/",
+    "Description": "A Meatier Lorem Ipsum Generator",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/baconipsum.com\/json-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

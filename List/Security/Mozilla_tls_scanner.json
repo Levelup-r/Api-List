@@ -1,0 +1,11 @@
+{
+    "Name": "Mozilla tls scanner",
+    "Link": "https:\/\/github.com\/mozilla\/tls-observatory#api-endpoints",
+    "Description": "Mozilla observatory tls scanner",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/mozilla\/tls-observatory#api-endpoints",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

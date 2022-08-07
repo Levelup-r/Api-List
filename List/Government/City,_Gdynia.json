@@ -1,0 +1,11 @@
+{
+    "Name": "City, Gdynia",
+    "Link": "http:\/\/otwartedane.gdynia.pl\/en\/api_doc.html",
+    "Description": "Gdynia (PL) City Open Data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/otwartedane.gdynia.pl\/en\/api_doc.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

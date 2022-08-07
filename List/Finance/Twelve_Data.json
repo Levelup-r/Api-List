@@ -1,0 +1,11 @@
+{
+    "Name": "Twelve Data",
+    "Link": "https:\/\/twelvedata.com\/",
+    "Description": "Stock market data (real-time & historical)",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/twelvedata.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

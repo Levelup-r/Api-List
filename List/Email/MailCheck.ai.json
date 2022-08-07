@@ -1,0 +1,11 @@
+{
+    "Name": "MailCheck.ai",
+    "Link": "https:\/\/www.mailcheck.ai\/#documentation",
+    "Description": "Prevent users to sign up with temporary email addresses",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mailcheck.ai\/#documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

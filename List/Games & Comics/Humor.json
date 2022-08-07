@@ -1,0 +1,11 @@
+{
+    "Name": "Humor",
+    "Link": "https:\/\/humorapi.com",
+    "Description": "Humor, Jokes, and Memes",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/humorapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

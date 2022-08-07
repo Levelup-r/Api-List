@@ -1,0 +1,11 @@
+{
+    "Name": "DevITjobs UK",
+    "Link": "https:\/\/devitjobs.uk\/job_feed.xml",
+    "Description": "Jobs with GraphQL",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/devitjobs.uk\/job_feed.xml",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Simkl",
+    "Link": "https:\/\/simkl.docs.apiary.io",
+    "Description": "Movie, TV and Anime data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/simkl.docs.apiary.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

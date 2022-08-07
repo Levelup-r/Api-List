@@ -1,0 +1,11 @@
+{
+    "Name": "PRC Exam Schedule",
+    "Link": "https:\/\/api.whenisthenextboardexam.com\/docs\/",
+    "Description": "Unofficial Philippine Professional Regulation Commission's examination schedule",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.whenisthenextboardexam.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

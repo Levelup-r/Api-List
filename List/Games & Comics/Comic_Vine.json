@@ -1,0 +1,11 @@
+{
+    "Name": "Comic Vine",
+    "Link": "https:\/\/comicvine.gamespot.com\/api\/documentation",
+    "Description": "Comics",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/comicvine.gamespot.com\/api\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

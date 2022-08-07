@@ -1,0 +1,11 @@
+{
+    "Name": "Cloudmersive",
+    "Link": "https:\/\/www.cloudmersive.com\/image-recognition-and-processing-api",
+    "Description": "Image captioning, face recognition, NSFW classification",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.cloudmersive.com\/image-recognition-and-processing-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

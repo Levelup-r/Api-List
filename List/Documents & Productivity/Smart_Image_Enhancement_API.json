@@ -1,0 +1,11 @@
+{
+    "Name": "Smart Image Enhancement API",
+    "Link": "https:\/\/apilayer.com\/marketplace\/image_enhancement-api",
+    "Description": "Performs image upscaling by adding detail to images through multiple super-resolution algorithms",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apilayer.com\/marketplace\/image_enhancement-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Bitrise",
+    "Link": "https:\/\/api-docs.bitrise.io\/",
+    "Description": "Build tool and processes integrations to create efficient development pipelines",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api-docs.bitrise.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

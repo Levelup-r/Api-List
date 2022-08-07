@@ -1,0 +1,11 @@
+{
+    "Name": "Coronavirus in the UK",
+    "Link": "https:\/\/coronavirus.data.gov.uk\/details\/developers-guide",
+    "Description": "UK Government coronavirus data, including deaths and cases by region",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/coronavirus.data.gov.uk\/details\/developers-guide",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Hessen, Germany",
+    "Link": "https:\/\/opendata.rmv.de\/site\/start.html",
+    "Description": "RMV API (Public Transport in Hessen)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opendata.rmv.de\/site\/start.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

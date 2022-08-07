@@ -1,0 +1,11 @@
+{
+    "Name": "MAC address vendor lookup",
+    "Link": "https:\/\/macaddress.io\/api",
+    "Description": "Retrieve vendor details and other information regarding a given MAC address or an OUI",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/macaddress.io\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Shields",
+    "Link": "https:\/\/shields.io\/",
+    "Description": "Concise, consistent, and legible badges in SVG and raster format",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/shields.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

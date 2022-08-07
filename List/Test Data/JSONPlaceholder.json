@@ -1,0 +1,11 @@
+{
+    "Name": "JSONPlaceholder",
+    "Link": "http:\/\/jsonplaceholder.typicode.com\/",
+    "Description": "Fake data for testing and prototyping",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/jsonplaceholder.typicode.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Graph Countries",
+    "Link": "https:\/\/github.com\/lennertVanSever\/graphcountries",
+    "Description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/lennertVanSever\/graphcountries",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

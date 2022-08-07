@@ -1,0 +1,11 @@
+{
+    "Name": "Pinball Map",
+    "Link": "https:\/\/pinballmap.com\/api\/v1\/docs",
+    "Description": "A crowdsourced map of public pinball machines",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/pinballmap.com\/api\/v1\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

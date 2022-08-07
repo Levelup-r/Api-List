@@ -1,0 +1,11 @@
+{
+    "Name": "Calendarific",
+    "Link": "https:\/\/calendarific.com\/",
+    "Description": "Worldwide Holidays",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/calendarific.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

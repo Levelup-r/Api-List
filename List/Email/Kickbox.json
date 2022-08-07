@@ -1,0 +1,11 @@
+{
+    "Name": "Kickbox",
+    "Link": "https:\/\/open.kickbox.com\/",
+    "Description": "Email verification API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/open.kickbox.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

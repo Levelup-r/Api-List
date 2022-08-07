@@ -1,0 +1,11 @@
+{
+    "Name": "Queimadas INPE",
+    "Link": "https:\/\/queimadas.dgi.inpe.br\/queimadas\/dados-abertos\/",
+    "Description": "Access to heat focus data (probable wildfire)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/queimadas.dgi.inpe.br\/queimadas\/dados-abertos\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

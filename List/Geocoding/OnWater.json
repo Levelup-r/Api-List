@@ -1,0 +1,11 @@
+{
+    "Name": "OnWater",
+    "Link": "https:\/\/onwater.io\/",
+    "Description": "Determine if a lat\/lon is on water or land",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/onwater.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

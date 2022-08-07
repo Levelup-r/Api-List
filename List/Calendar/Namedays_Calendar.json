@@ -1,0 +1,11 @@
+{
+    "Name": "Namedays Calendar",
+    "Link": "https:\/\/nameday.abalin.net",
+    "Description": "Provides namedays for multiple countries",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/nameday.abalin.net",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

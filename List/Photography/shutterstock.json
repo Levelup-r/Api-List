@@ -1,0 +1,11 @@
+{
+    "Name": "shutterstock",
+    "Link": "https:\/\/api-reference.shutterstock.com\/",
+    "Description": "Stock Photos and Videos",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api-reference.shutterstock.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

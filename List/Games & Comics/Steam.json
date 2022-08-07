@@ -1,0 +1,11 @@
+{
+    "Name": "Steam",
+    "Link": "https:\/\/github.com\/Revadike\/InternalSteamWebAPI\/wiki",
+    "Description": "Internal Steam Web API documentation",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/Revadike\/InternalSteamWebAPI\/wiki",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

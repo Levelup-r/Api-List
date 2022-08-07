@@ -1,0 +1,11 @@
+{
+    "Name": "ip-api",
+    "Link": "https:\/\/ip-api.com\/docs",
+    "Description": "Find location with IP address or domain",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ip-api.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

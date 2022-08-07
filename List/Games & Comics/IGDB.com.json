@@ -1,0 +1,11 @@
+{
+    "Name": "IGDB.com",
+    "Link": "https:\/\/api-docs.igdb.com",
+    "Description": "Video Game Database",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api-docs.igdb.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

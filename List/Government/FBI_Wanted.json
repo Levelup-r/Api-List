@@ -1,0 +1,11 @@
+{
+    "Name": "FBI Wanted",
+    "Link": "https:\/\/www.fbi.gov\/wanted\/api",
+    "Description": "Access information on the FBI Wanted program",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.fbi.gov\/wanted\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

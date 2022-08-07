@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Spain",
+    "Link": "https:\/\/datos.gob.es\/en",
+    "Description": "Spain Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/datos.gob.es\/en",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

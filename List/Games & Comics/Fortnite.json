@@ -1,0 +1,11 @@
+{
+    "Name": "Fortnite",
+    "Link": "https:\/\/fortnitetracker.com\/site-api",
+    "Description": "Fortnite Stats",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/fortnitetracker.com\/site-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

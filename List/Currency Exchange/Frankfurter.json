@@ -1,0 +1,11 @@
+{
+    "Name": "Frankfurter",
+    "Link": "https:\/\/www.frankfurter.app\/docs",
+    "Description": "Exchange rates, currency conversion and time series",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.frankfurter.app\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

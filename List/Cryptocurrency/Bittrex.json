@@ -1,0 +1,11 @@
+{
+    "Name": "Bittrex",
+    "Link": "https:\/\/bittrex.github.io\/api\/v3",
+    "Description": "Next Generation Crypto Trading Platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bittrex.github.io\/api\/v3",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Bruzu",
+    "Link": "https:\/\/docs.bruzu.com",
+    "Description": "Image generation with query string",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.bruzu.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

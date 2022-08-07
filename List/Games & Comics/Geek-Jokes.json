@@ -1,0 +1,11 @@
+{
+    "Name": "Geek-Jokes",
+    "Link": "https:\/\/github.com\/sameerkumar18\/geek-joke-api",
+    "Description": "Fetch a random geeky\/programming related joke for use in all sorts of applications",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/sameerkumar18\/geek-joke-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

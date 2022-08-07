@@ -1,0 +1,11 @@
+{
+    "Name": "Nasdaq Data Link",
+    "Link": "https:\/\/docs.data.nasdaq.com\/",
+    "Description": "Stock market data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.data.nasdaq.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

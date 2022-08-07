@@ -1,0 +1,11 @@
+{
+    "Name": "Revolt",
+    "Link": "https:\/\/developers.revolt.chat\/api\/",
+    "Description": "Revolt open source Discord alternative",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.revolt.chat\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

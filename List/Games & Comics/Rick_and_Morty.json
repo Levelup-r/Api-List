@@ -1,0 +1,11 @@
+{
+    "Name": "Rick and Morty",
+    "Link": "https:\/\/rickandmortyapi.com",
+    "Description": "All the Rick and Morty information, including images",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/rickandmortyapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

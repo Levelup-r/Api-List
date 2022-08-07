@@ -1,0 +1,11 @@
+{
+    "Name": "ScrapeNinja",
+    "Link": "https:\/\/scrapeninja.net",
+    "Description": "Scraping API with Chrome fingerprint and residential proxies",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/scrapeninja.net",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "LectServe",
+    "Link": "http:\/\/www.lectserve.com",
+    "Description": "Protestant liturgical calendar",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.lectserve.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Football-Data",
+    "Link": "https:\/\/www.football-data.org",
+    "Description": "Football data with matches info, players, teams, and competitions",
+    "Auth": "`X-Mashape-Key`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.football-data.org",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

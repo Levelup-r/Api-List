@@ -1,0 +1,11 @@
+{
+    "Name": "UPC database",
+    "Link": "https:\/\/upcdatabase.org\/api",
+    "Description": "More than 1.5 million barcode numbers from all around the world",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/upcdatabase.org\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

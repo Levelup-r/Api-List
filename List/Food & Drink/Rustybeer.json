@@ -1,0 +1,11 @@
+{
+    "Name": "Rustybeer",
+    "Link": "https:\/\/rustybeer.herokuapp.com\/",
+    "Description": "Beer brewing tools",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/rustybeer.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

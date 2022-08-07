@@ -1,0 +1,11 @@
+{
+    "Name": "Economia.Awesome",
+    "Link": "https:\/\/docs.awesomeapi.com.br\/api-de-moedas",
+    "Description": "Portuguese free currency prices and conversion with no rate limits",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.awesomeapi.com.br\/api-de-moedas",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

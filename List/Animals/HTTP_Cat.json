@@ -1,0 +1,11 @@
+{
+    "Name": "HTTP Cat",
+    "Link": "https:\/\/http.cat\/",
+    "Description": "Cat for every HTTP Status",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/http.cat\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "serpstack",
+    "Link": "https:\/\/serpstack.com\/",
+    "Description": "Real-Time & Accurate Google Search Results API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/serpstack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

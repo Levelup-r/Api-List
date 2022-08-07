@@ -1,0 +1,11 @@
+{
+    "Name": "CollegeFootballData.com",
+    "Link": "https:\/\/collegefootballdata.com",
+    "Description": "Unofficial detailed American college football statistics, records, and results API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/collegefootballdata.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

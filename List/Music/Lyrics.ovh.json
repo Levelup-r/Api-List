@@ -1,0 +1,11 @@
+{
+    "Name": "Lyrics.ovh",
+    "Link": "https:\/\/lyricsovh.docs.apiary.io",
+    "Description": "Simple API to retrieve the lyrics of a song",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/lyricsovh.docs.apiary.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

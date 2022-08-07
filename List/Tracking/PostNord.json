@@ -1,0 +1,11 @@
+{
+    "Name": "PostNord",
+    "Link": "https:\/\/developer.postnord.com\/api",
+    "Description": "Provides information about parcels in transport for Sweden and Denmark",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.postnord.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Kroki",
+    "Link": "https:\/\/kroki.io",
+    "Description": "Creates diagrams from textual descriptions",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/kroki.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

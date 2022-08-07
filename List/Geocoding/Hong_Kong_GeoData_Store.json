@@ -1,0 +1,11 @@
+{
+    "Name": "Hong Kong GeoData Store",
+    "Link": "https:\/\/geodata.gov.hk\/gs\/",
+    "Description": "API for accessing geo-data of Hong Kong",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/geodata.gov.hk\/gs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

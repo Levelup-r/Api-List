@@ -1,0 +1,11 @@
+{
+    "Name": "MeowFacts",
+    "Link": "https:\/\/github.com\/wh-iterabb-it\/meowfacts",
+    "Description": "Get random cat facts",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/wh-iterabb-it\/meowfacts",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

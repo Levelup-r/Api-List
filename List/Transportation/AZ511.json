@@ -1,0 +1,11 @@
+{
+    "Name": "AZ511",
+    "Link": "https:\/\/www.az511.com\/developers\/doc",
+    "Description": "Access traffic data from the ADOT API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.az511.com\/developers\/doc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

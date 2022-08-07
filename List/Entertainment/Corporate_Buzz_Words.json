@@ -1,0 +1,11 @@
+{
+    "Name": "Corporate Buzz Words",
+    "Link": "https:\/\/github.com\/sameerkumar18\/corporate-bs-generator-api",
+    "Description": "REST API for Corporate Buzz Words",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/sameerkumar18\/corporate-bs-generator-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Cutt.ly",
+    "Link": "https:\/\/cutt.ly\/api-documentation\/cuttly-links-api",
+    "Description": "URL shortener service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/cutt.ly\/api-documentation\/cuttly-links-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

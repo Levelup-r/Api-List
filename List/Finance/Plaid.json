@@ -1,0 +1,11 @@
+{
+    "Name": "Plaid",
+    "Link": "https:\/\/plaid.com\/",
+    "Description": "Connect with user's bank accounts and access transaction data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/plaid.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

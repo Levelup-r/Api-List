@@ -1,0 +1,11 @@
+{
+    "Name": "GoTiny",
+    "Link": "https:\/\/github.com\/robvanbakel\/gotiny-api",
+    "Description": "A lightweight URL shortener, focused on ease-of-use for the developer and end-user",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/robvanbakel\/gotiny-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

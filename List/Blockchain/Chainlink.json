@@ -1,0 +1,11 @@
+{
+    "Name": "Chainlink",
+    "Link": "https:\/\/chain.link\/developer-resources",
+    "Description": "Build hybrid smart contracts with Chainlink",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/chain.link\/developer-resources",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

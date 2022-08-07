@@ -1,0 +1,11 @@
+{
+    "Name": "WallstreetBets",
+    "Link": "https:\/\/dashboard.nbshare.io\/apps\/reddit\/api\/",
+    "Description": "WallstreetBets Stock Comments Sentiment Analysis",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dashboard.nbshare.io\/apps\/reddit\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

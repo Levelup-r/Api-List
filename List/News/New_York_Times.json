@@ -1,0 +1,11 @@
+{
+    "Name": "New York Times",
+    "Link": "https:\/\/developer.nytimes.com\/",
+    "Description": "The New York Times Developer Network",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.nytimes.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

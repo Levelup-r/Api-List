@@ -1,0 +1,11 @@
+{
+    "Name": "TLE",
+    "Link": "https:\/\/tle.ivanstanojevic.me\/#\/docs",
+    "Description": "Satellite information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/tle.ivanstanojevic.me\/#\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

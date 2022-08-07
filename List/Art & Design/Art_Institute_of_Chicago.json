@@ -1,0 +1,11 @@
+{
+    "Name": "Art Institute of Chicago",
+    "Link": "https:\/\/api.artic.edu\/docs\/",
+    "Description": "Art",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.artic.edu\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

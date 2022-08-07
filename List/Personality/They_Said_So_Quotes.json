@@ -1,0 +1,11 @@
+{
+    "Name": "They Said So Quotes",
+    "Link": "https:\/\/theysaidso.com\/api\/",
+    "Description": "Quotes Trusted by many fortune brands around the world",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/theysaidso.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "REFUGE Restrooms",
+    "Link": "https:\/\/www.refugerestrooms.org\/api\/docs\/#!\/restrooms",
+    "Description": "Provides safe restroom access for transgender, intersex and gender nonconforming individuals",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.refugerestrooms.org\/api\/docs\/#!\/restrooms",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

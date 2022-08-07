@@ -1,0 +1,11 @@
+{
+    "Name": "SuperHeroes",
+    "Link": "https:\/\/superheroapi.com",
+    "Description": "All SuperHeroes and Villains data from all universes under a single API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/superheroapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

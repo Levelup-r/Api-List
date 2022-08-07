@@ -1,0 +1,11 @@
+{
+    "Name": "JSON2Video",
+    "Link": "https:\/\/json2video.com",
+    "Description": "Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/json2video.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

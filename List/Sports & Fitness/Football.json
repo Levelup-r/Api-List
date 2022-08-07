@@ -1,0 +1,11 @@
+{
+    "Name": "Football",
+    "Link": "https:\/\/rapidapi.com\/GiulianoCrescimbeni\/api\/football98\/",
+    "Description": "A simple Open Source Football API to get squads\u2019 stats, best scorers and more",
+    "Auth": "`X-Mashape-Key`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/GiulianoCrescimbeni\/api\/football98\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

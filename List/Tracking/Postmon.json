@@ -1,0 +1,11 @@
+{
+    "Name": "Postmon",
+    "Link": "http:\/\/postmon.com.br",
+    "Description": "An API to query Brazilian ZIP codes and orders easily, quickly and free",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/postmon.com.br",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

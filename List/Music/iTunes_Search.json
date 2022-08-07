@@ -1,0 +1,11 @@
+{
+    "Name": "iTunes Search",
+    "Link": "https:\/\/affiliate.itunes.apple.com\/resources\/documentation\/itunes-store-web-service-search-api\/",
+    "Description": "Software products",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/affiliate.itunes.apple.com\/resources\/documentation\/itunes-store-web-service-search-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

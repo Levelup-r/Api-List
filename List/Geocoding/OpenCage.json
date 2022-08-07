@@ -1,0 +1,11 @@
+{
+    "Name": "OpenCage",
+    "Link": "https:\/\/opencagedata.com",
+    "Description": "Forward and reverse geocoding using open data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/opencagedata.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Nownodes",
+    "Link": "https:\/\/nownodes.io\/",
+    "Description": "Blockchain-as-a-service solution that provides high-quality connection via API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/nownodes.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

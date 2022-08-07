@@ -1,0 +1,11 @@
+{
+    "Name": "Polygon",
+    "Link": "https:\/\/polygon.io\/",
+    "Description": "Historical stock market data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/polygon.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

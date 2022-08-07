@@ -1,0 +1,11 @@
+{
+    "Name": "The Dog",
+    "Link": "https:\/\/thedogapi.com\/",
+    "Description": "A public service all about Dogs, free to use when making your fancy new App, Website or Service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/thedogapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Motivational Quotes",
+    "Link": "https:\/\/nodejs-quoteapp.herokuapp.com\/",
+    "Description": "Random Motivational Quotes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/nodejs-quoteapp.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

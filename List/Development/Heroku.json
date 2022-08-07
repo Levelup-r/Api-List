@@ -1,0 +1,11 @@
+{
+    "Name": "Heroku",
+    "Link": "https:\/\/devcenter.heroku.com\/articles\/platform-api-reference\/",
+    "Description": "REST API to programmatically create apps, provision add-ons and perform other task on Heroku",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/devcenter.heroku.com\/articles\/platform-api-reference\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

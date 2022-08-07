@@ -1,0 +1,11 @@
+{
+    "Name": "Phishin",
+    "Link": "https:\/\/phish.in\/api-docs",
+    "Description": "A web-based archive of legal live audio recordings of the improvisational rock band Phish",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/phish.in\/api-docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

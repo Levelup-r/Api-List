@@ -1,0 +1,11 @@
+{
+    "Name": "Mangapi",
+    "Link": "https:\/\/rapidapi.com\/pierre.carcellermeunier\/api\/mangapi3\/",
+    "Description": "Translate manga pages from one language to another",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/pierre.carcellermeunier\/api\/mangapi3\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "INFURA Ethereum",
+    "Link": "https:\/\/infura.io\/product\/ethereum",
+    "Description": "Interaction with the Ethereum mainnet and several testnets",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/infura.io\/product\/ethereum",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

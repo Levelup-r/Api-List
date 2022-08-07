@@ -1,0 +1,11 @@
+{
+    "Name": "Cloudbet",
+    "Link": "https:\/\/www.cloudbet.com\/api\/",
+    "Description": "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.cloudbet.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

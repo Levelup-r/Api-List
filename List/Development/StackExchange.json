@@ -1,0 +1,11 @@
+{
+    "Name": "StackExchange",
+    "Link": "https:\/\/api.stackexchange.com\/",
+    "Description": "Q&A forum for developers",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.stackexchange.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

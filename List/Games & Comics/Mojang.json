@@ -1,0 +1,11 @@
+{
+    "Name": "Mojang",
+    "Link": "https:\/\/wiki.vg\/Mojang_API",
+    "Description": "Mojang \/ Minecraft API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wiki.vg\/Mojang_API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

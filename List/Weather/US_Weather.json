@@ -1,0 +1,11 @@
+{
+    "Name": "US Weather",
+    "Link": "https:\/\/www.weather.gov\/documentation\/services-web-api",
+    "Description": "US National Weather Service",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.weather.gov\/documentation\/services-web-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

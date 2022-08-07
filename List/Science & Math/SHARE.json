@@ -1,0 +1,11 @@
+{
+    "Name": "SHARE",
+    "Link": "https:\/\/share.osf.io\/api\/v2\/",
+    "Description": "A free, open, dataset about research and scholarly activities",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/share.osf.io\/api\/v2\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

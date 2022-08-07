@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Romania",
+    "Link": "http:\/\/data.gov.ro\/",
+    "Description": "Romania Government Open Data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/data.gov.ro\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

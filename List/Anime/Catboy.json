@@ -1,0 +1,11 @@
+{
+    "Name": "Catboy",
+    "Link": "https:\/\/catboys.com\/api",
+    "Description": "Neko images, funny GIFs & more",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/catboys.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

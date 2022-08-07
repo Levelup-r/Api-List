@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Luxembourg",
+    "Link": "https:\/\/data.public.lu",
+    "Description": "Luxembourgish Government Open Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.public.lu",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

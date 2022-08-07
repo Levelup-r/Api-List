@@ -1,0 +1,11 @@
+{
+    "Name": "Statically",
+    "Link": "https:\/\/statically.io\/",
+    "Description": "A free CDN for developers",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/statically.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

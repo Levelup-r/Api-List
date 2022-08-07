@@ -1,0 +1,11 @@
+{
+    "Name": "Nager.Date",
+    "Link": "https:\/\/date.nager.at",
+    "Description": "Public holidays for more than 90 countries",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/date.nager.at",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

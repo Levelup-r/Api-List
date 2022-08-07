@@ -1,0 +1,11 @@
+{
+    "Name": "Remove.bg",
+    "Link": "https:\/\/www.remove.bg\/api",
+    "Description": "Image Background removal",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.remove.bg\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

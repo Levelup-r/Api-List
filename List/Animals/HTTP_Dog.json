@@ -1,0 +1,11 @@
+{
+    "Name": "HTTP Dog",
+    "Link": "https:\/\/http.dog\/",
+    "Description": "Dogs for every HTTP response status code",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/http.dog\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

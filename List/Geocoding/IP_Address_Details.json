@@ -1,0 +1,11 @@
+{
+    "Name": "IP Address Details",
+    "Link": "https:\/\/ipinfo.io\/",
+    "Description": "Find geolocation with ip address",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ipinfo.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

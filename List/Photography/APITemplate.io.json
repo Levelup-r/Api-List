@@ -1,0 +1,11 @@
+{
+    "Name": "APITemplate.io",
+    "Link": "https:\/\/apitemplate.io",
+    "Description": "Dynamically generate images and PDFs from templates with a simple API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes",
+    "Docs": "https:\/\/apitemplate.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

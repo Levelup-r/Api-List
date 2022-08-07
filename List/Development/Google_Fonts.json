@@ -1,0 +1,11 @@
+{
+    "Name": "Google Fonts",
+    "Link": "https:\/\/developers.google.com\/fonts\/docs\/developer_api",
+    "Description": "Metadata for all families served by Google Fonts",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/fonts\/docs\/developer_api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

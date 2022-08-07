@@ -1,0 +1,11 @@
+{
+    "Name": "Abstract Screenshot",
+    "Link": "https:\/\/www.abstractapi.com\/website-screenshot-api",
+    "Description": "Take programmatic screenshots of web pages from any website",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.abstractapi.com\/website-screenshot-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

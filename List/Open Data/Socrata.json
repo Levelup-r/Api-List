@@ -1,0 +1,11 @@
+{
+    "Name": "Socrata",
+    "Link": "https:\/\/dev.socrata.com\/",
+    "Description": "Access to Open Data from Governments, Non-profits and NGOs around the world",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/dev.socrata.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Tronald Dump",
+    "Link": "https:\/\/www.tronalddump.io\/",
+    "Description": "The dumbest things Donald Trump has ever said",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.tronalddump.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

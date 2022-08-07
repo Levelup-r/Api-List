@@ -1,0 +1,11 @@
+{
+    "Name": "Smartcar",
+    "Link": "https:\/\/smartcar.com\/docs\/",
+    "Description": "Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/smartcar.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

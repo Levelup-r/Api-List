@@ -1,0 +1,11 @@
+{
+    "Name": "VALR",
+    "Link": "https:\/\/docs.valr.com\/",
+    "Description": "Cryptocurrency Exchange based in South Africa",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.valr.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

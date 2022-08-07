@@ -1,0 +1,11 @@
+{
+    "Name": "Tyk",
+    "Link": "https:\/\/tyk.io\/open-source\/",
+    "Description": "Api and service management platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/tyk.io\/open-source\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

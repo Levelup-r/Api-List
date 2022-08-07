@@ -1,0 +1,11 @@
+{
+    "Name": "Host.io",
+    "Link": "https:\/\/host.io",
+    "Description": "Domains Data API for Developers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/host.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

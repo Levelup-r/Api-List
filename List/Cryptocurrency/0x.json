@@ -1,0 +1,11 @@
+{
+    "Name": "0x",
+    "Link": "https:\/\/0x.org\/api",
+    "Description": "API for querying token and pool stats across various liquidity pools",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/0x.org\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

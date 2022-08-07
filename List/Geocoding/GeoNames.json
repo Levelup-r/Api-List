@@ -1,0 +1,11 @@
+{
+    "Name": "GeoNames",
+    "Link": "http:\/\/www.geonames.org\/export\/web-services.html",
+    "Description": "Place names and other geographical data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.geonames.org\/export\/web-services.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

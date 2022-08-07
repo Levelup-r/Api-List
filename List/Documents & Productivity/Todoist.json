@@ -1,0 +1,11 @@
+{
+    "Name": "Todoist",
+    "Link": "https:\/\/developer.todoist.com",
+    "Description": "Todo Lists",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.todoist.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

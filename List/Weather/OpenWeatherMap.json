@@ -1,0 +1,11 @@
+{
+    "Name": "OpenWeatherMap",
+    "Link": "https:\/\/openweathermap.org\/api",
+    "Description": "Weather",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/openweathermap.org\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

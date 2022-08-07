@@ -1,0 +1,11 @@
+{
+    "Name": "ItsThisForThat",
+    "Link": "https:\/\/itsthisforthat.com\/api.php",
+    "Description": "Generate Random startup ideas",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/itsthisforthat.com\/api.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

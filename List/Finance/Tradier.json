@@ -1,0 +1,11 @@
+{
+    "Name": "Tradier",
+    "Link": "https:\/\/developer.tradier.com",
+    "Description": "US equity\/option market data (delayed, intraday, historical)",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developer.tradier.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

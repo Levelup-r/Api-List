@@ -1,0 +1,11 @@
+{
+    "Name": "City, New York Open Data",
+    "Link": "https:\/\/opendata.cityofnewyork.us\/",
+    "Description": "New York (US) City Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opendata.cityofnewyork.us\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

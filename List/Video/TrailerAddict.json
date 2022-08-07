@@ -1,0 +1,11 @@
+{
+    "Name": "TrailerAddict",
+    "Link": "https:\/\/www.traileraddict.com\/trailerapi",
+    "Description": "Easily embed trailers from TrailerAddict",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown",
+    "Docs": "https:\/\/www.traileraddict.com\/trailerapi",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Exchangeratesapi.io",
+    "Link": "https:\/\/exchangeratesapi.io",
+    "Description": "Exchange rates with currency conversion",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/exchangeratesapi.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

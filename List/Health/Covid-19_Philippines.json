@@ -1,0 +1,11 @@
+{
+    "Name": "Covid-19 Philippines",
+    "Link": "https:\/\/github.com\/Simperfy\/Covid-19-API-Philippines-DOH",
+    "Description": "Unofficial Covid-19 Web API for Philippines from data collected by DOH",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/Simperfy\/Covid-19-API-Philippines-DOH",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

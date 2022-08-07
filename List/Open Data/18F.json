@@ -1,0 +1,11 @@
+{
+    "Name": "18F",
+    "Link": "http:\/\/18f.github.io\/API-All-the-X\/",
+    "Description": "Unofficial US Federal Government API Development",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/18f.github.io\/API-All-the-X\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

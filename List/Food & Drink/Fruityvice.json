@@ -1,0 +1,11 @@
+{
+    "Name": "Fruityvice",
+    "Link": "https:\/\/www.fruityvice.com",
+    "Description": "Data about all kinds of fruit",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.fruityvice.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

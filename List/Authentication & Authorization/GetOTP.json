@@ -1,0 +1,11 @@
+{
+    "Name": "GetOTP",
+    "Link": "https:\/\/otp.dev\/en\/docs\/",
+    "Description": "Implement OTP flow quickly",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/otp.dev\/en\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

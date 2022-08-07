@@ -1,0 +1,11 @@
+{
+    "Name": "Axolotl",
+    "Link": "https:\/\/theaxolotlapi.netlify.app\/",
+    "Description": "Collection of axolotl pictures and facts",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/theaxolotlapi.netlify.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Victoria State Government",
+    "Link": "https:\/\/www.data.vic.gov.au\/",
+    "Description": "Victoria State Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.vic.gov.au\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

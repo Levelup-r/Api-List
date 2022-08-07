@@ -1,0 +1,11 @@
+{
+    "Name": "Open Brewery DB",
+    "Link": "https:\/\/www.openbrewerydb.org",
+    "Description": "Breweries, Cideries and Craft Beer Bottle Shops",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.openbrewerydb.org",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

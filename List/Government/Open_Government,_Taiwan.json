@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Taiwan",
+    "Link": "https:\/\/data.gov.tw\/",
+    "Description": "Taiwan Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.tw\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

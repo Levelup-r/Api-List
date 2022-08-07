@@ -1,0 +1,11 @@
+{
+    "Name": "kimiquotes",
+    "Link": "https:\/\/kimiquotes.herokuapp.com\/doc",
+    "Description": "Team radio and interview quotes by Finnish F1 legend Kimi R\u00e4ikk\u00f6nen",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/kimiquotes.herokuapp.com\/doc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

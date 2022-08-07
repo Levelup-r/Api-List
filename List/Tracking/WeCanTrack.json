@@ -1,0 +1,11 @@
+{
+    "Name": "WeCanTrack",
+    "Link": "https:\/\/docs.wecantrack.com",
+    "Description": "Automatically place subids in affiliate links to attribute affiliate conversions to click data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.wecantrack.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

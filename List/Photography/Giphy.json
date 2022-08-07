@@ -1,0 +1,11 @@
+{
+    "Name": "Giphy",
+    "Link": "https:\/\/developers.giphy.com\/docs\/",
+    "Description": "Get all your gifs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.giphy.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

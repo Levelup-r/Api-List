@@ -1,0 +1,11 @@
+{
+    "Name": "USGS Earthquake Hazards Program",
+    "Link": "https:\/\/earthquake.usgs.gov\/fdsnws\/event\/1\/",
+    "Description": "Earthquakes data real-time",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/earthquake.usgs.gov\/fdsnws\/event\/1\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

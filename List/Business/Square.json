@@ -1,0 +1,11 @@
+{
+    "Name": "Square",
+    "Link": "https:\/\/developer.squareup.com\/reference\/square",
+    "Description": "Easy way to take payments, manage refunds, and help customers checkout online",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.squareup.com\/reference\/square",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

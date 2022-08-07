@@ -1,0 +1,11 @@
+{
+    "Name": "Stream",
+    "Link": "https:\/\/api.stream.cz\/graphiql",
+    "Description": "Czech internet television, films, series and online videos for free",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/api.stream.cz\/graphiql",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

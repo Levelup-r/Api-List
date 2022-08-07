@@ -1,0 +1,11 @@
+{
+    "Name": "Azure DevOps",
+    "Link": "https:\/\/docs.microsoft.com\/en-us\/rest\/api\/azure\/devops",
+    "Description": "The Azure DevOps basic components of a REST API request\/response pair",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.microsoft.com\/en-us\/rest\/api\/azure\/devops",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Open Notify",
+    "Link": "http:\/\/open-notify.org\/Open-Notify-API\/",
+    "Description": "ISS astronauts, current location, etc",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "http:\/\/open-notify.org\/Open-Notify-API\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

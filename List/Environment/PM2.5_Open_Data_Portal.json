@@ -1,0 +1,11 @@
+{
+    "Name": "PM2.5 Open Data Portal",
+    "Link": "https:\/\/pm25.lass-net.org\/#apis",
+    "Description": "Open low-cost PM2.5 sensor data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pm25.lass-net.org\/#apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

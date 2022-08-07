@@ -1,0 +1,11 @@
+{
+    "Name": "Battle.net",
+    "Link": "https:\/\/develop.battle.net\/documentation\/guides\/getting-started",
+    "Description": "Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/develop.battle.net\/documentation\/guides\/getting-started",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

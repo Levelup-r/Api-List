@@ -1,0 +1,11 @@
+{
+    "Name": "FIFA Ultimate Team",
+    "Link": "https:\/\/www.easports.com\/fifa\/ultimate-team\/api\/fut\/item",
+    "Description": "FIFA Ultimate Team items API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.easports.com\/fifa\/ultimate-team\/api\/fut\/item",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "UK Companies House",
+    "Link": "https:\/\/developer.company-information.service.gov.uk\/",
+    "Description": "UK Companies House Data from the UK government",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.company-information.service.gov.uk\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

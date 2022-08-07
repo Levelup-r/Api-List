@@ -1,0 +1,11 @@
+{
+    "Name": "Wizard World",
+    "Link": "https:\/\/wizard-world-api.herokuapp.com\/swagger\/index.html",
+    "Description": "Get information from the Harry Potter universe",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/wizard-world-api.herokuapp.com\/swagger\/index.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

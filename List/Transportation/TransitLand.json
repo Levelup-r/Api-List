@@ -1,0 +1,11 @@
+{
+    "Name": "TransitLand",
+    "Link": "https:\/\/www.transit.land\/documentation\/datastore\/api-endpoints.html",
+    "Description": "Transit Aggregation",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.transit.land\/documentation\/datastore\/api-endpoints.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

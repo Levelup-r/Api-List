@@ -1,0 +1,11 @@
+{
+    "Name": "Webdam",
+    "Link": "https:\/\/www.damsuccess.com\/hc\/en-us\/articles\/202134055-REST-API",
+    "Description": "Images",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.damsuccess.com\/hc\/en-us\/articles\/202134055-REST-API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

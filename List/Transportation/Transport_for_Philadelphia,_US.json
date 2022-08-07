@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Philadelphia, US",
+    "Link": "http:\/\/www3.septa.org\/hackathon\/",
+    "Description": "SEPTA APIs",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www3.septa.org\/hackathon\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

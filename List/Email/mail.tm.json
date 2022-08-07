@@ -1,0 +1,11 @@
+{
+    "Name": "mail.tm",
+    "Link": "https:\/\/docs.mail.tm",
+    "Description": "Temporary Email Service",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.mail.tm",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

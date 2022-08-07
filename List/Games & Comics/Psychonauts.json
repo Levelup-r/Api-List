@@ -1,0 +1,11 @@
+{
+    "Name": "Psychonauts",
+    "Link": "https:\/\/psychonauts-api.netlify.app\/",
+    "Description": "Psychonauts World Characters Information and PSI Powers",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/psychonauts-api.netlify.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

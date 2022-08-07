@@ -1,0 +1,11 @@
+{
+    "Name": "Cryptonator",
+    "Link": "https:\/\/www.cryptonator.com\/api\/",
+    "Description": "Cryptocurrencies Exchange Rates",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.cryptonator.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "WolframAlpha",
+    "Link": "https:\/\/products.wolframalpha.com\/api\/",
+    "Description": "Provides specific answers to questions using data and algorithms",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/products.wolframalpha.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Ciprand",
+    "Link": "https:\/\/github.com\/polarspetroll\/ciprand",
+    "Description": "Secure random string generator",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/polarspetroll\/ciprand",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

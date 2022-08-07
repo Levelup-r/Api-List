@@ -1,0 +1,11 @@
+{
+    "Name": "Holidays",
+    "Link": "https:\/\/holidayapi.com\/",
+    "Description": "Historical data regarding holidays",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/holidayapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

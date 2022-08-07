@@ -1,0 +1,11 @@
+{
+    "Name": "NewsData",
+    "Link": "https:\/\/newsdata.io\/docs",
+    "Description": "News data API for live-breaking news and headlines from reputed  news sources",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/newsdata.io\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

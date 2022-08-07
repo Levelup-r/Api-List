@@ -1,0 +1,11 @@
+{
+    "Name": "GeneradorDNI",
+    "Link": "https:\/\/api.generadordni.es",
+    "Description": "Data generator API. Profiles, vehicles, banks and cards, etc",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.generadordni.es",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

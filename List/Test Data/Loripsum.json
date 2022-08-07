@@ -1,0 +1,11 @@
+{
+    "Name": "Loripsum",
+    "Link": "http:\/\/loripsum.net\/",
+    "Description": "The \"lorem ipsum\" generator that doesn't suck",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/loripsum.net\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

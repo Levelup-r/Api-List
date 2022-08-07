@@ -1,0 +1,11 @@
+{
+    "Name": "Iconfinder",
+    "Link": "https:\/\/developer.iconfinder.com",
+    "Description": "Icons",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.iconfinder.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

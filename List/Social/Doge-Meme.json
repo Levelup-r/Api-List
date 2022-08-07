@@ -1,0 +1,11 @@
+{
+    "Name": "Doge-Meme",
+    "Link": "https:\/\/api.doge-meme.lol\/docs",
+    "Description": "Top meme posts from r\/dogecoin which include 'Meme' flair",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.doge-meme.lol\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "WhatPulse",
+    "Link": "https:\/\/developer.whatpulse.org\/#web-api",
+    "Description": "Small application that measures your keyboard\/mouse usage",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.whatpulse.org\/#web-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

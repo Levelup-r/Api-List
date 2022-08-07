@@ -1,0 +1,11 @@
+{
+    "Name": "EXUDE-API",
+    "Link": "http:\/\/uttesh.com\/exude-api\/",
+    "Description": "Used for the primary ways for filtering the stopping, stemming words from the text data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "http:\/\/uttesh.com\/exude-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Hirak Exchange Rates",
+    "Link": "https:\/\/rates.hirak.site\/",
+    "Description": "Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rates.hirak.site\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

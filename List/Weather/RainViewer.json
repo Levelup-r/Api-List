@@ -1,0 +1,11 @@
+{
+    "Name": "RainViewer",
+    "Link": "https:\/\/www.rainviewer.com\/api.html",
+    "Description": "Radar data collected from different websites across the Internet",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.rainviewer.com\/api.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

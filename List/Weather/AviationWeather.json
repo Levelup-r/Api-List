@@ -1,0 +1,11 @@
+{
+    "Name": "AviationWeather",
+    "Link": "https:\/\/www.aviationweather.gov\/dataserver",
+    "Description": "NOAA aviation weather forecasts and observations",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.aviationweather.gov\/dataserver",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

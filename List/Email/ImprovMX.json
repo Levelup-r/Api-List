@@ -1,0 +1,11 @@
+{
+    "Name": "ImprovMX",
+    "Link": "https:\/\/improvmx.com\/api",
+    "Description": "API for free email forwarding service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/improvmx.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

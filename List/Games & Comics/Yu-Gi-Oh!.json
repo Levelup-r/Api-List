@@ -1,0 +1,11 @@
+{
+    "Name": "Yu-Gi-Oh!",
+    "Link": "https:\/\/db.ygoprodeck.com\/api-guide\/",
+    "Description": "Yu-Gi-Oh! TCG Information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/db.ygoprodeck.com\/api-guide\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

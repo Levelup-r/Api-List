@@ -1,0 +1,11 @@
+{
+    "Name": "DropMail",
+    "Link": "https:\/\/dropmail.me\/api\/#live-demo",
+    "Description": "GraphQL API for creating and managing ephemeral e-mail inboxes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dropmail.me\/api\/#live-demo",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

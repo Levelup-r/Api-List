@@ -1,0 +1,11 @@
+{
+    "Name": "Cross Universe",
+    "Link": "https:\/\/crossuniverse.psychpsyo.com\/apiDocs.html",
+    "Description": "Cross Universe Card Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/crossuniverse.psychpsyo.com\/apiDocs.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

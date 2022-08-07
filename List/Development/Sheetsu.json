@@ -1,0 +1,11 @@
+{
+    "Name": "Sheetsu",
+    "Link": "https:\/\/sheetsu.com\/",
+    "Description": "Easy google sheets integration",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/sheetsu.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "HackerOne",
+    "Link": "https:\/\/api.hackerone.com\/",
+    "Description": "The industry\u2019s first hacker API that helps increase productivity towards creative bug bounty hunting",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.hackerone.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

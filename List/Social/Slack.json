@@ -1,0 +1,11 @@
+{
+    "Name": "Slack",
+    "Link": "https:\/\/api.slack.com\/",
+    "Description": "Team Instant Messaging",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.slack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Tankerkoenig",
+    "Link": "https:\/\/creativecommons.tankerkoenig.de\/swagger\/",
+    "Description": "German realtime gas\/diesel prices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/creativecommons.tankerkoenig.de\/swagger\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

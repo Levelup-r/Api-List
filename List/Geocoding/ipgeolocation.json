@@ -1,0 +1,11 @@
+{
+    "Name": "ipgeolocation",
+    "Link": "https:\/\/ipgeolocation.io\/",
+    "Description": "IP Geolocation AP with free plan 30k requests per month",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/ipgeolocation.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

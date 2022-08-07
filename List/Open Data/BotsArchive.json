@@ -1,0 +1,11 @@
+{
+    "Name": "BotsArchive",
+    "Link": "https:\/\/botsarchive.com\/docs.html",
+    "Description": "JSON formatted details about Telegram Bots available in database",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/botsarchive.com\/docs.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

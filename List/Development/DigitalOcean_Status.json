@@ -1,0 +1,11 @@
+{
+    "Name": "DigitalOcean Status",
+    "Link": "https:\/\/status.digitalocean.com\/api",
+    "Description": "Status of all DigitalOcean services",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/status.digitalocean.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

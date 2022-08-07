@@ -1,0 +1,11 @@
+{
+    "Name": "Lowy Asia Power Index",
+    "Link": "https:\/\/github.com\/0x0is1\/lowy-index-api-docs",
+    "Description": "Get measure resources and influence to rank the relative power of states in Asia",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/0x0is1\/lowy-index-api-docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

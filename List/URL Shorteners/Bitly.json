@@ -1,0 +1,11 @@
+{
+    "Name": "Bitly",
+    "Link": "http:\/\/dev.bitly.com\/get_started.html",
+    "Description": "URL shortener and link management",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/dev.bitly.com\/get_started.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

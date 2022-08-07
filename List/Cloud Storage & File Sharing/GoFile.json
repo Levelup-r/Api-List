@@ -1,0 +1,11 @@
+{
+    "Name": "GoFile",
+    "Link": "https:\/\/gofile.io\/api",
+    "Description": "Unlimited size file uploads for free",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/gofile.io\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Paris, France",
+    "Link": "http:\/\/data.ratp.fr\/api\/v1\/console\/datasets\/1.0\/search\/",
+    "Description": "RATP Open Data API",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/data.ratp.fr\/api\/v1\/console\/datasets\/1.0\/search\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

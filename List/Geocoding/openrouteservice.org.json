@@ -1,0 +1,11 @@
+{
+    "Name": "openrouteservice.org",
+    "Link": "https:\/\/openrouteservice.org\/",
+    "Description": "Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/openrouteservice.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

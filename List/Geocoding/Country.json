@@ -1,0 +1,11 @@
+{
+    "Name": "Country",
+    "Link": "http:\/\/country.is\/",
+    "Description": "Get your visitor's country from their IP",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "http:\/\/country.is\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

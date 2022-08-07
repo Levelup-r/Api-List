@@ -1,0 +1,11 @@
+{
+    "Name": "English Random Words",
+    "Link": "https:\/\/random-words-api.vercel.app\/word",
+    "Description": "Generate English Random Words with Pronunciation",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/random-words-api.vercel.app\/word",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

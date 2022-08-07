@@ -1,0 +1,11 @@
+{
+    "Name": "SWAPI GraphQL",
+    "Link": "https:\/\/graphql.org\/swapi-graphql",
+    "Description": "Star Wars GraphQL API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/graphql.org\/swapi-graphql",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

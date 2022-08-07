@@ -1,0 +1,11 @@
+{
+    "Name": "Mockaroo",
+    "Link": "https:\/\/www.mockaroo.com\/docs",
+    "Description": "Generate fake data to JSON, CSV, TXT, SQL and XML",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mockaroo.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

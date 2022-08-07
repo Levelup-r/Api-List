@@ -1,0 +1,11 @@
+{
+    "Name": "Randommer",
+    "Link": "https:\/\/randommer.io\/randommer-api",
+    "Description": "Random data generator",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/randommer.io\/randommer-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

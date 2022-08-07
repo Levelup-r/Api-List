@@ -1,0 +1,11 @@
+{
+    "Name": "WebScraping.AI",
+    "Link": "https:\/\/webscraping.ai\/",
+    "Description": "Web Scraping API with built-in proxies and JS rendering",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/webscraping.ai\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

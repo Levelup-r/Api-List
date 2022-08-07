@@ -1,0 +1,11 @@
+{
+    "Name": "adresse.data.gouv.fr",
+    "Link": "https:\/\/adresse.data.gouv.fr",
+    "Description": "Address database of France, geocoding and reverse",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/adresse.data.gouv.fr",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

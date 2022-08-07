@@ -1,0 +1,11 @@
+{
+    "Name": "Metro Lisboa",
+    "Link": "http:\/\/app.metrolisboa.pt\/status\/getLinhas.php",
+    "Description": "Delays in subway lines",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "http:\/\/app.metrolisboa.pt\/status\/getLinhas.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

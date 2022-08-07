@@ -1,0 +1,11 @@
+{
+    "Name": "Bob's Burgers",
+    "Link": "https:\/\/bobs-burgers-api-ui.herokuapp.com",
+    "Description": "Bob's Burgers API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/bobs-burgers-api-ui.herokuapp.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

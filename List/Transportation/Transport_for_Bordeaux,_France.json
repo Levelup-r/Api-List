@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Bordeaux, France",
+    "Link": "https:\/\/opendata.bordeaux-metropole.fr\/explore\/",
+    "Description": "Bordeaux M\u00e9tropole public transport and more (France)",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opendata.bordeaux-metropole.fr\/explore\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

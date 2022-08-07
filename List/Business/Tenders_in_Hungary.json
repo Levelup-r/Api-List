@@ -1,0 +1,11 @@
+{
+    "Name": "Tenders in Hungary",
+    "Link": "https:\/\/tenders.guru\/hu\/api",
+    "Description": "Get data for procurements in Hungary in JSON format",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tenders.guru\/hu\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

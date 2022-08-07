@@ -1,0 +1,11 @@
+{
+    "Name": "Blague.xyz",
+    "Link": "https:\/\/blague.xyz\/",
+    "Description": "La plus grande API de Blagues FR\/The biggest FR jokes API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/blague.xyz\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

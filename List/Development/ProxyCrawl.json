@@ -1,0 +1,11 @@
+{
+    "Name": "ProxyCrawl",
+    "Link": "https:\/\/proxycrawl.com",
+    "Description": "Scraping and crawling anticaptcha service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/proxycrawl.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

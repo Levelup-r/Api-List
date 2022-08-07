@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Mexico",
+    "Link": "https:\/\/datos.gob.mx\/",
+    "Description": "Mexico Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/datos.gob.mx\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

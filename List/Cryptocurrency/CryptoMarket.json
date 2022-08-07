@@ -1,0 +1,11 @@
+{
+    "Name": "CryptoMarket",
+    "Link": "https:\/\/api.exchange.cryptomkt.com\/",
+    "Description": "Cryptocurrencies Trading platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.exchange.cryptomkt.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "GENESIS",
+    "Link": "https:\/\/www.destatis.de\/EN\/Service\/OpenData\/api-webservice.html",
+    "Description": "Federal Statistical Office Germany",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.destatis.de\/EN\/Service\/OpenData\/api-webservice.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

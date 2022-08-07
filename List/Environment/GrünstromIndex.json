@@ -1,0 +1,11 @@
+{
+    "Name": "Gr\u00fcnstromIndex",
+    "Link": "https:\/\/gruenstromindex.de\/",
+    "Description": "Green Power Index for Germany (Gr\u00fcnstromindex\/GSI)",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/gruenstromindex.de\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

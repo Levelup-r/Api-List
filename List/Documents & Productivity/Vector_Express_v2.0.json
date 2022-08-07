@@ -1,0 +1,11 @@
+{
+    "Name": "Vector Express v2.0",
+    "Link": "https:\/\/vector.express",
+    "Description": "Free vector file converting API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/vector.express",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

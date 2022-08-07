@@ -1,0 +1,11 @@
+{
+    "Name": "ZenRows",
+    "Link": "https:\/\/www.zenrows.com\/",
+    "Description": "Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.zenrows.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

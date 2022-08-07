@@ -1,0 +1,11 @@
+{
+    "Name": "Monster Hunter World",
+    "Link": "https:\/\/docs.mhw-db.com\/",
+    "Description": "Monster Hunter World data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.mhw-db.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

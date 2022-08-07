@@ -1,0 +1,11 @@
+{
+    "Name": "Juju",
+    "Link": "http:\/\/www.juju.com\/publisher\/spec\/",
+    "Description": "Job search engine",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.juju.com\/publisher\/spec\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

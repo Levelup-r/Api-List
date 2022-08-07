@@ -1,0 +1,11 @@
+{
+    "Name": "Discord",
+    "Link": "https:\/\/discord.com\/developers\/docs\/intro",
+    "Description": "Make bots for Discord, integrate Discord onto an external platform",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/discord.com\/developers\/docs\/intro",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

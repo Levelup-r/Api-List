@@ -1,0 +1,11 @@
+{
+    "Name": "RandomDog",
+    "Link": "https:\/\/random.dog\/woof.json",
+    "Description": "Random pictures of dogs",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/random.dog\/woof.json",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

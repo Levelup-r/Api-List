@@ -1,0 +1,11 @@
+{
+    "Name": "US Extract",
+    "Link": "https:\/\/www.smarty.com\/products\/apis\/us-extract-api",
+    "Description": "Extract postal addresses from any text including emails",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.smarty.com\/products\/apis\/us-extract-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

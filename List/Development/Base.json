@@ -1,0 +1,11 @@
+{
+    "Name": "Base",
+    "Link": "https:\/\/www.base-api.io\/",
+    "Description": "Building quick backends",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.base-api.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

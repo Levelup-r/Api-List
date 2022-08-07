@@ -1,0 +1,11 @@
+{
+    "Name": "Open Science Framework",
+    "Link": "https:\/\/developer.osf.io",
+    "Description": "Repository and archive for study designs, research materials, data, manuscripts, etc",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.osf.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

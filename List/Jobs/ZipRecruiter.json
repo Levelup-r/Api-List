@@ -1,0 +1,11 @@
+{
+    "Name": "ZipRecruiter",
+    "Link": "https:\/\/www.ziprecruiter.com\/publishers",
+    "Description": "Job search app and website",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.ziprecruiter.com\/publishers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

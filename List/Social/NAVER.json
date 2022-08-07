@@ -1,0 +1,11 @@
+{
+    "Name": "NAVER",
+    "Link": "https:\/\/developers.naver.com\/main\/",
+    "Description": "NAVER Login, Share on NAVER, Social Plugins and more",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.naver.com\/main\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

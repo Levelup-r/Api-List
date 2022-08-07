@@ -1,0 +1,11 @@
+{
+    "Name": "Danbooru Anime",
+    "Link": "https:\/\/danbooru.donmai.us\/wiki_pages\/help:api",
+    "Description": "Thousands of anime artist database to find good anime art",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/danbooru.donmai.us\/wiki_pages\/help:api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

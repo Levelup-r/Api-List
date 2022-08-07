@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Czech Republic",
+    "Link": "https:\/\/www.chaps.cz\/eng\/products\/idos-internet",
+    "Description": "Czech transport API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.chaps.cz\/eng\/products\/idos-internet",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

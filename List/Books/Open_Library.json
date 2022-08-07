@@ -1,0 +1,11 @@
+{
+    "Name": "Open Library",
+    "Link": "https:\/\/openlibrary.org\/developers\/api",
+    "Description": "Books, book covers and related data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/openlibrary.org\/developers\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

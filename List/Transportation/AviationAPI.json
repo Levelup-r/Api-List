@@ -1,0 +1,11 @@
+{
+    "Name": "AviationAPI",
+    "Link": "https:\/\/docs.aviationapi.com",
+    "Description": "FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/docs.aviationapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

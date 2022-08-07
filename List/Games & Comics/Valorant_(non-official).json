@@ -1,0 +1,11 @@
+{
+    "Name": "Valorant (non-official)",
+    "Link": "https:\/\/valorant-api.com",
+    "Description": "An extensive API containing data of most Valorant in-game items, assets and more",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/valorant-api.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

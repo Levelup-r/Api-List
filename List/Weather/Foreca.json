@@ -1,0 +1,11 @@
+{
+    "Name": "Foreca",
+    "Link": "https:\/\/developer.foreca.com",
+    "Description": "Weather",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.foreca.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

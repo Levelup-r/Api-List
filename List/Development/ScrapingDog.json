@@ -1,0 +1,11 @@
+{
+    "Name": "ScrapingDog",
+    "Link": "https:\/\/www.scrapingdog.com\/",
+    "Description": "Proxy API for Web scraping",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.scrapingdog.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

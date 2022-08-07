@@ -1,0 +1,11 @@
+{
+    "Name": "icanhazdadjoke",
+    "Link": "https:\/\/icanhazdadjoke.com\/api",
+    "Description": "The largest selection of dad jokes on the internet",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/icanhazdadjoke.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

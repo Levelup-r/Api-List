@@ -1,0 +1,11 @@
+{
+    "Name": "Path of Exile",
+    "Link": "https:\/\/www.pathofexile.com\/developer\/docs",
+    "Description": "Path of Exile Game Information",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.pathofexile.com\/developer\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Unsplash",
+    "Link": "https:\/\/unsplash.com\/developers",
+    "Description": "Photography",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/unsplash.com\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

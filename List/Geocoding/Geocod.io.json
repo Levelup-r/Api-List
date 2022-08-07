@@ -1,0 +1,11 @@
+{
+    "Name": "Geocod.io",
+    "Link": "https:\/\/www.geocod.io\/",
+    "Description": "Address geocoding \/ reverse geocoding in bulk",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.geocod.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

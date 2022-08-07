@@ -1,0 +1,11 @@
+{
+    "Name": "WhiskyHunter",
+    "Link": "https:\/\/whiskyhunter.net\/api\/",
+    "Description": "Past online whisky auctions statistical data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/whiskyhunter.net\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

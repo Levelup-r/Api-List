@@ -1,0 +1,11 @@
+{
+    "Name": "BinaryEdge",
+    "Link": "https:\/\/docs.binaryedge.io\/api-v2.html",
+    "Description": "Provide access to BinaryEdge 40fy scanning platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.binaryedge.io\/api-v2.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

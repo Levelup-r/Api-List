@@ -1,0 +1,11 @@
+{
+    "Name": "scrapestack",
+    "Link": "https:\/\/scrapestack.com\/",
+    "Description": "Real-time, Scalable Proxy & Web Scraping REST API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/scrapestack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

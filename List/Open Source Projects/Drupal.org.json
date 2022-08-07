@@ -1,0 +1,11 @@
+{
+    "Name": "Drupal.org",
+    "Link": "https:\/\/www.drupal.org\/drupalorg\/docs\/api",
+    "Description": "Drupal.org",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.drupal.org\/drupalorg\/docs\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

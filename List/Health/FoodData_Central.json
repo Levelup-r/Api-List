@@ -1,0 +1,11 @@
+{
+    "Name": "FoodData Central",
+    "Link": "https:\/\/fdc.nal.usda.gov\/",
+    "Description": "National Nutrient Database for Standard Reference",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/fdc.nal.usda.gov\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

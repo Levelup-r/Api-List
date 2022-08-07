@@ -1,0 +1,11 @@
+{
+    "Name": "Apache Superset",
+    "Link": "https:\/\/superset.apache.org\/docs\/api",
+    "Description": "API to manage your BI dashboards and data sources on Superset",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/superset.apache.org\/docs\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

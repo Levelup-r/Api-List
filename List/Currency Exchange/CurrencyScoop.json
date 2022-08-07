@@ -1,0 +1,11 @@
+{
+    "Name": "CurrencyScoop",
+    "Link": "https:\/\/currencyscoop.com\/api-documentation",
+    "Description": "Real-time and historical currency rates JSON API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/currencyscoop.com\/api-documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

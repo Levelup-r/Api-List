@@ -1,0 +1,11 @@
+{
+    "Name": "Micro User Service",
+    "Link": "https:\/\/m3o.com\/user",
+    "Description": "User management and authentication",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/m3o.com\/user",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Indonesia Dictionary",
+    "Link": "https:\/\/new-kbbi-api.herokuapp.com\/",
+    "Description": "Indonesia dictionary many words",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/new-kbbi-api.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

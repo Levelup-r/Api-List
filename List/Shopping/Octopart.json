@@ -1,0 +1,11 @@
+{
+    "Name": "Octopart",
+    "Link": "https:\/\/octopart.com\/api\/v4\/reference",
+    "Description": "Electronic part data for manufacturing, design, and sourcing",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/octopart.com\/api\/v4\/reference",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

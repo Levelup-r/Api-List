@@ -1,0 +1,11 @@
+{
+    "Name": "Watson Natural Language Understanding",
+    "Link": "https:\/\/cloud.ibm.com\/apidocs\/natural-language-understanding\/natural-language-understanding",
+    "Description": "Natural language processing for advanced text analysis",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/cloud.ibm.com\/apidocs\/natural-language-understanding\/natural-language-understanding",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

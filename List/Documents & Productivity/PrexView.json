@@ -1,0 +1,11 @@
+{
+    "Name": "PrexView",
+    "Link": "https:\/\/prexview.com",
+    "Description": "Data from XML or JSON to PDF, HTML or Image",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/prexview.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

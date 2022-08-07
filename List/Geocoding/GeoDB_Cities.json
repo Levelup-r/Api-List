@@ -1,0 +1,11 @@
+{
+    "Name": "GeoDB Cities",
+    "Link": "http:\/\/geodb-cities-api.wirefreethought.com\/",
+    "Description": "Get global city, region, and country data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/geodb-cities-api.wirefreethought.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

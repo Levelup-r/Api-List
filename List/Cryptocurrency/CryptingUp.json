@@ -1,0 +1,11 @@
+{
+    "Name": "CryptingUp",
+    "Link": "https:\/\/www.cryptingup.com\/apidoc\/#introduction",
+    "Description": "Cryptocurrency data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.cryptingup.com\/apidoc\/#introduction",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

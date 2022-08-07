@@ -1,0 +1,11 @@
+{
+    "Name": "Amdoren",
+    "Link": "https:\/\/www.amdoren.com\/currency-api\/",
+    "Description": "Free currency API with over 150 currencies",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.amdoren.com\/currency-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

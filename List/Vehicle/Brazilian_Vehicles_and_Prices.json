@@ -1,0 +1,11 @@
+{
+    "Name": "Brazilian Vehicles and Prices",
+    "Link": "https:\/\/deividfortuna.github.io\/fipe\/",
+    "Description": "Vehicles information from Funda\u00e7\u00e3o Instituto de Pesquisas Econ\u00f4micas - Fipe",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/deividfortuna.github.io\/fipe\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

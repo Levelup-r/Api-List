@@ -1,0 +1,11 @@
+{
+    "Name": "Storm Glass",
+    "Link": "https:\/\/stormglass.io\/",
+    "Description": "Global marine weather from multiple sources",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/stormglass.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

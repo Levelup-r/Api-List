@@ -1,0 +1,11 @@
+{
+    "Name": "Words",
+    "Link": "https:\/\/www.wordsapi.com\/docs\/",
+    "Description": "Definitions and synonyms for more than 150,000 words",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.wordsapi.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

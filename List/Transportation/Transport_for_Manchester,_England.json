@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Manchester, England",
+    "Link": "https:\/\/developer.tfgm.com\/",
+    "Description": "TfGM transport network data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/developer.tfgm.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Abstract Email Validation",
+    "Link": "https:\/\/www.abstractapi.com\/email-verification-validation-api",
+    "Description": "Validate email addresses for deliverability and spam",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.abstractapi.com\/email-verification-validation-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

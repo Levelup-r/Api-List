@@ -1,0 +1,11 @@
+{
+    "Name": "Random Useless Facts",
+    "Link": "https:\/\/uselessfacts.jsph.pl\/",
+    "Description": "Get useless, but true facts",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/uselessfacts.jsph.pl\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

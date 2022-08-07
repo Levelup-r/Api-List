@@ -1,0 +1,11 @@
+{
+    "Name": "SeatGeek",
+    "Link": "https:\/\/platform.seatgeek.com\/",
+    "Description": "Search events, venues and performers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/platform.seatgeek.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

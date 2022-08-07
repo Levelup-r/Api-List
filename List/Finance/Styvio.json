@@ -1,0 +1,11 @@
+{
+    "Name": "Styvio",
+    "Link": "https:\/\/www.Styvio.com",
+    "Description": "Realtime and historical stock data and current stock sentiment",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.Styvio.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

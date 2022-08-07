@@ -1,0 +1,11 @@
+{
+    "Name": "BtcTurk",
+    "Link": "https:\/\/docs.btcturk.com\/",
+    "Description": "Real-time cryptocurrency data, graphs and API that allows buy&sell",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.btcturk.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

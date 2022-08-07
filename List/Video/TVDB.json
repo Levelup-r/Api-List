@@ -1,0 +1,11 @@
+{
+    "Name": "TVDB",
+    "Link": "https:\/\/thetvdb.com\/api-information",
+    "Description": "Television data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/thetvdb.com\/api-information",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

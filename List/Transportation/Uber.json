@@ -1,0 +1,11 @@
+{
+    "Name": "Uber",
+    "Link": "https:\/\/developer.uber.com\/products",
+    "Description": "Uber ride requests and price estimation",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developer.uber.com\/products",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

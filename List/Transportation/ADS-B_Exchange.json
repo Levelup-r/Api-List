@@ -1,0 +1,11 @@
+{
+    "Name": "ADS-B Exchange",
+    "Link": "https:\/\/www.adsbexchange.com\/data\/",
+    "Description": "Access real-time and historical data of any and all airborne aircraft",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.adsbexchange.com\/data\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

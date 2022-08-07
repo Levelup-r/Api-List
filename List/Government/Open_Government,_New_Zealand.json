@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, New Zealand",
+    "Link": "https:\/\/www.data.govt.nz\/",
+    "Description": "New Zealand Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.govt.nz\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

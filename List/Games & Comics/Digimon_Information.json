@@ -1,0 +1,11 @@
+{
+    "Name": "Digimon Information",
+    "Link": "https:\/\/digimon-api.vercel.app\/",
+    "Description": "Provides information about digimon creatures",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/digimon-api.vercel.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

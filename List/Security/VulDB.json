@@ -1,0 +1,11 @@
+{
+    "Name": "VulDB",
+    "Link": "https:\/\/vuldb.com\/?doc.api",
+    "Description": "VulDB API allows to initiate queries for one or more items along with transactional bots",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/vuldb.com\/?doc.api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

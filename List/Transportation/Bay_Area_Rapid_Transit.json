@@ -1,0 +1,11 @@
+{
+    "Name": "Bay Area Rapid Transit",
+    "Link": "http:\/\/api.bart.gov",
+    "Description": "Stations and predicted arrivals for BART",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/api.bart.gov",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

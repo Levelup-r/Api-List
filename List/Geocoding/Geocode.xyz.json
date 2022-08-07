@@ -1,0 +1,11 @@
+{
+    "Name": "Geocode.xyz",
+    "Link": "https:\/\/geocode.xyz\/api",
+    "Description": "Provides worldwide forward\/reverse geocoding, batch geocoding and geoparsing",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/geocode.xyz\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

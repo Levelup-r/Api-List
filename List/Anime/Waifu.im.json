@@ -1,0 +1,11 @@
+{
+    "Name": "Waifu.im",
+    "Link": "https:\/\/waifu.im\/docs",
+    "Description": "Get waifu pictures from an archive of over 4000 images and multiple tags",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/waifu.im\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

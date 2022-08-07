@@ -1,0 +1,11 @@
+{
+    "Name": "Pixel Encounter",
+    "Link": "https:\/\/pixelencounter.com\/api",
+    "Description": "SVG Icon Generator",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/pixelencounter.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

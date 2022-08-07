@@ -1,0 +1,11 @@
+{
+    "Name": "Watchmode",
+    "Link": "https:\/\/api.watchmode.com\/",
+    "Description": "API for finding out the streaming availability of movies & shows",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.watchmode.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

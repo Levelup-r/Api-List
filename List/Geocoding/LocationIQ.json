@@ -1,0 +1,11 @@
+{
+    "Name": "LocationIQ",
+    "Link": "https:\/\/locationiq.org\/docs\/",
+    "Description": "Provides forward\/reverse geocoding and batch geocoding",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/locationiq.org\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

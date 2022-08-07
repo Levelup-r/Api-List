@@ -1,0 +1,11 @@
+{
+    "Name": "Mexico",
+    "Link": "https:\/\/github.com\/IcaliaLabs\/sepomex",
+    "Description": "Mexico RESTful zip codes API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/IcaliaLabs\/sepomex",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

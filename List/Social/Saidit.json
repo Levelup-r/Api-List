@@ -1,0 +1,11 @@
+{
+    "Name": "Saidit",
+    "Link": "https:\/\/www.saidit.net\/dev\/api",
+    "Description": "Open Source Reddit Clone",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.saidit.net\/dev\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

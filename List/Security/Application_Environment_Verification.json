@@ -1,0 +1,11 @@
+{
+    "Name": "Application Environment Verification",
+    "Link": "https:\/\/github.com\/fingerprintjs\/aev",
+    "Description": "Android library and API to verify the safety of user devices, detect rooted devices and other risks",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/fingerprintjs\/aev",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "NekosBest",
+    "Link": "https:\/\/docs.nekos.best",
+    "Description": "Neko Images & Anime roleplaying GIFs",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.nekos.best",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

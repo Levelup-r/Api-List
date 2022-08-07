@@ -1,0 +1,11 @@
+{
+    "Name": "ISRO",
+    "Link": "https:\/\/isro.vercel.app",
+    "Description": "ISRO Space Crafts Information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/isro.vercel.app",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

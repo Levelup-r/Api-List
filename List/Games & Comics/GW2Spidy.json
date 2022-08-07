@@ -1,0 +1,11 @@
+{
+    "Name": "GW2Spidy",
+    "Link": "https:\/\/github.com\/rubensayshi\/gw2spidy\/wiki",
+    "Description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/rubensayshi\/gw2spidy\/wiki",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

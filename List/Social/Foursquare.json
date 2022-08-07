@@ -1,0 +1,11 @@
+{
+    "Name": "Foursquare",
+    "Link": "https:\/\/developer.foursquare.com\/",
+    "Description": "Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.foursquare.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

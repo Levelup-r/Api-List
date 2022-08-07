@@ -1,0 +1,11 @@
+{
+    "Name": "MicroENV",
+    "Link": "https:\/\/microenv.com\/",
+    "Description": "Fake Rest API for developers",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/microenv.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

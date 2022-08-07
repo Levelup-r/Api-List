@@ -1,0 +1,11 @@
+{
+    "Name": "Jokes One",
+    "Link": "https:\/\/jokes.one\/api\/joke\/",
+    "Description": "Joke of the day and large category of jokes accessible via REST API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/jokes.one\/api\/joke\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

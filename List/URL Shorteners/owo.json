@@ -1,0 +1,11 @@
+{
+    "Name": "owo",
+    "Link": "https:\/\/owo.vc\/api",
+    "Description": "A simple link obfuscator\/shortener",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/owo.vc\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Hytale",
+    "Link": "https:\/\/hytale-api.com\/",
+    "Description": "Hytale blog posts and jobs",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/hytale-api.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

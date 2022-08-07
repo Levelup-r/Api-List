@@ -1,0 +1,11 @@
+{
+    "Name": "Code.gov",
+    "Link": "https:\/\/code.gov",
+    "Description": "The primary platform for Open Source and code sharing for the U.S. Federal Government",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/code.gov",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

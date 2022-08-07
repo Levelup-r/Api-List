@@ -1,0 +1,11 @@
+{
+    "Name": "24 Pull Requests",
+    "Link": "https:\/\/24pullrequests.com\/api",
+    "Description": "Project to promote open source collaboration during December",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/24pullrequests.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "UK Carbon Intensity",
+    "Link": "https:\/\/carbon-intensity.github.io\/api-definitions\/#carbon-intensity-api-v1-0-0",
+    "Description": "The Official Carbon Intensity API for Great Britain developed by National Grid",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/carbon-intensity.github.io\/api-definitions\/#carbon-intensity-api-v1-0-0",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

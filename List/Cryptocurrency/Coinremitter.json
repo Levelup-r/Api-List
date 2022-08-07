@@ -1,0 +1,11 @@
+{
+    "Name": "Coinremitter",
+    "Link": "https:\/\/coinremitter.com\/docs",
+    "Description": "Cryptocurrencies Payment & Prices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/coinremitter.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

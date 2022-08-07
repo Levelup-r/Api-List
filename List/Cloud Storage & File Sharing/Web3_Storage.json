@@ -1,0 +1,11 @@
+{
+    "Name": "Web3 Storage",
+    "Link": "https:\/\/web3.storage\/",
+    "Description": "File Sharing and Storage for Free with 1TB Space",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/web3.storage\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

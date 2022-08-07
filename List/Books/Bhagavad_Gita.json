@@ -1,0 +1,11 @@
+{
+    "Name": "Bhagavad Gita",
+    "Link": "https:\/\/bhagavadgita.io\/api",
+    "Description": "Bhagavad Gita text",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/bhagavadgita.io\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

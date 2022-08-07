@@ -1,0 +1,11 @@
+{
+    "Name": "Boston MBTA Transit",
+    "Link": "https:\/\/www.mbta.com\/developers\/v3-api",
+    "Description": "Stations and predicted arrivals for MBTA",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mbta.com\/developers\/v3-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

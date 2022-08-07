@@ -1,0 +1,11 @@
+{
+    "Name": "Coinlib",
+    "Link": "https:\/\/coinlib.io\/apidocs",
+    "Description": "Crypto Currency Prices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/coinlib.io\/apidocs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

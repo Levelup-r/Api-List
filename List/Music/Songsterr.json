@@ -1,0 +1,11 @@
+{
+    "Name": "Songsterr",
+    "Link": "https:\/\/www.songsterr.com\/a\/wa\/api\/",
+    "Description": "Provides guitar, bass and drums tabs and chords",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.songsterr.com\/a\/wa\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

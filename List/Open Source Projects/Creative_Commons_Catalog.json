@@ -1,0 +1,11 @@
+{
+    "Name": "Creative Commons Catalog",
+    "Link": "https:\/\/api.creativecommons.engineering\/",
+    "Description": "Search among openly licensed and public domain works",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.creativecommons.engineering\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

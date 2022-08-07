@@ -1,0 +1,11 @@
+{
+    "Name": "Helium",
+    "Link": "https:\/\/docs.helium.com\/api\/blockchain\/introduction\/",
+    "Description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.helium.com\/api\/blockchain\/introduction\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

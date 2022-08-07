@@ -1,0 +1,11 @@
+{
+    "Name": "Google Earth Engine",
+    "Link": "https:\/\/developers.google.com\/earth-engine\/",
+    "Description": "A cloud-based platform for planetary-scale environmental data analysis",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/earth-engine\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

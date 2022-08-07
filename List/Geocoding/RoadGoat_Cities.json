@@ -1,0 +1,11 @@
+{
+    "Name": "RoadGoat Cities",
+    "Link": "https:\/\/www.roadgoat.com\/business\/cities-api",
+    "Description": "Cities content & photos API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.roadgoat.com\/business\/cities-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

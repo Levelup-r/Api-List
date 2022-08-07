@@ -1,0 +1,11 @@
+{
+    "Name": "CountryStateCity",
+    "Link": "https:\/\/countrystatecity.in\/",
+    "Description": "World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/countrystatecity.in\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

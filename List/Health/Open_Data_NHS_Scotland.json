@@ -1,0 +1,11 @@
+{
+    "Name": "Open Data NHS Scotland",
+    "Link": "https:\/\/www.opendata.nhs.scot",
+    "Description": "Medical reference data and statistics by Public Health Scotland",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.opendata.nhs.scot",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

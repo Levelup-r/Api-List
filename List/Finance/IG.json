@@ -1,0 +1,11 @@
+{
+    "Name": "IG",
+    "Link": "https:\/\/labs.ig.com\/gettingstarted",
+    "Description": "Spreadbetting and CFD Market Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/labs.ig.com\/gettingstarted",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Hotstoks",
+    "Link": "https:\/\/hotstoks.com?utm_source=public-apis",
+    "Description": "Stock market data powered by SQL",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/hotstoks.com?utm_source=public-apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

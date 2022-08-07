@@ -1,0 +1,11 @@
+{
+    "Name": "GeekFlare",
+    "Link": "https:\/\/apidocs.geekflare.com\/docs\/geekflare-api",
+    "Description": "Provide numerous capabilities for important testing and monitoring methods for websites",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apidocs.geekflare.com\/docs\/geekflare-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

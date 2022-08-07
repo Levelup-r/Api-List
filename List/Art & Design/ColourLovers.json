@@ -1,0 +1,11 @@
+{
+    "Name": "ColourLovers",
+    "Link": "http:\/\/www.colourlovers.com\/api",
+    "Description": "Get various patterns, palettes and images",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.colourlovers.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Finland",
+    "Link": "https:\/\/www.avoindata.fi\/en",
+    "Description": "Finland Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.avoindata.fi\/en",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

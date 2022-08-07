@@ -1,0 +1,11 @@
+{
+    "Name": "Visual Crossing",
+    "Link": "https:\/\/www.visualcrossing.com\/weather-api",
+    "Description": "Global historical and weather forecast data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.visualcrossing.com\/weather-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Open Disease",
+    "Link": "https:\/\/disease.sh\/",
+    "Description": "API for Current cases and more stuff about COVID-19 and Influenza",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/disease.sh\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

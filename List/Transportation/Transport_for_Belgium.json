@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Belgium",
+    "Link": "https:\/\/docs.irail.be\/",
+    "Description": "The iRail API is a third-party API for Belgian public transport by train",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.irail.be\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

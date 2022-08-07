@@ -1,0 +1,11 @@
+{
+    "Name": "The Lord of the Rings",
+    "Link": "https:\/\/the-one-api.dev\/",
+    "Description": "The Lord of the Rings API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/the-one-api.dev\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

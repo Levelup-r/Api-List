@@ -1,0 +1,11 @@
+{
+    "Name": "MojoAuth",
+    "Link": "https:\/\/mojoauth.com",
+    "Description": "Secure and modern passwordless authentication platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/mojoauth.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

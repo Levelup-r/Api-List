@@ -1,0 +1,11 @@
+{
+    "Name": "Data USA",
+    "Link": "https:\/\/datausa.io\/about\/api\/",
+    "Description": "US Public Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/datausa.io\/about\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

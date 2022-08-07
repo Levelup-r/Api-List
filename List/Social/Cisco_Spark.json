@@ -1,0 +1,11 @@
+{
+    "Name": "Cisco Spark",
+    "Link": "https:\/\/developer.ciscospark.com",
+    "Description": "Team Collaboration Software",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.ciscospark.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

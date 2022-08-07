@@ -1,0 +1,11 @@
+{
+    "Name": "Brazil Receita WS",
+    "Link": "https:\/\/www.receitaws.com.br\/",
+    "Description": "Consult companies by CNPJ for Brazilian companies",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.receitaws.com.br\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

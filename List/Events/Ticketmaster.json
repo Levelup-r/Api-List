@@ -1,0 +1,11 @@
+{
+    "Name": "Ticketmaster",
+    "Link": "http:\/\/developer.ticketmaster.com\/products-and-docs\/apis\/getting-started\/",
+    "Description": "Search events, attractions, or venues",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/developer.ticketmaster.com\/products-and-docs\/apis\/getting-started\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "FFXIV Collect",
+    "Link": "https:\/\/ffxivcollect.com\/",
+    "Description": "Final Fantasy XIV data on collectables",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/ffxivcollect.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

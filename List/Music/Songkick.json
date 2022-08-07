@@ -1,0 +1,11 @@
+{
+    "Name": "Songkick",
+    "Link": "https:\/\/www.songkick.com\/developer\/",
+    "Description": "Music Events",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.songkick.com\/developer\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

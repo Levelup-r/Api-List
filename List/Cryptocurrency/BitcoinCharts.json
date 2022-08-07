@@ -1,0 +1,11 @@
+{
+    "Name": "BitcoinCharts",
+    "Link": "https:\/\/bitcoincharts.com\/about\/exchanges\/",
+    "Description": "Financial and Technical Data related to the Bitcoin Network",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bitcoincharts.com\/about\/exchanges\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Sport Data",
+    "Link": "https:\/\/sportdataapi.com",
+    "Description": "Get sports data from all over the world",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/sportdataapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

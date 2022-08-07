@@ -1,0 +1,11 @@
+{
+    "Name": "Technical Analysis",
+    "Link": "https:\/\/technical-analysis-api.com",
+    "Description": "Cryptocurrency prices and technical analysis",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/technical-analysis-api.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

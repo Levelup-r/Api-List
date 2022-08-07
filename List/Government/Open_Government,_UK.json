@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, UK",
+    "Link": "https:\/\/data.gov.uk\/",
+    "Description": "UK Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.uk\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

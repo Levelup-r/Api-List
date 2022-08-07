@@ -1,0 +1,11 @@
+{
+    "Name": "ScreenshotAPI.net",
+    "Link": "https:\/\/screenshotapi.net\/",
+    "Description": "Create pixel-perfect website screenshots",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/screenshotapi.net\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Mercury",
+    "Link": "https:\/\/mercury.postlight.com\/web-parser\/",
+    "Description": "Web parser",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mercury.postlight.com\/web-parser\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

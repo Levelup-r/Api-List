@@ -1,0 +1,11 @@
+{
+    "Name": "vk",
+    "Link": "https:\/\/vk.com\/dev\/sites",
+    "Description": "Read and write vk data",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/vk.com\/dev\/sites",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

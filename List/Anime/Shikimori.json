@@ -1,0 +1,11 @@
+{
+    "Name": "Shikimori",
+    "Link": "https:\/\/shikimori.one\/api\/doc",
+    "Description": "Anime discovery, tracking, forum, rates",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/shikimori.one\/api\/doc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

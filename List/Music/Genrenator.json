@@ -1,0 +1,11 @@
+{
+    "Name": "Genrenator",
+    "Link": "https:\/\/binaryjazz.us\/genrenator-api\/",
+    "Description": "Music genre generator",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/binaryjazz.us\/genrenator-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

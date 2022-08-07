@@ -1,0 +1,11 @@
+{
+    "Name": "Tripadvisor",
+    "Link": "https:\/\/developer-tripadvisor.com\/home\/",
+    "Description": "Rating content for a hotel, restaurant, attraction or destination",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer-tripadvisor.com\/home\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

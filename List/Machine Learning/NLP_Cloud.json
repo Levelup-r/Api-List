@@ -1,0 +1,11 @@
+{
+    "Name": "NLP Cloud",
+    "Link": "https:\/\/nlpcloud.io",
+    "Description": "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/nlpcloud.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

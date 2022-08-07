@@ -1,0 +1,11 @@
+{
+    "Name": "Disney",
+    "Link": "https:\/\/disneyapi.dev",
+    "Description": "Information of Disney characters",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/disneyapi.dev",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

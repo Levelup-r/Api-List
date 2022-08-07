@@ -1,0 +1,11 @@
+{
+    "Name": "Web Series Quotes Generator",
+    "Link": "https:\/\/github.com\/yogeshwaran01\/web-series-quotes",
+    "Description": "API generates various Web Series Quote Images",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/yogeshwaran01\/web-series-quotes",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

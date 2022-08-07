@@ -1,0 +1,11 @@
+{
+    "Name": "Cat Facts",
+    "Link": "https:\/\/alexwohlbruck.github.io\/cat-facts\/",
+    "Description": "Daily cat facts",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/alexwohlbruck.github.io\/cat-facts\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

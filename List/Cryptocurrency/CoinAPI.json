@@ -1,0 +1,11 @@
+{
+    "Name": "CoinAPI",
+    "Link": "https:\/\/docs.coinapi.io\/",
+    "Description": "All Currency Exchanges integrate under a single api",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/docs.coinapi.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

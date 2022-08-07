@@ -1,0 +1,11 @@
+{
+    "Name": "UPS",
+    "Link": "https:\/\/www.ups.com\/upsdeveloperkit",
+    "Description": "Shipment and Address information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.ups.com\/upsdeveloperkit",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

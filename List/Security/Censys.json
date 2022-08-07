@@ -1,0 +1,11 @@
+{
+    "Name": "Censys",
+    "Link": "https:\/\/search.censys.io\/api",
+    "Description": "Search engine for Internet connected host and devices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/search.censys.io\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

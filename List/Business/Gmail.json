@@ -1,0 +1,11 @@
+{
+    "Name": "Gmail",
+    "Link": "https:\/\/developers.google.com\/gmail\/api\/",
+    "Description": "Flexible, RESTful access to the user's inbox",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/gmail\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

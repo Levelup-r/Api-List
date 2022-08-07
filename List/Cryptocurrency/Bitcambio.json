@@ -1,0 +1,11 @@
+{
+    "Name": "Bitcambio",
+    "Link": "https:\/\/nova.bitcambio.com.br\/api\/v3\/docs#a-public",
+    "Description": "Get the list of all traded assets in the exchange",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/nova.bitcambio.com.br\/api\/v3\/docs#a-public",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

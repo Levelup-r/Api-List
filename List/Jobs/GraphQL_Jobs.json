@@ -1,0 +1,11 @@
+{
+    "Name": "GraphQL Jobs",
+    "Link": "https:\/\/graphql.jobs\/docs\/api\/",
+    "Description": "Jobs with GraphQL",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/graphql.jobs\/docs\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

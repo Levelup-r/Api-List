@@ -1,0 +1,11 @@
+{
+    "Name": "xkcd",
+    "Link": "https:\/\/xkcd.com\/json.html",
+    "Description": "Retrieve xkcd comics as JSON",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/xkcd.com\/json.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

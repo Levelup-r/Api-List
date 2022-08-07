@@ -1,0 +1,11 @@
+{
+    "Name": "Intrinio",
+    "Link": "https:\/\/intrinio.com\/",
+    "Description": "A wide selection of financial data feeds",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/intrinio.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

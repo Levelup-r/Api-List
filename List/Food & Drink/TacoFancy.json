@@ -1,0 +1,11 @@
+{
+    "Name": "TacoFancy",
+    "Link": "https:\/\/github.com\/evz\/tacofancy-api",
+    "Description": "Community-driven taco database",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/evz\/tacofancy-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

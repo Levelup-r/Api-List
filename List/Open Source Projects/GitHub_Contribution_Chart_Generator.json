@@ -1,0 +1,11 @@
+{
+    "Name": "GitHub Contribution Chart Generator",
+    "Link": "https:\/\/github-contributions.vercel.app",
+    "Description": "Create an image of your GitHub contributions",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github-contributions.vercel.app",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

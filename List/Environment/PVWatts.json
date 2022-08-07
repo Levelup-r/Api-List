@@ -1,0 +1,11 @@
+{
+    "Name": "PVWatts",
+    "Link": "https:\/\/developer.nrel.gov\/docs\/solar\/pvwatts\/v6\/",
+    "Description": "Energy production photovoltaic (PV) energy systems",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.nrel.gov\/docs\/solar\/pvwatts\/v6\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

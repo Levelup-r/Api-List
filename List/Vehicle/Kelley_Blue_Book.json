@@ -1,0 +1,11 @@
+{
+    "Name": "Kelley Blue Book",
+    "Link": "http:\/\/developer.kbb.com\/#!\/data\/1-Default",
+    "Description": "Vehicle info, pricing, configuration, plus much more",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "http:\/\/developer.kbb.com\/#!\/data\/1-Default",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

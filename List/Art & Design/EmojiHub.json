@@ -1,0 +1,11 @@
+{
+    "Name": "EmojiHub",
+    "Link": "https:\/\/github.com\/cheatsnake\/emojihub",
+    "Description": "Get emojis by categories and groups",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/cheatsnake\/emojihub",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

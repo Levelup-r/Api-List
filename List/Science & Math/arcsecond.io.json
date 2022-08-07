@@ -1,0 +1,11 @@
+{
+    "Name": "arcsecond.io",
+    "Link": "https:\/\/api.arcsecond.io\/",
+    "Description": "Multiple astronomy data sources",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.arcsecond.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

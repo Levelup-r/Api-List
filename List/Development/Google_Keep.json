@@ -1,0 +1,11 @@
+{
+    "Name": "Google Keep",
+    "Link": "https:\/\/developers.google.com\/keep\/api\/reference\/rest",
+    "Description": "API to read, write, and format Google Keep notes",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/keep\/api\/reference\/rest",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

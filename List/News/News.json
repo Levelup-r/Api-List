@@ -1,0 +1,11 @@
+{
+    "Name": "News",
+    "Link": "https:\/\/newsapi.org\/",
+    "Description": "Headlines currently published on a range of news sources and blogs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/newsapi.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

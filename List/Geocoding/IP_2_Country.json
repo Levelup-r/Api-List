@@ -1,0 +1,11 @@
+{
+    "Name": "IP 2 Country",
+    "Link": "https:\/\/ip2country.info",
+    "Description": "Map an IP to a country",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ip2country.info",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

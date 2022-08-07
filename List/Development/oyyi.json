@@ -1,0 +1,11 @@
+{
+    "Name": "oyyi",
+    "Link": "https:\/\/oyyi.xyz\/docs\/1.0",
+    "Description": "API for Fake Data, image\/video conversion, optimization, pdf optimization and thumbnail generation",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/oyyi.xyz\/docs\/1.0",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

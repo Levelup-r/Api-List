@@ -1,0 +1,11 @@
+{
+    "Name": "Geocodify.com",
+    "Link": "https:\/\/geocodify.com\/",
+    "Description": "Worldwide geocoding, geoparsing and autocomplete for addresses",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/geocodify.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

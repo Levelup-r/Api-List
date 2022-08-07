@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Sweden",
+    "Link": "https:\/\/www.dataportal.se\/en\/dataservice\/91_29789\/api-for-the-statistical-database",
+    "Description": "Sweden Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.dataportal.se\/en\/dataservice\/91_29789\/api-for-the-statistical-database",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

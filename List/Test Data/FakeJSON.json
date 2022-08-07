@@ -1,0 +1,11 @@
+{
+    "Name": "FakeJSON",
+    "Link": "https:\/\/fakejson.com",
+    "Description": "Service to generate test and fake data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/fakejson.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "MercadoBitcoin",
+    "Link": "https:\/\/www.mercadobitcoin.com.br\/api-doc\/",
+    "Description": "Brazilian Cryptocurrency Information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mercadobitcoin.com.br\/api-doc\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

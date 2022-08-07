@@ -1,0 +1,11 @@
+{
+    "Name": "Exchangerate.host",
+    "Link": "https:\/\/exchangerate.host",
+    "Description": "Free foreign exchange & crypto rates API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/exchangerate.host",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

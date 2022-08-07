@@ -1,0 +1,11 @@
+{
+    "Name": "GurbaniNow",
+    "Link": "https:\/\/github.com\/GurbaniNow\/api",
+    "Description": "Fast and Accurate Gurbani RESTful API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/GurbaniNow\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

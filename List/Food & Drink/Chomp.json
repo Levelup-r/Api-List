@@ -1,0 +1,11 @@
+{
+    "Name": "Chomp",
+    "Link": "https:\/\/chompthis.com\/api\/",
+    "Description": "Data about various grocery products and foods",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/chompthis.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

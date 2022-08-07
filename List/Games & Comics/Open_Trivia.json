@@ -1,0 +1,11 @@
+{
+    "Name": "Open Trivia",
+    "Link": "https:\/\/opentdb.com\/api_config.php",
+    "Description": "Trivia Questions",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opentdb.com\/api_config.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "TasteDive",
+    "Link": "https:\/\/tastedive.com\/read\/api",
+    "Description": "Similar artist API (also works for movies and TV shows)",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tastedive.com\/read\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

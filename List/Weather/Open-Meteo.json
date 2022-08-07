@@ -1,0 +1,11 @@
+{
+    "Name": "Open-Meteo",
+    "Link": "https:\/\/open-meteo.com\/",
+    "Description": "Global weather forecast API for non-commercial use",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/open-meteo.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

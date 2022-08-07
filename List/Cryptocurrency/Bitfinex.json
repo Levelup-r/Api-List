@@ -1,0 +1,11 @@
+{
+    "Name": "Bitfinex",
+    "Link": "https:\/\/docs.bitfinex.com\/docs",
+    "Description": "Cryptocurrency Trading Platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.bitfinex.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

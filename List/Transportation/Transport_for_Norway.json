@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Norway",
+    "Link": "https:\/\/developer.entur.org\/",
+    "Description": "Transport APIs and dataset for Norway",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.entur.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

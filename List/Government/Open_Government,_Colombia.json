@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Colombia",
+    "Link": "https:\/\/www.dane.gov.co\/",
+    "Description": "Colombia Government Open Data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.dane.gov.co\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

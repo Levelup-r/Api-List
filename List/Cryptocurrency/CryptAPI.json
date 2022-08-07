@@ -1,0 +1,11 @@
+{
+    "Name": "CryptAPI",
+    "Link": "https:\/\/docs.cryptapi.io\/",
+    "Description": "Cryptocurrency Payment Processor",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.cryptapi.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Reddit",
+    "Link": "https:\/\/www.reddit.com\/dev\/api",
+    "Description": "Homepage of the internet",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.reddit.com\/dev\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

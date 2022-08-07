@@ -1,0 +1,11 @@
+{
+    "Name": "JSONbin.io",
+    "Link": "https:\/\/jsonbin.io",
+    "Description": "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/jsonbin.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

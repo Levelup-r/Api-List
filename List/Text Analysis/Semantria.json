@@ -1,0 +1,11 @@
+{
+    "Name": "Semantria",
+    "Link": "https:\/\/semantria.readme.io\/docs",
+    "Description": "Text Analytics with sentiment analysis, categorization & named entity extraction",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/semantria.readme.io\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

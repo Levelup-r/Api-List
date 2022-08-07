@@ -1,0 +1,11 @@
+{
+    "Name": "SEC EDGAR Data",
+    "Link": "https:\/\/www.sec.gov\/edgar\/sec-api-documentation",
+    "Description": "API to access annual reports of public US companies",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.sec.gov\/edgar\/sec-api-documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

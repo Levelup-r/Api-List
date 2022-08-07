@@ -1,0 +1,11 @@
+{
+    "Name": "Fun Fact",
+    "Link": "https:\/\/api.aakhilv.me",
+    "Description": "A simple HTTPS api that can randomly select and return a fact from the FFA database",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.aakhilv.me",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

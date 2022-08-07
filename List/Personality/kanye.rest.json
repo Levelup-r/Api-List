@@ -1,0 +1,11 @@
+{
+    "Name": "kanye.rest",
+    "Link": "https:\/\/kanye.rest",
+    "Description": "REST API for random Kanye West quotes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/kanye.rest",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

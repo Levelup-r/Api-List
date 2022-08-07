@@ -1,0 +1,11 @@
+{
+    "Name": "1pt",
+    "Link": "https:\/\/github.com\/1pt-co\/api\/blob\/main\/README.md",
+    "Description": "A simple URL shortener",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/1pt-co\/api\/blob\/main\/README.md",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

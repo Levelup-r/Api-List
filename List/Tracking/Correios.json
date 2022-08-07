@@ -1,0 +1,11 @@
+{
+    "Name": "Correios",
+    "Link": "https:\/\/cws.correios.com.br\/ajuda",
+    "Description": "Integration to provide information and prepare shipments using Correio's services",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/cws.correios.com.br\/ajuda",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

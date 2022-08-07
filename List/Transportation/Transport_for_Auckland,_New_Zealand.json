@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Auckland, New Zealand",
+    "Link": "https:\/\/dev-portal.at.govt.nz\/",
+    "Description": "Auckland Transport",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dev-portal.at.govt.nz\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

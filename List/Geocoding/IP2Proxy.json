@@ -1,0 +1,11 @@
+{
+    "Name": "IP2Proxy",
+    "Link": "https:\/\/www.ip2location.com\/web-service\/ip2proxy",
+    "Description": "Detect proxy and VPN using IP address",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.ip2location.com\/web-service\/ip2proxy",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

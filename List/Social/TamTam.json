@@ -1,0 +1,11 @@
+{
+    "Name": "TamTam",
+    "Link": "https:\/\/dev.tamtam.chat\/",
+    "Description": "Bot API to interact with TamTam",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dev.tamtam.chat\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "SWAPI",
+    "Link": "https:\/\/www.swapi.tech",
+    "Description": "All things Star Wars",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.swapi.tech",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

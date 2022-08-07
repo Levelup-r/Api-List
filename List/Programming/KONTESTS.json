@@ -1,0 +1,11 @@
+{
+    "Name": "KONTESTS",
+    "Link": "https:\/\/kontests.net\/api",
+    "Description": "For upcoming and ongoing competitive coding contests",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/kontests.net\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

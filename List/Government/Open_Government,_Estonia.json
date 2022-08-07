@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Estonia",
+    "Link": "https:\/\/avaandmed.eesti.ee\/instructions\/opendata-dataset-api",
+    "Description": "Estonia Government Open Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/avaandmed.eesti.ee\/instructions\/opendata-dataset-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

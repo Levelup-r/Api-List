@@ -1,0 +1,11 @@
+{
+    "Name": "Dehash.lt",
+    "Link": "https:\/\/github.com\/Dehash-lt\/api",
+    "Description": "Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/Dehash-lt\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

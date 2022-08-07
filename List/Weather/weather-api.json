@@ -1,0 +1,11 @@
+{
+    "Name": "weather-api",
+    "Link": "https:\/\/github.com\/robertoduessmann\/weather-api",
+    "Description": "A RESTful free API to check the weather",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/robertoduessmann\/weather-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

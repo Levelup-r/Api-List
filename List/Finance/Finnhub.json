@@ -1,0 +1,11 @@
+{
+    "Name": "Finnhub",
+    "Link": "https:\/\/finnhub.io\/docs\/api",
+    "Description": "Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/finnhub.io\/docs\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

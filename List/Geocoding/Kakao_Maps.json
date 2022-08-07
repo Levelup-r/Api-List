@@ -1,0 +1,11 @@
+{
+    "Name": "Kakao Maps",
+    "Link": "https:\/\/apis.map.kakao.com",
+    "Description": "Kakao Maps provide multiple APIs for Korean maps",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apis.map.kakao.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

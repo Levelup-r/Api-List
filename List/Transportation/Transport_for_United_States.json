@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for United States",
+    "Link": "https:\/\/retro.umoiq.com\/xmlFeedDocs\/NextBusXMLFeed.pdf",
+    "Description": "NextBus API",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/retro.umoiq.com\/xmlFeedDocs\/NextBusXMLFeed.pdf",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

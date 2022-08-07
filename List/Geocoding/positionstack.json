@@ -1,0 +1,11 @@
+{
+    "Name": "positionstack",
+    "Link": "https:\/\/positionstack.com\/",
+    "Description": "Forward & Reverse Batch Geocoding REST API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/positionstack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

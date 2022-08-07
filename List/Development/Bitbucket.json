@@ -1,0 +1,11 @@
+{
+    "Name": "Bitbucket",
+    "Link": "https:\/\/developer.atlassian.com\/bitbucket\/api\/2\/reference\/",
+    "Description": "Bitbucket API",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.atlassian.com\/bitbucket\/api\/2\/reference\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

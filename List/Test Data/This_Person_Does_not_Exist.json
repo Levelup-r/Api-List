@@ -1,0 +1,11 @@
+{
+    "Name": "This Person Does not Exist",
+    "Link": "https:\/\/thispersondoesnotexist.com",
+    "Description": "Generates real-life faces of people who do not exist",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/thispersondoesnotexist.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

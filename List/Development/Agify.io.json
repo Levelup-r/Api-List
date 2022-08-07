@@ -1,0 +1,11 @@
+{
+    "Name": "Agify.io",
+    "Link": "https:\/\/agify.io",
+    "Description": "Estimates the age from a first name",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/agify.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "City, Nantes Open Data",
+    "Link": "https:\/\/data.nantesmetropole.fr\/pages\/home\/",
+    "Description": "Nantes(FR) City Open Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.nantesmetropole.fr\/pages\/home\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

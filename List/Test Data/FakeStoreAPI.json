@@ -1,0 +1,11 @@
+{
+    "Name": "FakeStoreAPI",
+    "Link": "https:\/\/fakestoreapi.com\/",
+    "Description": "Fake store rest API for your e-commerce or shopping website prototype",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/fakestoreapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

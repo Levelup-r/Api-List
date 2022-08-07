@@ -1,0 +1,11 @@
+{
+    "Name": "API Setu",
+    "Link": "https:\/\/www.apisetu.gov.in\/",
+    "Description": "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.apisetu.gov.in\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

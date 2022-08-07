@@ -1,0 +1,11 @@
+{
+    "Name": "SHOUTCLOUD",
+    "Link": "http:\/\/shoutcloud.io\/",
+    "Description": "ALL-CAPS AS A SERVICE",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/shoutcloud.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

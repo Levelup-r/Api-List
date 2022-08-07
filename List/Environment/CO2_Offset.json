@@ -1,0 +1,11 @@
+{
+    "Name": "CO2 Offset",
+    "Link": "https:\/\/co2offset.io\/api.html",
+    "Description": "API calculates and validates the carbon footprint",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/co2offset.io\/api.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

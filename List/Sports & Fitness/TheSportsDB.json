@@ -1,0 +1,11 @@
+{
+    "Name": "TheSportsDB",
+    "Link": "https:\/\/www.thesportsdb.com\/api.php",
+    "Description": "Crowd-Sourced Sports Data and Artwork",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.thesportsdb.com\/api.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

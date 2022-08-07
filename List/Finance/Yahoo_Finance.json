@@ -1,0 +1,11 @@
+{
+    "Name": "Yahoo Finance",
+    "Link": "https:\/\/www.yahoofinanceapi.com\/",
+    "Description": "Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.yahoofinanceapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

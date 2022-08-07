@@ -1,0 +1,11 @@
+{
+    "Name": "Findwork",
+    "Link": "https:\/\/findwork.dev\/developers\/",
+    "Description": "Job board",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/findwork.dev\/developers\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Virushee",
+    "Link": "https:\/\/api.virushee.com\/",
+    "Description": "Virushee file\/data scanning",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.virushee.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

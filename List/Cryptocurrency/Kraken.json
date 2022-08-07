@@ -1,0 +1,11 @@
+{
+    "Name": "Kraken",
+    "Link": "https:\/\/docs.kraken.com\/rest\/",
+    "Description": "Cryptocurrencies Exchange",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.kraken.com\/rest\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

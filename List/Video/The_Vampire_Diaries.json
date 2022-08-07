@@ -1,0 +1,11 @@
+{
+    "Name": "The Vampire Diaries",
+    "Link": "https:\/\/vampire-diaries-api.netlify.app\/",
+    "Description": "TV Show Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/vampire-diaries-api.netlify.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

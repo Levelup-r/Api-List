@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Greece",
+    "Link": "https:\/\/data.gov.gr\/",
+    "Description": "Greece Government Open Data",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.gr\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

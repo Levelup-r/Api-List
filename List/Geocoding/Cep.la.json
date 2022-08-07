@@ -1,0 +1,11 @@
+{
+    "Name": "Cep.la",
+    "Link": "http:\/\/cep.la\/",
+    "Description": "Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/cep.la\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Cyprus",
+    "Link": "https:\/\/data.gov.cy\/?language=en",
+    "Description": "Cyprus Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.cy\/?language=en",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

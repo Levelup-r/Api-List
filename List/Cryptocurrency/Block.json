@@ -1,0 +1,11 @@
+{
+    "Name": "Block",
+    "Link": "https:\/\/block.io\/docs\/basic",
+    "Description": "Bitcoin Payment, Wallet & Transaction Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/block.io\/docs\/basic",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

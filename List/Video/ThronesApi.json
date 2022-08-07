@@ -1,0 +1,11 @@
+{
+    "Name": "ThronesApi",
+    "Link": "https:\/\/thronesapi.com\/",
+    "Description": "Game Of Thrones Characters Data with imagery",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/thronesapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

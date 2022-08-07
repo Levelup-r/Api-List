@@ -1,0 +1,11 @@
+{
+    "Name": "Clarifai",
+    "Link": "https:\/\/docs.clarifai.com\/api-guide\/api-overview",
+    "Description": "Computer Vision",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.clarifai.com\/api-guide\/api-overview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

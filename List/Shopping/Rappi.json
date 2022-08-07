@@ -1,0 +1,11 @@
+{
+    "Name": "Rappi",
+    "Link": "https:\/\/dev-portal.rappi.com\/",
+    "Description": "Manage orders from Rappi's app",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dev-portal.rappi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

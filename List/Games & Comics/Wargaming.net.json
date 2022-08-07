@@ -1,0 +1,11 @@
+{
+    "Name": "Wargaming.net",
+    "Link": "https:\/\/developers.wargaming.net\/",
+    "Description": "Wargaming.net info and stats",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/developers.wargaming.net\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

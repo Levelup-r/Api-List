@@ -1,0 +1,11 @@
+{
+    "Name": "Poloniex",
+    "Link": "https:\/\/docs.poloniex.com",
+    "Description": "US based digital asset exchange",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.poloniex.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Nominatim",
+    "Link": "https:\/\/nominatim.org\/release-docs\/latest\/api\/Overview\/",
+    "Description": "Provides worldwide forward \/ reverse geocoding",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/nominatim.org\/release-docs\/latest\/api\/Overview\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

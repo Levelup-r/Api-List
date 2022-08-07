@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer coinlayer",
+    "Link": "https:\/\/coinlayer.com",
+    "Description": "Real-time Crypto Currency Exchange Rates",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/coinlayer.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

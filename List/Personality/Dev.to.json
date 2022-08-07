@@ -1,0 +1,11 @@
+{
+    "Name": "Dev.to",
+    "Link": "https:\/\/developers.forem.com\/api",
+    "Description": "Access Forem articles, users and other resources via API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.forem.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

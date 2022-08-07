@@ -1,0 +1,11 @@
+{
+    "Name": "TIPO",
+    "Link": "https:\/\/tiponet.tipo.gov.tw\/Gazette\/OpenData\/OD\/OD05.aspx?QryDS=API00",
+    "Description": "Taiwan patent search system api",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tiponet.tipo.gov.tw\/Gazette\/OpenData\/OD\/OD05.aspx?QryDS=API00",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

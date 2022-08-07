@@ -1,0 +1,11 @@
+{
+    "Name": "IFTTT",
+    "Link": "https:\/\/platform.ifttt.com\/docs\/connect_api",
+    "Description": "IFTTT Connect API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/platform.ifttt.com\/docs\/connect_api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

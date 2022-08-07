@@ -1,0 +1,11 @@
+{
+    "Name": "City, Lviv",
+    "Link": "https:\/\/opendata.city-adm.lviv.ua\/",
+    "Description": "Lviv(UA) City Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opendata.city-adm.lviv.ua\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

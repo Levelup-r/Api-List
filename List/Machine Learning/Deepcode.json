@@ -1,0 +1,11 @@
+{
+    "Name": "Deepcode",
+    "Link": "https:\/\/www.deepcode.ai",
+    "Description": "AI for code review",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.deepcode.ai",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

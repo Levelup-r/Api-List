@@ -1,0 +1,11 @@
+{
+    "Name": "Tredict",
+    "Link": "https:\/\/www.tredict.com\/blog\/oauth_docs\/",
+    "Description": "Get and set activities, health data and more",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.tredict.com\/blog\/oauth_docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

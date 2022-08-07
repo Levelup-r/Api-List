@@ -1,0 +1,11 @@
+{
+    "Name": "transport.rest",
+    "Link": "https:\/\/transport.rest",
+    "Description": "Community maintained, developer-friendly public transport API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/transport.rest",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

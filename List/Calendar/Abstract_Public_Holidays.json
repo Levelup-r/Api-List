@@ -1,0 +1,11 @@
+{
+    "Name": "Abstract Public Holidays",
+    "Link": "https:\/\/www.abstractapi.com\/holidays-api",
+    "Description": "Data on national, regional, and religious holidays via API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.abstractapi.com\/holidays-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

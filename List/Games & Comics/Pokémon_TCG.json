@@ -1,0 +1,11 @@
+{
+    "Name": "Pok\u00e9mon TCG",
+    "Link": "https:\/\/pokemontcg.io",
+    "Description": "Pok\u00e9mon TCG Information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pokemontcg.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

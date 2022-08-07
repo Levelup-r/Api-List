@@ -1,0 +1,11 @@
+{
+    "Name": "Gitter",
+    "Link": "https:\/\/developer.gitter.im\/docs\/welcome",
+    "Description": "Chat for Developers",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.gitter.im\/docs\/welcome",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

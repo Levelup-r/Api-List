@@ -1,0 +1,11 @@
+{
+    "Name": "ddownload",
+    "Link": "https:\/\/ddownload.com\/api",
+    "Description": "File Sharing and Storage",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ddownload.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

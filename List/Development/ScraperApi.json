@@ -1,0 +1,11 @@
+{
+    "Name": "ScraperApi",
+    "Link": "https:\/\/www.scraperapi.com",
+    "Description": "Easily build scalable web scrapers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.scraperapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

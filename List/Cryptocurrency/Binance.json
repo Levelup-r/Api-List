@@ -1,0 +1,11 @@
+{
+    "Name": "Binance",
+    "Link": "https:\/\/github.com\/binance\/binance-spot-api-docs",
+    "Description": "Exchange for Trading Cryptocurrencies based in China",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/binance\/binance-spot-api-docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

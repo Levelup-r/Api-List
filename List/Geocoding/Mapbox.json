@@ -1,0 +1,11 @@
+{
+    "Name": "Mapbox",
+    "Link": "https:\/\/docs.mapbox.com\/",
+    "Description": "Create\/customize beautiful digital maps",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.mapbox.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

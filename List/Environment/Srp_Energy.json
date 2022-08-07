@@ -1,0 +1,11 @@
+{
+    "Name": "Srp Energy",
+    "Link": "https:\/\/srpenergy-api-client-python.readthedocs.io\/en\/latest\/api.html",
+    "Description": "Hourly usage energy report for Srp customers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/srpenergy-api-client-python.readthedocs.io\/en\/latest\/api.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

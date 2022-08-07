@@ -1,0 +1,11 @@
+{
+    "Name": "HaveIBeenPwned",
+    "Link": "https:\/\/haveibeenpwned.com\/API\/v3",
+    "Description": "Passwords which have previously been exposed in data breaches",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/haveibeenpwned.com\/API\/v3",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

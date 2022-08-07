@@ -1,0 +1,11 @@
+{
+    "Name": "Kutt",
+    "Link": "https:\/\/docs.kutt.it\/",
+    "Description": "Free Modern URL Shortener",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.kutt.it\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

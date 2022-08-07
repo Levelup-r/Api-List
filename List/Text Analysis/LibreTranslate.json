@@ -1,0 +1,11 @@
+{
+    "Name": "LibreTranslate",
+    "Link": "https:\/\/libretranslate.com\/docs",
+    "Description": "Translation tool with 17 available languages",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/libretranslate.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

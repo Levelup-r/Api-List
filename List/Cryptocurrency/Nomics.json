@@ -1,0 +1,11 @@
+{
+    "Name": "Nomics",
+    "Link": "https:\/\/nomics.com\/docs\/",
+    "Description": "Historical and realtime cryptocurrency prices and market data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/nomics.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

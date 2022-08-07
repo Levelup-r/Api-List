@@ -1,0 +1,11 @@
+{
+    "Name": "Geokeo",
+    "Link": "https:\/\/geokeo.com",
+    "Description": "Geokeo geocoding service- with 2500 free api requests daily",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/geokeo.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

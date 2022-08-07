@@ -1,0 +1,11 @@
+{
+    "Name": "OLX Poland",
+    "Link": "https:\/\/developer.olx.pl\/api\/doc#section\/",
+    "Description": "Integrate with local sites by posting, managing adverts and communicating with OLX users",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.olx.pl\/api\/doc#section\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

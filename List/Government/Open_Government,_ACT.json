@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, ACT",
+    "Link": "https:\/\/www.data.act.gov.au\/",
+    "Description": "Australian Capital Territory Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.act.gov.au\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

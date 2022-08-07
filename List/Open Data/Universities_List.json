@@ -1,0 +1,11 @@
+{
+    "Name": "Universities List",
+    "Link": "https:\/\/github.com\/Hipo\/university-domains-list",
+    "Description": "University names, countries and domains",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/Hipo\/university-domains-list",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

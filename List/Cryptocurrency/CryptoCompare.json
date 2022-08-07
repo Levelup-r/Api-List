@@ -1,0 +1,11 @@
+{
+    "Name": "CryptoCompare",
+    "Link": "https:\/\/www.cryptocompare.com\/api#",
+    "Description": "Cryptocurrencies Comparison",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.cryptocompare.com\/api#",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

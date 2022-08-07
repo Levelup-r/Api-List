@@ -1,0 +1,11 @@
+{
+    "Name": "Gorest",
+    "Link": "https:\/\/gorest.co.in\/",
+    "Description": "Online REST API for Testing and Prototyping",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/gorest.co.in\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Wandbox",
+    "Link": "https:\/\/github.com\/melpon\/wandbox\/blob\/master\/kennel2\/API.rst",
+    "Description": "Code compiler supporting 35+ languages mentioned at wandbox.org",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/melpon\/wandbox\/blob\/master\/kennel2\/API.rst",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

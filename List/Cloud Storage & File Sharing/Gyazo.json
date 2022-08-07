@@ -1,0 +1,11 @@
+{
+    "Name": "Gyazo",
+    "Link": "https:\/\/gyazo.com\/api\/docs",
+    "Description": "Save & Share screen captures instantly",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/gyazo.com\/api\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

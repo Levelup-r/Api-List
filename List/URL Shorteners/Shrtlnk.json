@@ -1,0 +1,11 @@
+{
+    "Name": "Shrtlnk",
+    "Link": "https:\/\/shrtlnk.dev\/developer",
+    "Description": "Simple and efficient short link creation",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/shrtlnk.dev\/developer",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

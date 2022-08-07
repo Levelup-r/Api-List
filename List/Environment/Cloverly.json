@@ -1,0 +1,11 @@
+{
+    "Name": "Cloverly",
+    "Link": "https:\/\/www.cloverly.com\/carbon-offset-documentation",
+    "Description": "API calculates the impact of common carbon-intensive activities in real time",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.cloverly.com\/carbon-offset-documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

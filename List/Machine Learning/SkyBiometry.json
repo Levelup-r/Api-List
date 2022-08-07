@@ -1,0 +1,11 @@
+{
+    "Name": "SkyBiometry",
+    "Link": "https:\/\/skybiometry.com\/documentation\/",
+    "Description": "Face Detection, Face Recognition and Face Grouping",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/skybiometry.com\/documentation\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

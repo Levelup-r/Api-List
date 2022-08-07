@@ -1,0 +1,11 @@
+{
+    "Name": "OKEx",
+    "Link": "https:\/\/www.okex.com\/docs\/",
+    "Description": "Cryptocurrency exchange based in Seychelles",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.okex.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

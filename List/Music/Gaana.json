@@ -1,0 +1,11 @@
+{
+    "Name": "Gaana",
+    "Link": "https:\/\/github.com\/cyberboysumanjay\/GaanaAPI",
+    "Description": "API to retrieve song information from Gaana",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/cyberboysumanjay\/GaanaAPI",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

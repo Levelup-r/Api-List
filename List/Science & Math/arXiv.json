@@ -1,0 +1,11 @@
+{
+    "Name": "arXiv",
+    "Link": "https:\/\/arxiv.org\/help\/api\/user-manual",
+    "Description": "Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/arxiv.org\/help\/api\/user-manual",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

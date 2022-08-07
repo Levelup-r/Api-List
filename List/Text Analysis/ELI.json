@@ -1,0 +1,11 @@
+{
+    "Name": "ELI",
+    "Link": "https:\/\/nlp.insightera.co.th\/docs\/v1.0",
+    "Description": "Natural Language Processing Tools for Thai Language",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/nlp.insightera.co.th\/docs\/v1.0",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

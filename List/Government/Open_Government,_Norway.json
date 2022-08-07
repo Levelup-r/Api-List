@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Norway",
+    "Link": "https:\/\/data.norge.no\/dataservices",
+    "Description": "Norwegian Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/data.norge.no\/dataservices",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

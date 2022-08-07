@@ -1,0 +1,11 @@
+{
+    "Name": "USAspending.gov",
+    "Link": "https:\/\/api.usaspending.gov\/",
+    "Description": "US federal spending data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.usaspending.gov\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

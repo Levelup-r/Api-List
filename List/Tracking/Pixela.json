@@ -1,0 +1,11 @@
+{
+    "Name": "Pixela",
+    "Link": "https:\/\/pixe.la",
+    "Description": "API for recording and tracking habits or effort, routines",
+    "Auth": "`X-Mashape-Key`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/pixe.la",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

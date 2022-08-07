@@ -1,0 +1,11 @@
+{
+    "Name": "Cats",
+    "Link": "https:\/\/docs.thecatapi.com\/",
+    "Description": "Pictures of cats from Tumblr",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/docs.thecatapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

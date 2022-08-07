@@ -1,0 +1,11 @@
+{
+    "Name": "QR code",
+    "Link": "http:\/\/goqr.me\/api\/",
+    "Description": "Generate and decode \/ read QR code graphics",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/goqr.me\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

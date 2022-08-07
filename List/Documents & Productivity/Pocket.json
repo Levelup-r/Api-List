@@ -1,0 +1,11 @@
+{
+    "Name": "Pocket",
+    "Link": "https:\/\/getpocket.com\/developer\/",
+    "Description": "Bookmarking service",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/getpocket.com\/developer\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

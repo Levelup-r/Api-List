@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, France",
+    "Link": "https:\/\/www.data.gouv.fr\/",
+    "Description": "French Government Open Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.gouv.fr\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

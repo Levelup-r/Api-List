@@ -1,0 +1,11 @@
+{
+    "Name": "Open Page Rank",
+    "Link": "https:\/\/www.domcop.com\/openpagerank\/",
+    "Description": "API for calculating and comparing metrics of different websites using Page Rank algorithm",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.domcop.com\/openpagerank\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Lisbon, Portugal",
+    "Link": "https:\/\/emel.city-platform.com\/opendata\/",
+    "Description": "Data about buses routes, parking and traffic",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/emel.city-platform.com\/opendata\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

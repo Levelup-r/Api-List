@@ -1,0 +1,11 @@
+{
+    "Name": "Walltime",
+    "Link": "https:\/\/walltime.info\/api.html",
+    "Description": "To retrieve Walltime's market info",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/walltime.info\/api.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

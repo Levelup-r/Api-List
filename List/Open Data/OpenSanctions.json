@@ -1,0 +1,11 @@
+{
+    "Name": "OpenSanctions",
+    "Link": "https:\/\/www.opensanctions.org\/docs\/api\/",
+    "Description": "Data on international sanctions, crime and politically exposed persons",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.opensanctions.org\/docs\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

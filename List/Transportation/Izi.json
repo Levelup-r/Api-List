@@ -1,0 +1,11 @@
+{
+    "Name": "Izi",
+    "Link": "http:\/\/api-docs.izi.travel\/",
+    "Description": "Audio guide for travellers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/api-docs.izi.travel\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

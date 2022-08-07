@@ -1,0 +1,11 @@
+{
+    "Name": "ODWeather",
+    "Link": "http:\/\/api.oceandrivers.com\/static\/docs.html",
+    "Description": "Weather and weather webcams",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/api.oceandrivers.com\/static\/docs.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

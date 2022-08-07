@@ -1,0 +1,11 @@
+{
+    "Name": "AnimeChan",
+    "Link": "https:\/\/github.com\/RocktimSaikia\/anime-chan",
+    "Description": "Anime quotes (over 10k+)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/RocktimSaikia\/anime-chan",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

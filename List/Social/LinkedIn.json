@@ -1,0 +1,11 @@
+{
+    "Name": "LinkedIn",
+    "Link": "https:\/\/docs.microsoft.com\/en-us\/linkedin\/?context=linkedin\/context",
+    "Description": "The foundation of all digital integrations with LinkedIn",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.microsoft.com\/en-us\/linkedin\/?context=linkedin\/context",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Dagpi",
+    "Link": "https:\/\/dagpi.xyz",
+    "Description": "Image manipulation and processing",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dagpi.xyz",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

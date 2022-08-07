@@ -1,0 +1,11 @@
+{
+    "Name": "Brainshop.ai",
+    "Link": "https:\/\/brainshop.ai\/",
+    "Description": "Make A Free A.I Brain",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/brainshop.ai\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

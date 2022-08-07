@@ -1,0 +1,11 @@
+{
+    "Name": "Lingua Robot",
+    "Link": "https:\/\/www.linguarobot.io",
+    "Description": "Word definitions, pronunciations, synonyms, antonyms and others",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.linguarobot.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Toolcarton",
+    "Link": "https:\/\/testimonialapi.toolcarton.com\/",
+    "Description": "Generate random testimonial data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/testimonialapi.toolcarton.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

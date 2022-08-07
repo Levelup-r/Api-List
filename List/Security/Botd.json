@@ -1,0 +1,11 @@
+{
+    "Name": "Botd",
+    "Link": "https:\/\/github.com\/fingerprintjs\/botd",
+    "Description": "Botd is a browser library for JavaScript bot detection",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/fingerprintjs\/botd",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

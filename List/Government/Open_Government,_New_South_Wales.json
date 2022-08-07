@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, New South Wales",
+    "Link": "https:\/\/api.nsw.gov.au\/",
+    "Description": "New South Wales Government Open Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.nsw.gov.au\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "inspirehep.net",
+    "Link": "https:\/\/github.com\/inspirehep\/rest-api-doc",
+    "Description": "High Energy Physics info. system",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/inspirehep\/rest-api-doc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

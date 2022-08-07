@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Denver, US",
+    "Link": "http:\/\/www.rtd-denver.com\/gtfs-developer-guide.shtml",
+    "Description": "RTD",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.rtd-denver.com\/gtfs-developer-guide.shtml",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

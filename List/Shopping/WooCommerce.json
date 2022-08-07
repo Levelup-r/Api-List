@@ -1,0 +1,11 @@
+{
+    "Name": "WooCommerce",
+    "Link": "https:\/\/woocommerce.github.io\/woocommerce-rest-api-docs\/",
+    "Description": "WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/woocommerce.github.io\/woocommerce-rest-api-docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

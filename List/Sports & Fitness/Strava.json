@@ -1,0 +1,11 @@
+{
+    "Name": "Strava",
+    "Link": "https:\/\/strava.github.io\/api\/",
+    "Description": "Connect with athletes, activities and more",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/strava.github.io\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

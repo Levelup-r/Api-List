@@ -1,0 +1,11 @@
+{
+    "Name": "Chainpoint",
+    "Link": "https:\/\/tierion.com\/chainpoint\/",
+    "Description": "Chainpoint is a global network for anchoring data to the Bitcoin blockchain",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tierion.com\/chainpoint\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

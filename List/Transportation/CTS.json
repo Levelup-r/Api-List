@@ -1,0 +1,11 @@
+{
+    "Name": "CTS",
+    "Link": "https:\/\/api.cts-strasbourg.eu\/",
+    "Description": "CTS Realtime API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.cts-strasbourg.eu\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

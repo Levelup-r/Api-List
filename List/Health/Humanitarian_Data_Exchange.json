@@ -1,0 +1,11 @@
+{
+    "Name": "Humanitarian Data Exchange",
+    "Link": "https:\/\/data.humdata.org\/",
+    "Description": "Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.humdata.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

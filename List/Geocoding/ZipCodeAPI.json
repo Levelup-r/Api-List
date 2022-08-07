@@ -1,0 +1,11 @@
+{
+    "Name": "ZipCodeAPI",
+    "Link": "https:\/\/www.zipcodeapi.com",
+    "Description": "US zip code distance, radius and location API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.zipcodeapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

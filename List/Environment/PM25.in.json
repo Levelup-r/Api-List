@@ -1,0 +1,11 @@
+{
+    "Name": "PM25.in",
+    "Link": "http:\/\/www.pm25.in\/api_doc",
+    "Description": "Air quality of China",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.pm25.in\/api_doc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

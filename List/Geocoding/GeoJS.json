@@ -1,0 +1,11 @@
+{
+    "Name": "GeoJS",
+    "Link": "https:\/\/www.geojs.io\/",
+    "Description": "IP geolocation with ChatOps integration",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.geojs.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

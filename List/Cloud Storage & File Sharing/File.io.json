@@ -1,0 +1,11 @@
+{
+    "Name": "File.io",
+    "Link": "https:\/\/www.file.io",
+    "Description": "Super simple file sharing, convenient, anonymous and secure",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.file.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

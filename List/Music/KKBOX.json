@@ -1,0 +1,11 @@
+{
+    "Name": "KKBOX",
+    "Link": "https:\/\/developer.kkbox.com",
+    "Description": "Get music libraries, playlists, charts, and perform out of KKBOX's platform",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.kkbox.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

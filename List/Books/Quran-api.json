@@ -1,0 +1,11 @@
+{
+    "Name": "Quran-api",
+    "Link": "https:\/\/github.com\/fawazahmed0\/quran-api#readme",
+    "Description": "Free Quran API Service with 90+ different languages and 400+ translations",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/fawazahmed0\/quran-api#readme",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

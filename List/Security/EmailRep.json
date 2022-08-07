@@ -1,0 +1,11 @@
+{
+    "Name": "EmailRep",
+    "Link": "https:\/\/docs.emailrep.io\/",
+    "Description": "Email address threat and risk prediction",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.emailrep.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

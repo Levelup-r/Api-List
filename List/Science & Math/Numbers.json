@@ -1,0 +1,11 @@
+{
+    "Name": "Numbers",
+    "Link": "http:\/\/numbersapi.com",
+    "Description": "Facts about numbers",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "http:\/\/numbersapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

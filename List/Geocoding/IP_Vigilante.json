@@ -1,0 +1,11 @@
+{
+    "Name": "IP Vigilante",
+    "Link": "https:\/\/www.ipvigilante.com\/",
+    "Description": "Free IP Geolocation API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.ipvigilante.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

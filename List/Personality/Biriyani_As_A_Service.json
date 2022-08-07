@@ -1,0 +1,11 @@
+{
+    "Name": "Biriyani As A Service",
+    "Link": "https:\/\/biriyani.anoram.com\/",
+    "Description": "Biriyani images placeholder",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/biriyani.anoram.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

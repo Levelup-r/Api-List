@@ -1,0 +1,11 @@
+{
+    "Name": "Covid-19",
+    "Link": "https:\/\/github.com\/M-Media-Group\/Covid-19-API",
+    "Description": "Covid 19 cases, deaths and recovery per country",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/M-Media-Group\/Covid-19-API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

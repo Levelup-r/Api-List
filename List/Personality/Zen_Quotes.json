@@ -1,0 +1,11 @@
+{
+    "Name": "Zen Quotes",
+    "Link": "https:\/\/zenquotes.io\/",
+    "Description": "Large collection of Zen quotes for inspiration",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/zenquotes.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

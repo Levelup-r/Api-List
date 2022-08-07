@@ -1,0 +1,11 @@
+{
+    "Name": "Covid-19 JHU CSSE",
+    "Link": "https:\/\/nuttaphat.com\/covid19-api\/",
+    "Description": "Open-source API for exploring Covid19 cases based on JHU CSSE",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/nuttaphat.com\/covid19-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

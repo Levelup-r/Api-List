@@ -1,0 +1,11 @@
+{
+    "Name": "CoinCap",
+    "Link": "https:\/\/docs.coincap.io\/",
+    "Description": "Real time Cryptocurrency prices through a RESTful API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.coincap.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Petfinder",
+    "Link": "https:\/\/www.petfinder.com\/developers\/",
+    "Description": "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.petfinder.com\/developers\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

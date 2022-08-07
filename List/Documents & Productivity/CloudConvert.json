@@ -1,0 +1,11 @@
+{
+    "Name": "CloudConvert",
+    "Link": "https:\/\/cloudconvert.com\/api\/v2",
+    "Description": "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/cloudconvert.com\/api\/v2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Dropbox",
+    "Link": "https:\/\/www.dropbox.com\/developers",
+    "Description": "File Sharing and Storage",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.dropbox.com\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

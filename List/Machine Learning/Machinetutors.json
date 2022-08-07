@@ -1,0 +1,11 @@
+{
+    "Name": "Machinetutors",
+    "Link": "https:\/\/www.machinetutors.com\/portfolio\/MT_api.html",
+    "Description": "AI Solutions: Video\/Image Classification & Tagging, NSFW, Icon\/Image\/Audio Search, NLP",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.machinetutors.com\/portfolio\/MT_api.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

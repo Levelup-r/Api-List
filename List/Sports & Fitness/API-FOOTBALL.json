@@ -1,0 +1,11 @@
+{
+    "Name": "API-FOOTBALL",
+    "Link": "https:\/\/www.api-football.com\/documentation-v3",
+    "Description": "Get information about Football Leagues & Cups",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.api-football.com\/documentation-v3",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

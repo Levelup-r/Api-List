@@ -1,0 +1,11 @@
+{
+    "Name": "import.io",
+    "Link": "http:\/\/api.docs.import.io\/",
+    "Description": "Retrieve structured data from a website or RSS feed",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/api.docs.import.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

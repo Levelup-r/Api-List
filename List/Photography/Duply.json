@@ -1,0 +1,11 @@
+{
+    "Name": "Duply",
+    "Link": "https:\/\/duply.co\/docs#getting-started-api",
+    "Description": "Generate, Edit, Scale and Manage Images and Videos Smarter & Faster",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/duply.co\/docs#getting-started-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

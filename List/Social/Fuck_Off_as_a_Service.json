@@ -1,0 +1,11 @@
+{
+    "Name": "Fuck Off as a Service",
+    "Link": "https:\/\/www.foaas.com",
+    "Description": "Asks someone to fuck off",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.foaas.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

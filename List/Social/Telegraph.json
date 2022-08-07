@@ -1,0 +1,11 @@
+{
+    "Name": "Telegraph",
+    "Link": "https:\/\/telegra.ph\/api",
+    "Description": "Create attractive blogs easily, to share",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/telegra.ph\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

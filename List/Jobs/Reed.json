@@ -1,0 +1,11 @@
+{
+    "Name": "Reed",
+    "Link": "https:\/\/www.reed.co.uk\/developers",
+    "Description": "Job board aggregator",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.reed.co.uk\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

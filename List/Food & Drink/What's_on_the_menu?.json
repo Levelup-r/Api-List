@@ -1,0 +1,11 @@
+{
+    "Name": "What's on the menu?",
+    "Link": "http:\/\/nypl.github.io\/menus-api\/",
+    "Description": "NYPL human-transcribed historical menu collection",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/nypl.github.io\/menus-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

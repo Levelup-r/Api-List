@@ -1,0 +1,11 @@
+{
+    "Name": "Europeana",
+    "Link": "https:\/\/pro.europeana.eu\/resources\/apis\/search",
+    "Description": "European Museum and Galleries content",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pro.europeana.eu\/resources\/apis\/search",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

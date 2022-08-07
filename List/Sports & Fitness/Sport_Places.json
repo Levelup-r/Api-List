@@ -1,0 +1,11 @@
+{
+    "Name": "Sport Places",
+    "Link": "https:\/\/developers.decathlon.com\/products\/sport-places",
+    "Description": "Crowd-source sports places around the world",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/developers.decathlon.com\/products\/sport-places",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

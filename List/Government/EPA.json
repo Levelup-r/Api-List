@@ -1,0 +1,11 @@
+{
+    "Name": "EPA",
+    "Link": "https:\/\/www.epa.gov\/developers\/data-data-products#apis",
+    "Description": "Web services and data sets from the US Environmental Protection Agency",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.epa.gov\/developers\/data-data-products#apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

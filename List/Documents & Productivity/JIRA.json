@@ -1,0 +1,11 @@
+{
+    "Name": "JIRA",
+    "Link": "https:\/\/developer.atlassian.com\/server\/jira\/platform\/rest-apis\/",
+    "Description": "JIRA is a proprietary issue tracking product that allows bug tracking and agile project management",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.atlassian.com\/server\/jira\/platform\/rest-apis\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

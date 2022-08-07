@@ -1,0 +1,11 @@
+{
+    "Name": "CMS.gov",
+    "Link": "https:\/\/data.cms.gov\/provider-data\/",
+    "Description": "Access to the data from the CMS - medicare.gov",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.cms.gov\/provider-data\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

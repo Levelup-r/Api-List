@@ -1,0 +1,11 @@
+{
+    "Name": "Watchdata",
+    "Link": "https:\/\/docs.watchdata.io",
+    "Description": "Provide simple and reliable API access to Ethereum blockchain",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.watchdata.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

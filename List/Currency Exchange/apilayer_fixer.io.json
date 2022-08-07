@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer fixer.io",
+    "Link": "https:\/\/fixer.io",
+    "Description": "Exchange rates and currency conversion",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/fixer.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

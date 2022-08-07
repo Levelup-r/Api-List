@@ -1,0 +1,11 @@
+{
+    "Name": "Coinlore",
+    "Link": "https:\/\/www.coinlore.com\/cryptocurrency-data-api",
+    "Description": "Cryptocurrencies prices, volume and more",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.coinlore.com\/cryptocurrency-data-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

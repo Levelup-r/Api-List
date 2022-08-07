@@ -1,0 +1,11 @@
+{
+    "Name": "MessengerX.io",
+    "Link": "https:\/\/messengerx.rtfd.io",
+    "Description": "A FREE API for developers to build and monetize personalized ML based chat apps",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/messengerx.rtfd.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

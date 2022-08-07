@@ -1,0 +1,11 @@
+{
+    "Name": "Inshorts News",
+    "Link": "https:\/\/github.com\/cyberboysumanjay\/Inshorts-News-API",
+    "Description": "Provides news from inshorts",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/cyberboysumanjay\/Inshorts-News-API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

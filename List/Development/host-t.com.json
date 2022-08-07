@@ -1,0 +1,11 @@
+{
+    "Name": "host-t.com",
+    "Link": "https:\/\/host-t.com",
+    "Description": "Basic DNS query via HTTP GET request",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/host-t.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

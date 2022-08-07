@@ -1,0 +1,11 @@
+{
+    "Name": "ApicAgent",
+    "Link": "https:\/\/www.apicagent.com",
+    "Description": "Extract device details from user-agent string",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.apicagent.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

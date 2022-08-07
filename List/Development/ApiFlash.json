@@ -1,0 +1,11 @@
+{
+    "Name": "ApiFlash",
+    "Link": "https:\/\/apiflash.com\/",
+    "Description": "Chrome based screenshot API for developers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apiflash.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

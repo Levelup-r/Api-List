@@ -1,0 +1,11 @@
+{
+    "Name": "Getty Images",
+    "Link": "http:\/\/developers.gettyimages.com\/en\/",
+    "Description": "Build applications using the world's most powerful imagery",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/developers.gettyimages.com\/en\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

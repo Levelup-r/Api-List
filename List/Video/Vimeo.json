@@ -1,0 +1,11 @@
+{
+    "Name": "Vimeo",
+    "Link": "https:\/\/developer.vimeo.com\/",
+    "Description": "Vimeo Developer API",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.vimeo.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

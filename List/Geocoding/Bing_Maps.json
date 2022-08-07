@@ -1,0 +1,11 @@
+{
+    "Name": "Bing Maps",
+    "Link": "https:\/\/www.microsoft.com\/maps\/",
+    "Description": "Create\/customize digital maps based on Bing Maps data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.microsoft.com\/maps\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Openwhyd",
+    "Link": "https:\/\/openwhyd.github.io\/openwhyd\/API",
+    "Description": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/openwhyd.github.io\/openwhyd\/API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

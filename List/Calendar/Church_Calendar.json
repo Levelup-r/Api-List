@@ -1,0 +1,11 @@
+{
+    "Name": "Church Calendar",
+    "Link": "http:\/\/calapi.inadiutorium.cz\/",
+    "Description": "Catholic liturgical calendar",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/calapi.inadiutorium.cz\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

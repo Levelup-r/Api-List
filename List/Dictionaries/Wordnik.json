@@ -1,0 +1,11 @@
+{
+    "Name": "Wordnik",
+    "Link": "https:\/\/developer.wordnik.com",
+    "Description": "Dictionary Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.wordnik.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

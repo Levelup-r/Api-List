@@ -1,0 +1,11 @@
+{
+    "Name": "Utah AGRC",
+    "Link": "https:\/\/api.mapserv.utah.gov",
+    "Description": "Utah Web API for geocoding Utah addresses",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.mapserv.utah.gov",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

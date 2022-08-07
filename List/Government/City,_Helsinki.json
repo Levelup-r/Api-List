@@ -1,0 +1,11 @@
+{
+    "Name": "City, Helsinki",
+    "Link": "https:\/\/hri.fi\/en_gb\/",
+    "Description": "Helsinki(FI) City Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/hri.fi\/en_gb\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

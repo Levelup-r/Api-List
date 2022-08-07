@@ -1,0 +1,11 @@
+{
+    "Name": "Finage",
+    "Link": "https:\/\/finage.co.uk",
+    "Description": "Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/finage.co.uk",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer userstack",
+    "Link": "https:\/\/userstack.com\/",
+    "Description": "Secure User-Agent String Lookup JSON API",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/userstack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

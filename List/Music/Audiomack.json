@@ -1,0 +1,11 @@
+{
+    "Name": "Audiomack",
+    "Link": "https:\/\/www.audiomack.com\/data-api\/docs",
+    "Description": "Api of the streaming music hub Audiomack",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.audiomack.com\/data-api\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

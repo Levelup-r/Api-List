@@ -1,0 +1,11 @@
+{
+    "Name": "Coinbase Pro",
+    "Link": "https:\/\/docs.pro.coinbase.com\/#api",
+    "Description": "Cryptocurrency Trading Platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.pro.coinbase.com\/#api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

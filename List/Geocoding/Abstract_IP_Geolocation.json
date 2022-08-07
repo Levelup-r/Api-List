@@ -1,0 +1,11 @@
+{
+    "Name": "Abstract IP Geolocation",
+    "Link": "https:\/\/www.abstractapi.com\/ip-geolocation-api",
+    "Description": "Geolocate website visitors from their IPs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.abstractapi.com\/ip-geolocation-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

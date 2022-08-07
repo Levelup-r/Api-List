@@ -1,0 +1,11 @@
+{
+    "Name": "Teleport",
+    "Link": "https:\/\/developers.teleport.org\/",
+    "Description": "Quality of Life Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.teleport.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

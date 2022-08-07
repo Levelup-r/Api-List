@@ -1,0 +1,11 @@
+{
+    "Name": "Chinese Text Project",
+    "Link": "https:\/\/ctext.org\/tools\/api",
+    "Description": "Online open-access digital library for pre-modern Chinese texts",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ctext.org\/tools\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

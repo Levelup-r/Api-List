@@ -1,0 +1,11 @@
+{
+    "Name": "OpenUV",
+    "Link": "https:\/\/www.openuv.io",
+    "Description": "Real-time UV Index Forecast",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.openuv.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

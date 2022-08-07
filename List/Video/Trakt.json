@@ -1,0 +1,11 @@
+{
+    "Name": "Trakt",
+    "Link": "https:\/\/trakt.docs.apiary.io\/",
+    "Description": "Movie and TV Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/trakt.docs.apiary.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

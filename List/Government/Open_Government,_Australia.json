@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Australia",
+    "Link": "https:\/\/www.data.gov.au\/",
+    "Description": "Australian Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.gov.au\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

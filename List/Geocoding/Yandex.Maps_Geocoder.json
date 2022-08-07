@@ -1,0 +1,11 @@
+{
+    "Name": "Yandex.Maps Geocoder",
+    "Link": "https:\/\/yandex.com\/dev\/maps\/geocoder",
+    "Description": "Use geocoding to get an object's coordinates from its address",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/yandex.com\/dev\/maps\/geocoder",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

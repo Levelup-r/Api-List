@@ -1,0 +1,11 @@
+{
+    "Name": "Quran",
+    "Link": "https:\/\/quran.api-docs.io\/",
+    "Description": "RESTful Quran API with multiple languages",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/quran.api-docs.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

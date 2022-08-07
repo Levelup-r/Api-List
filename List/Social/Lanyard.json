@@ -1,0 +1,11 @@
+{
+    "Name": "Lanyard",
+    "Link": "https:\/\/github.com\/Phineas\/lanyard",
+    "Description": "Retrieve your presence on Discord through an HTTP REST API or WebSocket",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/Phineas\/lanyard",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

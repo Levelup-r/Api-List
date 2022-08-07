@@ -1,0 +1,11 @@
+{
+    "Name": "FilterLists",
+    "Link": "https:\/\/filterlists.com",
+    "Description": "Lists of filters for adblockers and firewalls",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/filterlists.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

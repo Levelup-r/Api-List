@@ -1,0 +1,11 @@
+{
+    "Name": "Final Fantasy XIV",
+    "Link": "https:\/\/xivapi.com\/",
+    "Description": "Final Fantasy XIV Game data API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/xivapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "FTX",
+    "Link": "https:\/\/docs.ftx.com\/",
+    "Description": "Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.ftx.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

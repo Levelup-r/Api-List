@@ -1,0 +1,11 @@
+{
+    "Name": "Currents",
+    "Link": "https:\/\/currentsapi.services\/",
+    "Description": "Latest news published in various news sources, blogs and forums",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/currentsapi.services\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

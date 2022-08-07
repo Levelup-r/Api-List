@@ -1,0 +1,11 @@
+{
+    "Name": "LastFm",
+    "Link": "https:\/\/www.last.fm\/api",
+    "Description": "Music",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.last.fm\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

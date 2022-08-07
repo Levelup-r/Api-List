@@ -1,0 +1,11 @@
+{
+    "Name": "Indian Mutual Fund",
+    "Link": "https:\/\/www.mfapi.in\/",
+    "Description": "Get complete history of India Mutual Funds Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mfapi.in\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

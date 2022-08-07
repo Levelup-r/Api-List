@@ -1,0 +1,11 @@
+{
+    "Name": "Recreation Information Database",
+    "Link": "https:\/\/ridb.recreation.gov\/",
+    "Description": "Recreational areas, federal lands, historic sites, museums, and other attractions\/resources(US)",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ridb.recreation.gov\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

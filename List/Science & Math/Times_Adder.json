@@ -1,0 +1,11 @@
+{
+    "Name": "Times Adder",
+    "Link": "https:\/\/github.com\/FranP-code\/API-Times-Adder",
+    "Description": "With this API you can add each of the times introduced in the array sended",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/FranP-code\/API-Times-Adder",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

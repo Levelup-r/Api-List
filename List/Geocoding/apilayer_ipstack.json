@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer ipstack",
+    "Link": "https:\/\/ipstack.com\/",
+    "Description": "Locate and identify website visitors by IP address",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ipstack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

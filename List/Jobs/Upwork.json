@@ -1,0 +1,11 @@
+{
+    "Name": "Upwork",
+    "Link": "https:\/\/developers.upwork.com\/",
+    "Description": "Freelance job board and management system",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.upwork.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

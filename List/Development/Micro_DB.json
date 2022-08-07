@@ -1,0 +1,11 @@
+{
+    "Name": "Micro DB",
+    "Link": "https:\/\/m3o.com\/db",
+    "Description": "Simple database service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/m3o.com\/db",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

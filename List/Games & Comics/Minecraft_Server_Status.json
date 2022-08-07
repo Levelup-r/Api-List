@@ -1,0 +1,11 @@
+{
+    "Name": "Minecraft Server Status",
+    "Link": "https:\/\/api.mcsrvstat.us",
+    "Description": "API to get Information about a Minecraft Server",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No",
+    "Docs": "https:\/\/api.mcsrvstat.us",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

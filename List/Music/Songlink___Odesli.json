@@ -1,0 +1,11 @@
+{
+    "Name": "Songlink \/ Odesli",
+    "Link": "https:\/\/www.notion.so\/API-d0ebe08a5e304a55928405eb682f6741",
+    "Description": "Get all the services on which a song is available",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.notion.so\/API-d0ebe08a5e304a55928405eb682f6741",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

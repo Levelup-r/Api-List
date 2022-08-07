@@ -1,0 +1,11 @@
+{
+    "Name": "Asana",
+    "Link": "https:\/\/developers.asana.com\/docs",
+    "Description": "Programmatic access to all data in your asana system",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developers.asana.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

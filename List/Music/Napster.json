@@ -1,0 +1,11 @@
+{
+    "Name": "Napster",
+    "Link": "https:\/\/developer.napster.com\/api\/v2.2",
+    "Description": "Music",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developer.napster.com\/api\/v2.2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

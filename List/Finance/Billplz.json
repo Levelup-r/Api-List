@@ -1,0 +1,11 @@
+{
+    "Name": "Billplz",
+    "Link": "https:\/\/www.billplz.com\/api",
+    "Description": "Payment platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.billplz.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

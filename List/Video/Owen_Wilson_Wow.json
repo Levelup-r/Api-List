@@ -1,0 +1,11 @@
+{
+    "Name": "Owen Wilson Wow",
+    "Link": "https:\/\/owen-wilson-wow-api.herokuapp.com",
+    "Description": "API for actor Owen Wilson's \"wow\" exclamations in movies",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/owen-wilson-wow-api.herokuapp.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

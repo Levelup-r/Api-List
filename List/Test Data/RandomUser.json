@@ -1,0 +1,11 @@
+{
+    "Name": "RandomUser",
+    "Link": "https:\/\/randomuser.me",
+    "Description": "Generates and list user data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/randomuser.me",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Disify",
+    "Link": "https:\/\/www.disify.com\/",
+    "Description": "Validate and detect disposable and temporary email addresses",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.disify.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

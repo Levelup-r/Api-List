@@ -1,0 +1,11 @@
+{
+    "Name": "Foodish",
+    "Link": "https:\/\/github.com\/surhud004\/Foodish#readme",
+    "Description": "Random pictures of food dishes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/surhud004\/Foodish#readme",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

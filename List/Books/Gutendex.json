@@ -1,0 +1,11 @@
+{
+    "Name": "Gutendex",
+    "Link": "https:\/\/gutendex.com\/",
+    "Description": "Web-API for fetching data from Project Gutenberg Books Library",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/gutendex.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

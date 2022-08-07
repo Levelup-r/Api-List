@@ -1,0 +1,11 @@
+{
+    "Name": "Velib metropolis, Paris, France",
+    "Link": "https:\/\/www.velib-metropole.fr\/donnees-open-data-gbfs-du-service-velib-metropole",
+    "Description": "Velib Open Data API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.velib-metropole.fr\/donnees-open-data-gbfs-du-service-velib-metropole",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Dialogflow",
+    "Link": "https:\/\/cloud.google.com\/dialogflow\/docs\/",
+    "Description": "Natural Language Processing",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/cloud.google.com\/dialogflow\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

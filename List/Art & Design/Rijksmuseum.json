@@ -1,0 +1,11 @@
+{
+    "Name": "Rijksmuseum",
+    "Link": "https:\/\/data.rijksmuseum.nl\/object-metadata\/api\/",
+    "Description": "RijksMuseum Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.rijksmuseum.nl\/object-metadata\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

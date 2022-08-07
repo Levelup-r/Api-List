@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for London, England",
+    "Link": "https:\/\/api.tfl.gov.uk",
+    "Description": "TfL API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.tfl.gov.uk",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

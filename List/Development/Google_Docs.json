@@ -1,0 +1,11 @@
+{
+    "Name": "Google Docs",
+    "Link": "https:\/\/developers.google.com\/docs\/api\/reference\/rest",
+    "Description": "API to read, write, and format Google Docs documents",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/docs\/api\/reference\/rest",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

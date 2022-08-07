@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Germany",
+    "Link": "https:\/\/www.govdata.de\/daten\/-\/details\/govdata-metadatenkatalog",
+    "Description": "Germany Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.govdata.de\/daten\/-\/details\/govdata-metadatenkatalog",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

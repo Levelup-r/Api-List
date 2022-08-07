@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Slovakia",
+    "Link": "https:\/\/data.gov.sk\/en\/",
+    "Description": "Slovakia Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.sk\/en\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

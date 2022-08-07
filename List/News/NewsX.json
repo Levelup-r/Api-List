@@ -1,0 +1,11 @@
+{
+    "Name": "NewsX",
+    "Link": "https:\/\/rapidapi.com\/machaao-inc-machaao-inc-default\/api\/newsx\/",
+    "Description": "Get or Search Latest Breaking News with ML Powered Summaries \ud83e\udd16",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/machaao-inc-machaao-inc-default\/api\/newsx\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

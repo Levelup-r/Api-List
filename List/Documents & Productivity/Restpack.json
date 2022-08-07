@@ -1,0 +1,11 @@
+{
+    "Name": "Restpack",
+    "Link": "https:\/\/restpack.io\/",
+    "Description": "Provides screenshot, HTML to PDF and content extraction APIs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/restpack.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

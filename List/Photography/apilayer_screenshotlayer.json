@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer screenshotlayer",
+    "Link": "https:\/\/screenshotlayer.com",
+    "Description": "URL 2 Image",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/screenshotlayer.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

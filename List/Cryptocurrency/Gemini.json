@@ -1,0 +1,11 @@
+{
+    "Name": "Gemini",
+    "Link": "https:\/\/docs.gemini.com\/rest-api\/",
+    "Description": "Cryptocurrencies Exchange",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.gemini.com\/rest-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

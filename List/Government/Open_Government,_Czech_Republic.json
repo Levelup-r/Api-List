@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Czech Republic",
+    "Link": "https:\/\/data.gov.cz\/english\/",
+    "Description": "Czech Republic Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.cz\/english\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Warrant",
+    "Link": "https:\/\/warrant.dev\/",
+    "Description": "APIs for authorization and access control",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/warrant.dev\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

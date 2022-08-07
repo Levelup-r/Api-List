@@ -1,0 +1,11 @@
+{
+    "Name": "Ume\u00e5 Open Data",
+    "Link": "https:\/\/opendata.umea.se\/api\/",
+    "Description": "Open data of the city Ume\u00e5 in northen Sweden",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/opendata.umea.se\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

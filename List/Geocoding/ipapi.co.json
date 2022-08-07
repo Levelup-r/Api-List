@@ -1,0 +1,11 @@
+{
+    "Name": "ipapi.co",
+    "Link": "https:\/\/ipapi.co\/api\/#introduction",
+    "Description": "Find IP address location information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/ipapi.co\/api\/#introduction",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

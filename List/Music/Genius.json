@@ -1,0 +1,11 @@
+{
+    "Name": "Genius",
+    "Link": "https:\/\/docs.genius.com\/",
+    "Description": "Crowdsourced lyrics and music knowledge",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.genius.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

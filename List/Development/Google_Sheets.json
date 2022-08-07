@@ -1,0 +1,11 @@
+{
+    "Name": "Google Sheets",
+    "Link": "https:\/\/developers.google.com\/sheets\/api\/reference\/rest",
+    "Description": "API to read, write, and format Google Sheets data",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/sheets\/api\/reference\/rest",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

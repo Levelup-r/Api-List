@@ -1,0 +1,11 @@
+{
+    "Name": "Hyrule Compendium",
+    "Link": "https:\/\/github.com\/gadhagod\/Hyrule-Compendium-API",
+    "Description": "Data on all interactive items from The Legend of Zelda: BOTW",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/gadhagod\/Hyrule-Compendium-API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Icanhazepoch",
+    "Link": "https:\/\/icanhazepoch.com",
+    "Description": "Get Epoch time",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/icanhazepoch.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

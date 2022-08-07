@@ -1,0 +1,11 @@
+{
+    "Name": "UrlBae",
+    "Link": "https:\/\/urlbae.com\/developers",
+    "Description": "Simple and efficient short link creation",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/urlbae.com\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

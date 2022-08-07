@@ -1,0 +1,11 @@
+{
+    "Name": "CoinGecko",
+    "Link": "http:\/\/www.coingecko.com\/api",
+    "Description": "Cryptocurrency Price, Market, and Developer\/Social Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "http:\/\/www.coingecko.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

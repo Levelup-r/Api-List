@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Slovenia",
+    "Link": "https:\/\/podatki.gov.si\/",
+    "Description": "Slovenia Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/podatki.gov.si\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

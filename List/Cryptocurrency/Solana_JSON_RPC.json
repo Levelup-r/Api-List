@@ -1,0 +1,11 @@
+{
+    "Name": "Solana JSON RPC",
+    "Link": "https:\/\/docs.solana.com\/developing\/clients\/jsonrpc-api",
+    "Description": "Provides various endpoints to interact with the Solana Blockchain",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.solana.com\/developing\/clients\/jsonrpc-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

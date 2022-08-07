@@ -1,0 +1,11 @@
+{
+    "Name": "Facebook",
+    "Link": "https:\/\/developers.facebook.com\/",
+    "Description": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.facebook.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

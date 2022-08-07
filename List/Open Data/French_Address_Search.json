@@ -1,0 +1,11 @@
+{
+    "Name": "French Address Search",
+    "Link": "https:\/\/geo.api.gouv.fr\/adresse",
+    "Description": "Address search via the French Government",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/geo.api.gouv.fr\/adresse",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

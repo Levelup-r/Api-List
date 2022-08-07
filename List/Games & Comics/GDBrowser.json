@@ -1,0 +1,11 @@
+{
+    "Name": "GDBrowser",
+    "Link": "https:\/\/gdbrowser.com\/api",
+    "Description": "Easy way to use the Geometry Dash Servers",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown",
+    "Docs": "https:\/\/gdbrowser.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

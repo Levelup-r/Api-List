@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Germany",
+    "Link": "http:\/\/data.deutschebahn.com\/dataset\/api-fahrplan",
+    "Description": "Deutsche Bahn (DB) API",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/data.deutschebahn.com\/dataset\/api-fahrplan",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

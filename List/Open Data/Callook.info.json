@@ -1,0 +1,11 @@
+{
+    "Name": "Callook.info",
+    "Link": "https:\/\/callook.info",
+    "Description": "United States ham radio callsigns",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/callook.info",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

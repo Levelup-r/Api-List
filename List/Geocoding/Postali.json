@@ -1,0 +1,11 @@
+{
+    "Name": "Postali",
+    "Link": "https:\/\/postali.app\/api",
+    "Description": "Mexico Zip Codes API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/postali.app\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

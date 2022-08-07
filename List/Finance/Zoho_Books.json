@@ -1,0 +1,11 @@
+{
+    "Name": "Zoho Books",
+    "Link": "https:\/\/www.zoho.com\/books\/api\/v3\/",
+    "Description": "Online accounting software, built for your business",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.zoho.com\/books\/api\/v3\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

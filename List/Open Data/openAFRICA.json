@@ -1,0 +1,11 @@
+{
+    "Name": "openAFRICA",
+    "Link": "https:\/\/africaopendata.org\/",
+    "Description": "Large datasets repository of African open data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/africaopendata.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

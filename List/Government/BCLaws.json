@@ -1,0 +1,11 @@
+{
+    "Name": "BCLaws",
+    "Link": "https:\/\/www.bclaws.gov.bc.ca\/civix\/template\/complete\/api\/index.html",
+    "Description": "Access to the laws of British Columbia",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.bclaws.gov.bc.ca\/civix\/template\/complete\/api\/index.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

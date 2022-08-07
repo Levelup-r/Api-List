@@ -1,0 +1,11 @@
+{
+    "Name": "NHTSA",
+    "Link": "https:\/\/vpic.nhtsa.dot.gov\/api\/",
+    "Description": "NHTSA Product Information Catalog and Vehicle Listing",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/vpic.nhtsa.dot.gov\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Football Standings",
+    "Link": "https:\/\/github.com\/azharimm\/football-standings-api",
+    "Description": "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/azharimm\/football-standings-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

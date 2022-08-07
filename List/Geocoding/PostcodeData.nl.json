@@ -1,0 +1,11 @@
+{
+    "Name": "PostcodeData.nl",
+    "Link": "http:\/\/api.postcodedata.nl\/v1\/postcode\/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
+    "Description": "Provide geolocation data based on postcode for Dutch addresses",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/api.postcodedata.nl\/v1\/postcode\/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

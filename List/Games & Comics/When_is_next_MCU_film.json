@@ -1,0 +1,11 @@
+{
+    "Name": "When is next MCU film",
+    "Link": "https:\/\/github.com\/DiljotSG\/MCU-Countdown\/blob\/develop\/docs\/API.md",
+    "Description": "Upcoming MCU film information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/DiljotSG\/MCU-Countdown\/blob\/develop\/docs\/API.md",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "PandaDoc",
+    "Link": "https:\/\/developers.pandadoc.com",
+    "Description": "DocGen and eSignatures API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/developers.pandadoc.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

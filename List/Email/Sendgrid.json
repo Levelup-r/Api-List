@@ -1,0 +1,11 @@
+{
+    "Name": "Sendgrid",
+    "Link": "https:\/\/docs.sendgrid.com\/api-reference\/",
+    "Description": "A cloud-based SMTP provider that allows you to send emails without having to maintain email servers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.sendgrid.com\/api-reference\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

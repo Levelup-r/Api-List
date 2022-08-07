@@ -1,0 +1,11 @@
+{
+    "Name": "Untappd",
+    "Link": "https:\/\/untappd.com\/api\/docs",
+    "Description": "Social beer sharing",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/untappd.com\/api\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

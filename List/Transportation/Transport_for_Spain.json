@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Spain",
+    "Link": "https:\/\/data.renfe.com\/api\/1\/util\/snippet\/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a",
+    "Description": "Public trains of Spain",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.renfe.com\/api\/1\/util\/snippet\/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

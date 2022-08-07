@@ -1,0 +1,11 @@
+{
+    "Name": "PandaScore",
+    "Link": "https:\/\/developers.pandascore.co\/",
+    "Description": "E-sports games and results",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.pandascore.co\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

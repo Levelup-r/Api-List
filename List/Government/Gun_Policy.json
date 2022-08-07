@@ -1,0 +1,11 @@
+{
+    "Name": "Gun Policy",
+    "Link": "https:\/\/www.gunpolicy.org\/api",
+    "Description": "International firearm injury prevention and policy",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.gunpolicy.org\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

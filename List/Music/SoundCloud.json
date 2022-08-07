@@ -1,0 +1,11 @@
+{
+    "Name": "SoundCloud",
+    "Link": "https:\/\/developers.soundcloud.com\/docs\/api\/guide",
+    "Description": "With SoundCloud API you can build applications that will give more power to control your content",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.soundcloud.com\/docs\/api\/guide",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Cloudmersive Validate",
+    "Link": "https:\/\/cloudmersive.com\/phone-number-validation-API",
+    "Description": "Validate international phone numbers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/cloudmersive.com\/phone-number-validation-API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

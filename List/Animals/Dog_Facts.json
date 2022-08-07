@@ -1,0 +1,11 @@
+{
+    "Name": "Dog Facts",
+    "Link": "https:\/\/kinduff.github.io\/dog-api\/",
+    "Description": "Random facts of Dogs",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/kinduff.github.io\/dog-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Google Drive",
+    "Link": "https:\/\/developers.google.com\/drive\/",
+    "Description": "File Sharing and Storage",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/drive\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

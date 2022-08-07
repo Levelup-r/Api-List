@@ -1,0 +1,11 @@
+{
+    "Name": "Catch The Show",
+    "Link": "https:\/\/catchtheshow.herokuapp.com\/api\/documentation",
+    "Description": "REST API for next-episode.net",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/catchtheshow.herokuapp.com\/api\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

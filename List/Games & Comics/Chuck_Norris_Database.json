@@ -1,0 +1,11 @@
+{
+    "Name": "Chuck Norris Database",
+    "Link": "http:\/\/www.icndb.com\/api\/",
+    "Description": "Jokes",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.icndb.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

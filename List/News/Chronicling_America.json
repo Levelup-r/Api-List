@@ -1,0 +1,11 @@
+{
+    "Name": "Chronicling America",
+    "Link": "http:\/\/chroniclingamerica.loc.gov\/about\/api\/",
+    "Description": "Provides access to millions of pages of historic US newspapers from the Library of Congress",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/chroniclingamerica.loc.gov\/about\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

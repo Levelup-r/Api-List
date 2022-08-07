@@ -1,0 +1,11 @@
+{
+    "Name": "BayFiles",
+    "Link": "https:\/\/bayfiles.com\/docs\/api",
+    "Description": "Upload and share your files",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bayfiles.com\/docs\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

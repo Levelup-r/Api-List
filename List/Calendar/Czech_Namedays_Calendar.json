@@ -1,0 +1,11 @@
+{
+    "Name": "Czech Namedays Calendar",
+    "Link": "https:\/\/svatky.adresa.info",
+    "Description": "Lookup for a name and returns nameday date",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/svatky.adresa.info",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

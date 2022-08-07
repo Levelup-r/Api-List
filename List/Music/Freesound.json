@@ -1,0 +1,11 @@
+{
+    "Name": "Freesound",
+    "Link": "https:\/\/freesound.org\/docs\/api\/",
+    "Description": "Music Samples",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/freesound.org\/docs\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

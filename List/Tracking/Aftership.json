@@ -1,0 +1,11 @@
+{
+    "Name": "Aftership",
+    "Link": "https:\/\/developers.aftership.com\/reference\/quick-start",
+    "Description": "API to update, manage and track shipment efficiently",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developers.aftership.com\/reference\/quick-start",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Meteorologisk Institutt",
+    "Link": "https:\/\/api.met.no\/weatherapi\/documentation",
+    "Description": "Weather and climate data",
+    "Auth": "`User-Agent`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.met.no\/weatherapi\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

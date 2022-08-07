@@ -1,0 +1,11 @@
+{
+    "Name": "WeatherAPI",
+    "Link": "https:\/\/www.weatherapi.com\/",
+    "Description": "Weather API with other stuff like Astronomy and Geolocation API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.weatherapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

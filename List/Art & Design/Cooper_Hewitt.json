@@ -1,0 +1,11 @@
+{
+    "Name": "Cooper Hewitt",
+    "Link": "https:\/\/collection.cooperhewitt.org\/api",
+    "Description": "Smithsonian Design Museum",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/collection.cooperhewitt.org\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "OpenGraphr",
+    "Link": "https:\/\/opengraphr.com\/docs\/1.0\/overview",
+    "Description": "Really simple API to retrieve Open Graph data from an URL",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opengraphr.com\/docs\/1.0\/overview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

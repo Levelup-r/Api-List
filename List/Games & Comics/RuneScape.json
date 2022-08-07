@@ -1,0 +1,11 @@
+{
+    "Name": "RuneScape",
+    "Link": "https:\/\/runescape.wiki\/w\/Application_programming_interface",
+    "Description": "RuneScape and OSRS RPGs information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/runescape.wiki\/w\/Application_programming_interface",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

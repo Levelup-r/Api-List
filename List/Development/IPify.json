@@ -1,0 +1,11 @@
+{
+    "Name": "IPify",
+    "Link": "https:\/\/www.ipify.org\/",
+    "Description": "A simple IP Address API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.ipify.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

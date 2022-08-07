@@ -1,0 +1,11 @@
+{
+    "Name": "Disqus",
+    "Link": "https:\/\/disqus.com\/api\/docs\/auth\/",
+    "Description": "Communicate with Disqus data",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/disqus.com\/api\/docs\/auth\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

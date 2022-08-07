@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Thailand",
+    "Link": "https:\/\/data.go.th\/",
+    "Description": "Thailand Government Open Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.go.th\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

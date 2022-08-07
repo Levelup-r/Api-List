@@ -1,0 +1,11 @@
+{
+    "Name": "Shodan",
+    "Link": "https:\/\/developer.shodan.io\/",
+    "Description": "Search engine for Internet connected devices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.shodan.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

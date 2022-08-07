@@ -1,0 +1,11 @@
+{
+    "Name": "CountAPI",
+    "Link": "https:\/\/countapi.xyz",
+    "Description": "Free and simple counting service. You can use it to track page hits and specific events",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/countapi.xyz",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Word Cloud",
+    "Link": "https:\/\/wordcloudapi.com\/",
+    "Description": "Easily create word clouds",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wordcloudapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

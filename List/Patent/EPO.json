@@ -1,0 +1,11 @@
+{
+    "Name": "EPO",
+    "Link": "https:\/\/developers.epo.org\/",
+    "Description": "European patent search system api",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.epo.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

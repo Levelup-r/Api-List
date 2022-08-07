@@ -1,0 +1,11 @@
+{
+    "Name": "Schiphol Airport",
+    "Link": "https:\/\/developer.schiphol.nl\/",
+    "Description": "Schiphol",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.schiphol.nl\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

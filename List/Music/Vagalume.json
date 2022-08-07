@@ -1,0 +1,11 @@
+{
+    "Name": "Vagalume",
+    "Link": "https:\/\/api.vagalume.com.br\/docs\/",
+    "Description": "Crowdsourced lyrics and music knowledge",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.vagalume.com.br\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Financial Modeling Prep",
+    "Link": "https:\/\/site.financialmodelingprep.com\/developer\/docs",
+    "Description": "Realtime and historical stock data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/site.financialmodelingprep.com\/developer\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Mixcloud",
+    "Link": "https:\/\/www.mixcloud.com\/developers\/",
+    "Description": "Music",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.mixcloud.com\/developers\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

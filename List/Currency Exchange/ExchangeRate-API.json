@@ -1,11 +1,11 @@
 {
-    "Name" : "ExchangeRate-API",
-    "Link" : "https://www.exchangerate-api.com/",
-    "Description" : "Free currency conversion.",
-    "Auth" : "Yes",
-    "HTTPS" : "Yes",
-    "CORS" : "Yes",
-    "Docs" : "https://www.exchangerate-api.com/docs/overview",
+    "Name": "ExchangeRate-API",
+    "Link": "https:\/\/www.exchangerate-api.com",
+    "Description": "Free currency conversion",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.exchangerate-api.com",
     "Status_Check": "False",
-    "Status_Token" : "NONE"
- }
+    "Status_Token": "NONE"
+}

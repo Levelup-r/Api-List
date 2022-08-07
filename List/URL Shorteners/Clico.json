@@ -1,0 +1,11 @@
+{
+    "Name": "Clico",
+    "Link": "https:\/\/cli.com\/swagger-ui\/index.html?configUrl=\/v3\/api-docs\/swagger-config",
+    "Description": "URL shortener service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/cli.com\/swagger-ui\/index.html?configUrl=\/v3\/api-docs\/swagger-config",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

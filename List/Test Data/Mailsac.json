@@ -1,0 +1,11 @@
+{
+    "Name": "Mailsac",
+    "Link": "https:\/\/mailsac.com\/docs\/api",
+    "Description": "Disposable Email",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mailsac.com\/docs\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

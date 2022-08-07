@@ -1,0 +1,11 @@
+{
+    "Name": "Irisnet",
+    "Link": "https:\/\/irisnet.de\/api\/",
+    "Description": "Realtime content moderation API that blocks or blurs unwanted images in real-time",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/irisnet.de\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Instatus",
+    "Link": "https:\/\/instatus.com\/help\/api",
+    "Description": "Post to and update maintenance and incidents on your status page through an HTTP REST API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/instatus.com\/help\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

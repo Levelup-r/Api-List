@@ -1,0 +1,11 @@
+{
+    "Name": "Brazilian Chamber of Deputies Open Data",
+    "Link": "https:\/\/dadosabertos.camara.leg.br\/swagger\/api.html",
+    "Description": "Provides legislative information in Apis XML and JSON, as well as files in various formats",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/dadosabertos.camara.leg.br\/swagger\/api.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

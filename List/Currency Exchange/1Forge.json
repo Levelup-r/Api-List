@@ -1,0 +1,11 @@
+{
+    "Name": "1Forge",
+    "Link": "https:\/\/1forge.com\/forex-data-api\/api-documentation",
+    "Description": "Forex currency market data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/1forge.com\/forex-data-api\/api-documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

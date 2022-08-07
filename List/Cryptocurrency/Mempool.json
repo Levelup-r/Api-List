@@ -1,0 +1,11 @@
+{
+    "Name": "Mempool",
+    "Link": "https:\/\/mempool.space\/api",
+    "Description": "Bitcoin API Service focusing on the transaction fee",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/mempool.space\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

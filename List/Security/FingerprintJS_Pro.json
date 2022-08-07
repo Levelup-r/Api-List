@@ -1,0 +1,11 @@
+{
+    "Name": "FingerprintJS Pro",
+    "Link": "https:\/\/dev.fingerprintjs.com\/docs",
+    "Description": "Fraud detection API offering highly accurate browser fingerprinting",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/dev.fingerprintjs.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Indodax",
+    "Link": "https:\/\/github.com\/btcid\/indodax-official-api-docs",
+    "Description": "Trade your Bitcoin and other assets with rupiah",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/btcid\/indodax-official-api-docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

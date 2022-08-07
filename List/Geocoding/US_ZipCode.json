@@ -1,0 +1,11 @@
+{
+    "Name": "US ZipCode",
+    "Link": "https:\/\/www.smarty.com\/docs\/cloud\/us-zipcode-api",
+    "Description": "Validate and append data for any US ZipCode",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.smarty.com\/docs\/cloud\/us-zipcode-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

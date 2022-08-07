@@ -1,0 +1,11 @@
+{
+    "Name": "ReSmush.it",
+    "Link": "https:\/\/resmush.it\/api",
+    "Description": "Photo optimization",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/resmush.it\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

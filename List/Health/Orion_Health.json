@@ -1,0 +1,11 @@
+{
+    "Name": "Orion Health",
+    "Link": "https:\/\/developer.orionhealth.io\/",
+    "Description": "Medical platform which allows the development of applications for different healthcare scenarios",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.orionhealth.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "StockData",
+    "Link": "https:\/\/www.StockData.org",
+    "Description": "Real-Time, Intraday & Historical Market Data, News and Sentiment API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.StockData.org",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

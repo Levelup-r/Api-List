@@ -1,0 +1,11 @@
+{
+    "Name": "FEC",
+    "Link": "https:\/\/api.open.fec.gov\/developers\/",
+    "Description": "Information on campaign donations in federal elections",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.open.fec.gov\/developers\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Danish data service Energi",
+    "Link": "https:\/\/www.energidataservice.dk\/",
+    "Description": "Open energy data from Energinet to society",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.energidataservice.dk\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

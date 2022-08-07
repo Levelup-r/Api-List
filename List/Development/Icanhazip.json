@@ -1,0 +1,11 @@
+{
+    "Name": "Icanhazip",
+    "Link": "https:\/\/major.io\/icanhazip-com-faq\/",
+    "Description": "IP Address API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/major.io\/icanhazip-com-faq\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

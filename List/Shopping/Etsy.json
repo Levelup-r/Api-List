@@ -1,0 +1,11 @@
+{
+    "Name": "Etsy",
+    "Link": "https:\/\/www.etsy.com\/developers\/documentation\/getting_started\/api_basics",
+    "Description": "Manage shop and interact with listings",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.etsy.com\/developers\/documentation\/getting_started\/api_basics",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

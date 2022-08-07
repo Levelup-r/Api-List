@@ -1,0 +1,11 @@
+{
+    "Name": "OpenCorporates",
+    "Link": "http:\/\/api.opencorporates.com\/documentation\/API-Reference",
+    "Description": "Data on corporate entities and directors in many countries",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/api.opencorporates.com\/documentation\/API-Reference",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

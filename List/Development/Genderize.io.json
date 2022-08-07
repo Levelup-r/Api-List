@@ -1,0 +1,11 @@
+{
+    "Name": "Genderize.io",
+    "Link": "https:\/\/genderize.io",
+    "Description": "Estimates a gender from a first name",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/genderize.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

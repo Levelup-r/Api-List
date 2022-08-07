@@ -1,0 +1,11 @@
+{
+    "Name": "Beeceptor",
+    "Link": "https:\/\/beeceptor.com\/",
+    "Description": "Build a mock Rest API endpoint in seconds",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/beeceptor.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

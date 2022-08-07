@@ -1,0 +1,11 @@
+{
+    "Name": "Lorem Picsum",
+    "Link": "https:\/\/picsum.photos\/",
+    "Description": "Images from Unsplash",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/picsum.photos\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "NBA Stats",
+    "Link": "https:\/\/any-api.com\/nba_com\/nba_com\/docs\/API_Description",
+    "Description": "Current and historical NBA Statistics",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/any-api.com\/nba_com\/nba_com\/docs\/API_Description",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

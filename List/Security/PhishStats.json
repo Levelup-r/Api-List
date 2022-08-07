@@ -1,0 +1,11 @@
+{
+    "Name": "PhishStats",
+    "Link": "https:\/\/phishstats.info\/",
+    "Description": "Phishing database",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/phishstats.info\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Mattermost",
+    "Link": "https:\/\/api.mattermost.com\/",
+    "Description": "An open source platform for developer collaboration",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.mattermost.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

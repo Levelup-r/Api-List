@@ -1,0 +1,11 @@
+{
+    "Name": "jsDelivr",
+    "Link": "https:\/\/github.com\/jsdelivr\/data.jsdelivr.com",
+    "Description": "Package info and download stats on jsDelivr CDN",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/jsdelivr\/data.jsdelivr.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

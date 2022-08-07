@@ -1,0 +1,11 @@
+{
+    "Name": "Pok\u00e9api",
+    "Link": "https:\/\/pokeapi.co",
+    "Description": "Pok\u00e9mon Information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pokeapi.co",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

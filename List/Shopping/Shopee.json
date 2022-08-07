@@ -1,0 +1,11 @@
+{
+    "Name": "Shopee",
+    "Link": "https:\/\/open.shopee.com\/documents?version=1",
+    "Description": "Shopee's official API for integration of various services from Shopee",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/open.shopee.com\/documents?version=1",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

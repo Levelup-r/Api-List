@@ -1,0 +1,11 @@
+{
+    "Name": "University of Oslo",
+    "Link": "https:\/\/data.uio.no\/",
+    "Description": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.uio.no\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

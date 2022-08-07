@@ -1,0 +1,11 @@
+{
+    "Name": "Pulsedive",
+    "Link": "https:\/\/pulsedive.com\/api\/",
+    "Description": "Scan, search and collect threat intelligence data in real-time",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pulsedive.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

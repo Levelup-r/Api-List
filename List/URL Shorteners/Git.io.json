@@ -1,0 +1,11 @@
+{
+    "Name": "Git.io",
+    "Link": "https:\/\/github.blog\/2011-11-10-git-io-github-url-shortener\/",
+    "Description": "Git.io URL shortener",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.blog\/2011-11-10-git-io-github-url-shortener\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

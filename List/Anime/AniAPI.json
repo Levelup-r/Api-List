@@ -1,0 +1,11 @@
+{
+    "Name": "AniAPI",
+    "Link": "https:\/\/aniapi.com\/docs\/",
+    "Description": "Anime discovery, streaming & syncing with trackers",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/aniapi.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

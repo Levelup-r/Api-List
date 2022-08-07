@@ -1,0 +1,11 @@
+{
+    "Name": "Free Url Shortener",
+    "Link": "https:\/\/ulvis.net\/developer.html",
+    "Description": "Free URL Shortener offers a powerful API to interact with other sites",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ulvis.net\/developer.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

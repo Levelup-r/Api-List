@@ -1,0 +1,11 @@
+{
+    "Name": "Alchemy Ethereum",
+    "Link": "https:\/\/docs.alchemy.com\/alchemy\/",
+    "Description": "Ethereum Node-as-a-Service Provider",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.alchemy.com\/alchemy\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

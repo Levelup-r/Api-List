@@ -1,0 +1,11 @@
+{
+    "Name": "HTTP2.Pro",
+    "Link": "https:\/\/http2.pro\/doc\/api",
+    "Description": "Test endpoints for client and server HTTP\/2 protocol support",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/http2.pro\/doc\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

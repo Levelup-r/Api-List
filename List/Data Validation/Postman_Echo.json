@@ -1,0 +1,11 @@
+{
+    "Name": "Postman Echo",
+    "Link": "https:\/\/www.postman-echo.com",
+    "Description": "Test api server to receive and return value from HTTP method",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.postman-echo.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "balldontlie",
+    "Link": "https:\/\/www.balldontlie.io",
+    "Description": "Balldontlie provides access to stats data from the NBA",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.balldontlie.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

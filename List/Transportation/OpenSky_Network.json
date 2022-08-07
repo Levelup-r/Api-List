@@ -1,0 +1,11 @@
+{
+    "Name": "OpenSky Network",
+    "Link": "https:\/\/opensky-network.org\/apidoc\/index.html",
+    "Description": "Free real-time ADS-B aviation data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opensky-network.org\/apidoc\/index.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Unplugg",
+    "Link": "https:\/\/unplu.gg\/test_api.html",
+    "Description": "Forecasting API for timeseries data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/unplu.gg\/test_api.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "FreeForexAPI",
+    "Link": "https:\/\/freeforexapi.com\/Home\/Api",
+    "Description": "Real-time foreign exchange rates for major currency pairs",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/freeforexapi.com\/Home\/Api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

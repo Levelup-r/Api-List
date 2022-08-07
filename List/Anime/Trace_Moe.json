@@ -1,0 +1,11 @@
+{
+    "Name": "Trace Moe",
+    "Link": "https:\/\/soruly.github.io\/trace.moe-api\/#\/",
+    "Description": "A useful tool to get the exact scene of an anime from a screenshot",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/soruly.github.io\/trace.moe-api\/#\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

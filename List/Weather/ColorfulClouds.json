@@ -1,0 +1,11 @@
+{
+    "Name": "ColorfulClouds",
+    "Link": "https:\/\/open.caiyunapp.com\/ColorfulClouds_Weather_API",
+    "Description": "Weather",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/open.caiyunapp.com\/ColorfulClouds_Weather_API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

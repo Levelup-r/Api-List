@@ -1,0 +1,11 @@
+{
+    "Name": "JioSaavn",
+    "Link": "https:\/\/github.com\/cyberboysumanjay\/JioSaavnAPI",
+    "Description": "API to retrieve song information, album meta data and many more from JioSaavn",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/cyberboysumanjay\/JioSaavnAPI",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

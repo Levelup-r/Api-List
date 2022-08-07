@@ -1,0 +1,11 @@
+{
+    "Name": "Warface (non-official)",
+    "Link": "https:\/\/api.wfstats.cf",
+    "Description": "Official API proxy with better data structure and more features",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/api.wfstats.cf",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

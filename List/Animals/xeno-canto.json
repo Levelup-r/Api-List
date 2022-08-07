@@ -1,0 +1,11 @@
+{
+    "Name": "xeno-canto",
+    "Link": "https:\/\/xeno-canto.org\/explore\/api",
+    "Description": "Bird recordings",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/xeno-canto.org\/explore\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

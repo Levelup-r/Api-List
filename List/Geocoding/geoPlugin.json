@@ -1,0 +1,11 @@
+{
+    "Name": "geoPlugin",
+    "Link": "https:\/\/www.geoplugin.com",
+    "Description": "IP geolocation and currency conversion",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.geoplugin.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

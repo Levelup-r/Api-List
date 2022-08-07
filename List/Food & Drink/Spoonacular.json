@@ -1,0 +1,11 @@
+{
+    "Name": "Spoonacular",
+    "Link": "https:\/\/spoonacular.com\/food-api",
+    "Description": "Recipes, Food Products, and Meal Planning",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/spoonacular.com\/food-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

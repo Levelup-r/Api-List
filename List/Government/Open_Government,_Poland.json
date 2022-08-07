@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Poland",
+    "Link": "https:\/\/dane.gov.pl\/en",
+    "Description": "Poland Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/dane.gov.pl\/en",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

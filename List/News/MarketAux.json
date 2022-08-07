@@ -1,0 +1,11 @@
+{
+    "Name": "MarketAux",
+    "Link": "https:\/\/www.marketaux.com\/",
+    "Description": "Live stock market news with tagged tickers + sentiment and stats JSON API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.marketaux.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

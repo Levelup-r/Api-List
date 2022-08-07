@@ -1,0 +1,11 @@
+{
+    "Name": "Canadian Football League (CFL)",
+    "Link": "http:\/\/api.cfl.ca\/",
+    "Description": "Official JSON API providing real-time league, team and player statistics about the CFL",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "http:\/\/api.cfl.ca\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

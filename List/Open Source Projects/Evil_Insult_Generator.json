@@ -1,0 +1,11 @@
+{
+    "Name": "Evil Insult Generator",
+    "Link": "https:\/\/evilinsult.com\/api",
+    "Description": "Evil Insults",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/evilinsult.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

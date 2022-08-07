@@ -1,0 +1,11 @@
+{
+    "Name": "Sunrise and Sunset",
+    "Link": "https:\/\/sunrise-sunset.org\/api",
+    "Description": "Sunset and sunrise times for a given latitude and longitude",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/sunrise-sunset.org\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

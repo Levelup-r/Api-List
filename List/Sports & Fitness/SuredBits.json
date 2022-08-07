@@ -1,0 +1,11 @@
+{
+    "Name": "SuredBits",
+    "Link": "https:\/\/suredbits.com\/api\/",
+    "Description": "Query sports data, including teams, players, games, scores and statistics",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "https:\/\/suredbits.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

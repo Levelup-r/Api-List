@@ -1,0 +1,11 @@
+{
+    "Name": "ReqRes",
+    "Link": "https:\/\/reqres.in\/ ",
+    "Description": "A hosted REST-API ready to respond to your AJAX requests",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/reqres.in\/ ",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

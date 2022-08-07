@@ -1,0 +1,11 @@
+{
+    "Name": "Final Space",
+    "Link": "https:\/\/finalspaceapi.com\/docs\/",
+    "Description": "Final Space API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/finalspaceapi.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

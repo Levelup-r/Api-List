@@ -1,0 +1,11 @@
+{
+    "Name": "Cloudmersive Document and Data Conversion",
+    "Link": "https:\/\/cloudmersive.com\/convert-api",
+    "Description": "HTML\/URL to PDF\/PNG, Office documents to PDF, image conversion",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/cloudmersive.com\/convert-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

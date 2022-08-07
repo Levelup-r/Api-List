@@ -1,0 +1,11 @@
+{
+    "Name": "Hirak OCR",
+    "Link": "https:\/\/ocr.hirak.site\/",
+    "Description": "Image to text -text recognition- from image more than 100 language, accurate, unlimited requests",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ocr.hirak.site\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "IPInfoDB",
+    "Link": "https:\/\/www.ipinfodb.com\/api",
+    "Description": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.ipinfodb.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

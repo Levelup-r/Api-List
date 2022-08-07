@@ -1,11 +1,11 @@
 {
-    "Name" : "Metropolitan Museum of Art",
-    "Link" : "https://github.com/metmuseum/openaccess",
-    "Description" : "The Metropolitan Museum of Art's Open Access Initiative.",
-    "Auth" : "No",
-    "HTTPS" : "Yes",
-    "CORS" : "Unknown",
-    "Docs" : "https://metmuseum.github.io/",
+    "Name": "Metropolitan Museum of Art",
+    "Link": "https:\/\/metmuseum.github.io\/",
+    "Description": "Met Museum of Art",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/metmuseum.github.io\/",
     "Status_Check": "False",
-    "Status_Token" : "NONE"
- }
+    "Status_Token": "NONE"
+}

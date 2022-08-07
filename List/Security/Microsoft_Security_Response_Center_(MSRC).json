@@ -1,0 +1,11 @@
+{
+    "Name": "Microsoft Security Response Center (MSRC)",
+    "Link": "https:\/\/msrc.microsoft.com\/report\/developer",
+    "Description": "Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/msrc.microsoft.com\/report\/developer",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

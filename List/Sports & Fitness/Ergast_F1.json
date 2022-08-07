@@ -1,0 +1,11 @@
+{
+    "Name": "Ergast F1",
+    "Link": "http:\/\/ergast.com\/mrd\/",
+    "Description": "F1 data from the beginning of the world championships in 1950",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/ergast.com\/mrd\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

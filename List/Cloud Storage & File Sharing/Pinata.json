@@ -1,0 +1,11 @@
+{
+    "Name": "Pinata",
+    "Link": "https:\/\/docs.pinata.cloud\/",
+    "Description": "IPFS Pinning Services API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.pinata.cloud\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

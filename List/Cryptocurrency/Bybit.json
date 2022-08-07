@@ -1,0 +1,11 @@
+{
+    "Name": "Bybit",
+    "Link": "https:\/\/bybit-exchange.github.io\/docs\/linear\/#t-introduction",
+    "Description": "Cryptocurrency data feed and algorithmic trading",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bybit-exchange.github.io\/docs\/linear\/#t-introduction",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

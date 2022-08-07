@@ -1,0 +1,11 @@
+{
+    "Name": "GitGuardian",
+    "Link": "https:\/\/api.gitguardian.com\/doc",
+    "Description": "Scan files for secrets (API Keys, database credentials)",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/api.gitguardian.com\/doc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

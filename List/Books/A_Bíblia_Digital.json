@@ -1,0 +1,11 @@
+{
+    "Name": "A B\u00edblia Digital",
+    "Link": "https:\/\/www.abibliadigital.com.br\/en",
+    "Description": "Do not worry about managing the multiple versions of the Bible",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.abibliadigital.com.br\/en",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Purple Air",
+    "Link": "https:\/\/www2.purpleair.com\/",
+    "Description": "Real Time Air Quality Monitoring",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www2.purpleair.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

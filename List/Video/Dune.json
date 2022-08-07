@@ -1,0 +1,11 @@
+{
+    "Name": "Dune",
+    "Link": "https:\/\/github.com\/ywalia01\/dune-api",
+    "Description": "A simple API which provides you with book, character, movie and quotes JSON data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/ywalia01\/dune-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Traitify",
+    "Link": "https:\/\/app.traitify.com\/developer",
+    "Description": "Assess, collect and analyze Personality",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/app.traitify.com\/developer",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

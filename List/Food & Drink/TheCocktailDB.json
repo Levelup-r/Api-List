@@ -1,0 +1,11 @@
+{
+    "Name": "TheCocktailDB",
+    "Link": "https:\/\/www.thecocktaildb.com\/api.php",
+    "Description": "Cocktail Recipes",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.thecocktaildb.com\/api.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "NovaDax",
+    "Link": "https:\/\/doc.novadax.com\/en-US\/#introduction",
+    "Description": "NovaDAX API to access all market data, trading management endpoints",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/doc.novadax.com\/en-US\/#introduction",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

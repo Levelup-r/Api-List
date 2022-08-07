@@ -1,0 +1,11 @@
+{
+    "Name": "Steem",
+    "Link": "https:\/\/developers.steem.io\/",
+    "Description": "Blockchain-based blogging and social media website",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "https:\/\/developers.steem.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

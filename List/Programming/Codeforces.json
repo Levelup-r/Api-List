@@ -1,0 +1,11 @@
+{
+    "Name": "Codeforces",
+    "Link": "https:\/\/codeforces.com\/apiHelp",
+    "Description": "Get access to Codeforces data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/codeforces.com\/apiHelp",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Oikolab",
+    "Link": "https:\/\/docs.oikolab.com",
+    "Description": "70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.oikolab.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

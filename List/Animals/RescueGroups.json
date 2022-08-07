@@ -1,0 +1,11 @@
+{
+    "Name": "RescueGroups",
+    "Link": "https:\/\/userguide.rescuegroups.org\/display\/APIDG\/API+Developers+Guide+Home",
+    "Description": "Adoption",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/userguide.rescuegroups.org\/display\/APIDG\/API+Developers+Guide+Home",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

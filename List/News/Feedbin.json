@@ -1,0 +1,11 @@
+{
+    "Name": "Feedbin",
+    "Link": "https:\/\/github.com\/feedbin\/feedbin-api",
+    "Description": "RSS reader",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/feedbin\/feedbin-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Digimon TCG",
+    "Link": "https:\/\/documenter.getpostman.com\/view\/14059948\/TzecB4fH",
+    "Description": "Search for Digimon cards in digimoncard.io",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/documenter.getpostman.com\/view\/14059948\/TzecB4fH",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

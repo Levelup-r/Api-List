@@ -1,0 +1,11 @@
+{
+    "Name": "Flowdash",
+    "Link": "https:\/\/docs.flowdash.com\/docs\/api-introduction",
+    "Description": "Automate business workflows",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.flowdash.com\/docs\/api-introduction",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Chess.com",
+    "Link": "https:\/\/www.chess.com\/news\/view\/published-data-api",
+    "Description": "Chess.com read-only REST API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.chess.com\/news\/view\/published-data-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

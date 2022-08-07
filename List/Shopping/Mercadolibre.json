@@ -1,0 +1,11 @@
+{
+    "Name": "Mercadolibre",
+    "Link": "https:\/\/developers.mercadolibre.cl\/es_ar\/api-docs-es",
+    "Description": "Manage sales, ads, products, services and Shops",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.mercadolibre.cl\/es_ar\/api-docs-es",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

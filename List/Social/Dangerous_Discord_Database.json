@@ -1,0 +1,11 @@
+{
+    "Name": "Dangerous Discord Database",
+    "Link": "https:\/\/discord.riverside.rocks\/docs\/index.php",
+    "Description": "Database of malicious Discord accounts",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/discord.riverside.rocks\/docs\/index.php",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

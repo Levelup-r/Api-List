@@ -1,0 +1,11 @@
+{
+    "Name": "MCU Countdown",
+    "Link": "https:\/\/github.com\/DiljotSG\/MCU-Countdown",
+    "Description": "A Countdown to the next MCU Film",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/DiljotSG\/MCU-Countdown",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

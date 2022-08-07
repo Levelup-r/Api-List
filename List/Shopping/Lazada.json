@@ -1,0 +1,11 @@
+{
+    "Name": "Lazada",
+    "Link": "https:\/\/open.lazada.com\/doc\/doc.htm",
+    "Description": "Retrieve product ratings and seller performance metrics",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/open.lazada.com\/doc\/doc.htm",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "PunkAPI",
+    "Link": "https:\/\/punkapi.com\/",
+    "Description": "Brewdog Beer Recipes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/punkapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

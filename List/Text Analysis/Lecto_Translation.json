@@ -1,0 +1,11 @@
+{
+    "Name": "Lecto Translation",
+    "Link": "https:\/\/rapidapi.com\/lecto-lecto-default\/api\/lecto-translation\/",
+    "Description": "Translation API with free tier and reasonable prices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/rapidapi.com\/lecto-lecto-default\/api\/lecto-translation\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

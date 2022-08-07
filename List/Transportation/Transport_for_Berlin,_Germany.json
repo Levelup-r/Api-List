@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Berlin, Germany",
+    "Link": "https:\/\/github.com\/derhuerst\/vbb-rest\/blob\/3\/docs\/index.md",
+    "Description": "Third-party VBB API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/derhuerst\/vbb-rest\/blob\/3\/docs\/index.md",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

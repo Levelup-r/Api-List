@@ -1,0 +1,11 @@
+{
+    "Name": "Nexchange",
+    "Link": "https:\/\/nexchange2.docs.apiary.io\/",
+    "Description": "Automated cryptocurrency exchange service",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/nexchange2.docs.apiary.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

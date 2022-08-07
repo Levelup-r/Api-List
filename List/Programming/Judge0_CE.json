@@ -1,0 +1,11 @@
+{
+    "Name": "Judge0 CE",
+    "Link": "https:\/\/ce.judge0.com\/",
+    "Description": "Online code execution system",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ce.judge0.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

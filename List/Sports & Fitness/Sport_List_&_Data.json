@@ -1,0 +1,11 @@
+{
+    "Name": "Sport List & Data",
+    "Link": "https:\/\/developers.decathlon.com\/products\/sports",
+    "Description": "List of and resources related to sports",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developers.decathlon.com\/products\/sports",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

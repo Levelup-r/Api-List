@@ -1,0 +1,11 @@
+{
+    "Name": "HackerNews",
+    "Link": "https:\/\/github.com\/HackerNews\/API",
+    "Description": "Social news for CS and entrepreneurship",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/HackerNews\/API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

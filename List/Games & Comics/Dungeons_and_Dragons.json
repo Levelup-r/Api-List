@@ -1,0 +1,11 @@
+{
+    "Name": "Dungeons and Dragons",
+    "Link": "https:\/\/www.dnd5eapi.co\/docs\/",
+    "Description": "Reference for 5th edition spells, classes, monsters, and more",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.dnd5eapi.co\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

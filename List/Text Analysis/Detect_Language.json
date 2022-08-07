@@ -1,0 +1,11 @@
+{
+    "Name": "Detect Language",
+    "Link": "https:\/\/detectlanguage.com\/",
+    "Description": "Detects text language",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/detectlanguage.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

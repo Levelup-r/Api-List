@@ -1,0 +1,11 @@
+{
+    "Name": "Sportmonks Football",
+    "Link": "https:\/\/docs.sportmonks.com\/football\/",
+    "Description": "Football score\/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.sportmonks.com\/football\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "ScrapingAnt",
+    "Link": "https:\/\/scrapingant.com",
+    "Description": "Headless Chrome scraping with a simple API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/scrapingant.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

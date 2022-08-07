@@ -1,0 +1,11 @@
+{
+    "Name": "World Bank",
+    "Link": "https:\/\/datahelpdesk.worldbank.org\/knowledgebase\/topics\/125589",
+    "Description": "World Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/datahelpdesk.worldbank.org\/knowledgebase\/topics\/125589",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

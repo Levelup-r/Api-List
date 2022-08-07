@@ -1,0 +1,11 @@
+{
+    "Name": "UUID Generator",
+    "Link": "https:\/\/www.uuidtools.com\/docs",
+    "Description": "Generate UUIDs",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.uuidtools.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

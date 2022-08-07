@@ -1,0 +1,11 @@
+{
+    "Name": "PageCDN",
+    "Link": "https:\/\/pagecdn.com\/docs\/public-api",
+    "Description": "Public API for javascript, css and font libraries on PageCDN",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/pagecdn.com\/docs\/public-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

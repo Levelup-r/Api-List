@@ -1,0 +1,11 @@
+{
+    "Name": "Dota 2",
+    "Link": "https:\/\/docs.opendota.com\/",
+    "Description": "Provides information about Player stats , Match stats, Rankings for Dota 2",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.opendota.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

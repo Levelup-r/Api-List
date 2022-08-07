@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer aviationstack",
+    "Link": "https:\/\/aviationstack.com\/",
+    "Description": "Real-time Flight Status & Global Aviation Data API",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/aviationstack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

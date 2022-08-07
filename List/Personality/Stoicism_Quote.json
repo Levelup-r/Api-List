@@ -1,0 +1,11 @@
+{
+    "Name": "Stoicism Quote",
+    "Link": "https:\/\/github.com\/tlcheah2\/stoic-quote-lambda-public-api",
+    "Description": "Quotes about Stoicism",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/tlcheah2\/stoic-quote-lambda-public-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

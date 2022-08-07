@@ -1,0 +1,11 @@
+{
+    "Name": "Mintlify",
+    "Link": "https:\/\/docs.mintlify.com",
+    "Description": "For programmatically generating documentation for code",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.mintlify.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

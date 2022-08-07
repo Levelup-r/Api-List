@@ -1,0 +1,11 @@
+{
+    "Name": "Hackerearth",
+    "Link": "https:\/\/www.hackerearth.com\/docs\/wiki\/developers\/v4\/",
+    "Description": "For compiling and running code in several languages",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.hackerearth.com\/docs\/wiki\/developers\/v4\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

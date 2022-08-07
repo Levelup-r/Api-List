@@ -1,0 +1,11 @@
+{
+    "Name": "Tenders in Romania",
+    "Link": "https:\/\/tenders.guru\/ro\/api",
+    "Description": "Get data for procurements in Romania in JSON format",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tenders.guru\/ro\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

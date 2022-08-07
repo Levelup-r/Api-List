@@ -1,0 +1,11 @@
+{
+    "Name": "MapQuest",
+    "Link": "https:\/\/developer.mapquest.com\/",
+    "Description": "To access tools and resources to map the world",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No",
+    "Docs": "https:\/\/developer.mapquest.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

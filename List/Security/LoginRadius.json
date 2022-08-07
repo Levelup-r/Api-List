@@ -1,0 +1,11 @@
+{
+    "Name": "LoginRadius",
+    "Link": "https:\/\/www.loginradius.com\/docs\/",
+    "Description": "Managed User Authentication Service",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.loginradius.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

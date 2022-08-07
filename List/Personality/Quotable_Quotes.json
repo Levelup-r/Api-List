@@ -1,0 +1,11 @@
+{
+    "Name": "Quotable Quotes",
+    "Link": "https:\/\/github.com\/lukePeavey\/quotable",
+    "Description": "Quotable is a free, open source quotations API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/lukePeavey\/quotable",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

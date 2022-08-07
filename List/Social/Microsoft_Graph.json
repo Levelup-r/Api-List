@@ -1,0 +1,11 @@
+{
+    "Name": "Microsoft Graph",
+    "Link": "https:\/\/docs.microsoft.com\/en-us\/graph\/api\/overview",
+    "Description": "Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.microsoft.com\/en-us\/graph\/api\/overview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

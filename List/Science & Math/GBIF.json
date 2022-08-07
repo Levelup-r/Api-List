@@ -1,0 +1,11 @@
+{
+    "Name": "GBIF",
+    "Link": "https:\/\/www.gbif.org\/developer\/summary",
+    "Description": "Global Biodiversity Information Facility",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.gbif.org\/developer\/summary",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

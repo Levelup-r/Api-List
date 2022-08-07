@@ -1,0 +1,11 @@
+{
+    "Name": "Verifier",
+    "Link": "https:\/\/verifier.meetchopra.com\/docs#\/",
+    "Description": "Verifies that a given email is real",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/verifier.meetchopra.com\/docs#\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Abstract Phone Validation",
+    "Link": "https:\/\/www.abstractapi.com\/phone-validation-api",
+    "Description": "Validate phone numbers globally",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.abstractapi.com\/phone-validation-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

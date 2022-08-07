@@ -1,0 +1,11 @@
+{
+    "Name": "Aemet",
+    "Link": "https:\/\/opendata.aemet.es\/centrodedescargas\/inicio",
+    "Description": "Weather and forecast data from Spain",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opendata.aemet.es\/centrodedescargas\/inicio",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

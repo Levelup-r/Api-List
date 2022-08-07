@@ -1,0 +1,11 @@
+{
+    "Name": "UK Bank Holidays",
+    "Link": "https:\/\/www.gov.uk\/bank-holidays.json",
+    "Description": "Bank holidays in England and Wales, Scotland and Northern Ireland",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.gov.uk\/bank-holidays.json",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

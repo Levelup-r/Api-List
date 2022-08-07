@@ -1,0 +1,11 @@
+{
+    "Name": "Quote Garden",
+    "Link": "https:\/\/pprathameshmore.github.io\/QuoteGarden\/",
+    "Description": "REST API for more than 5000 famous quotes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pprathameshmore.github.io\/QuoteGarden\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

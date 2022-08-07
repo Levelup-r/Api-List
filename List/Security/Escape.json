@@ -1,0 +1,11 @@
+{
+    "Name": "Escape",
+    "Link": "https:\/\/github.com\/polarspetroll\/EscapeAPI",
+    "Description": "An API for escaping different kind of queries",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/polarspetroll\/EscapeAPI",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Econdb",
+    "Link": "https:\/\/www.econdb.com\/api\/",
+    "Description": "Global macroeconomic data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.econdb.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

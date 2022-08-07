@@ -1,0 +1,11 @@
+{
+    "Name": "Metabase",
+    "Link": "https:\/\/www.metabase.com\/",
+    "Description": "An open source Business Intelligence server to share data and analytics inside your company",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.metabase.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

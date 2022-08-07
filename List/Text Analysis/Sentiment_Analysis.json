@@ -1,0 +1,11 @@
+{
+    "Name": "Sentiment Analysis",
+    "Link": "https:\/\/www.meaningcloud.com\/developer\/sentiment-analysis",
+    "Description": "Multilingual sentiment analysis of texts from different sources",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.meaningcloud.com\/developer\/sentiment-analysis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

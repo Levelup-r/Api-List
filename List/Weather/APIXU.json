@@ -1,0 +1,11 @@
+{
+    "Name": "APIXU",
+    "Link": "https:\/\/www.apixu.com\/doc\/request.aspx",
+    "Description": "Weather",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.apixu.com\/doc\/request.aspx",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

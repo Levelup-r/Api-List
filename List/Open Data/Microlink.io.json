@@ -1,0 +1,11 @@
+{
+    "Name": "Microlink.io",
+    "Link": "https:\/\/microlink.io",
+    "Description": "Extract structured data from any website",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/microlink.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

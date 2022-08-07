@@ -1,0 +1,11 @@
+{
+    "Name": "Dummy Products",
+    "Link": "https:\/\/dummyproducts-api.herokuapp.com\/",
+    "Description": "An api to fetch dummy e-commerce products JSON data with placeholder images",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/dummyproducts-api.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

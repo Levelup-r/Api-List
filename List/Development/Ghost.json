@@ -1,0 +1,11 @@
+{
+    "Name": "Ghost",
+    "Link": "https:\/\/ghost.org\/",
+    "Description": "Get Published content into your Website, App or other embedded media",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/ghost.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

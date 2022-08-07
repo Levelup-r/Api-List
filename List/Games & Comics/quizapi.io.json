@@ -1,0 +1,11 @@
+{
+    "Name": "quizapi.io",
+    "Link": "https:\/\/quizapi.io\/",
+    "Description": "Access to various kind of quiz questions",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/quizapi.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

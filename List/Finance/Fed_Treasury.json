@@ -1,0 +1,11 @@
+{
+    "Name": "Fed Treasury",
+    "Link": "https:\/\/fiscaldata.treasury.gov\/api-documentation\/",
+    "Description": "U.S. Department of the Treasury Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/fiscaldata.treasury.gov\/api-documentation\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

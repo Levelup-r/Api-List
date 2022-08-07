@@ -1,0 +1,11 @@
+{
+    "Name": "MailboxValidator",
+    "Link": "https:\/\/www.mailboxvalidator.com\/api-email-free",
+    "Description": "Validate email address to improve deliverability",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mailboxvalidator.com\/api-email-free",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

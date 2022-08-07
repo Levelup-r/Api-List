@@ -1,0 +1,11 @@
+{
+    "Name": "Tokopedia",
+    "Link": "https:\/\/developer.tokopedia.com\/openapi\/guide\/#\/",
+    "Description": "Tokopedia's Official API for integration of various services from Tokopedia",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.tokopedia.com\/openapi\/guide\/#\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

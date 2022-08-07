@@ -1,0 +1,11 @@
+{
+    "Name": "Archive.org",
+    "Link": "https:\/\/archive.readme.io\/docs",
+    "Description": "The Internet Archive",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/archive.readme.io\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

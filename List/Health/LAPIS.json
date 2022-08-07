@@ -1,0 +1,11 @@
+{
+    "Name": "LAPIS",
+    "Link": "https:\/\/cov-spectrum.ethz.ch\/public",
+    "Description": "SARS-CoV-2 genomic sequences from public sources",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/cov-spectrum.ethz.ch\/public",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

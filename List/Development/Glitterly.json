@@ -1,0 +1,11 @@
+{
+    "Name": "Glitterly",
+    "Link": "https:\/\/developers.glitterly.app",
+    "Description": "Image generation API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developers.glitterly.app",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

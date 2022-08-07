@@ -1,0 +1,11 @@
+{
+    "Name": "Forza",
+    "Link": "https:\/\/docs.forza-api.tk",
+    "Description": "Show random image of car from Forza",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.forza-api.tk",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

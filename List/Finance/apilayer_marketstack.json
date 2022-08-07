@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer marketstack",
+    "Link": "https:\/\/marketstack.com\/",
+    "Description": "Real-Time, Intraday & Historical Market Data API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/marketstack.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

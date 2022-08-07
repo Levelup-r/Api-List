@@ -1,0 +1,11 @@
+{
+    "Name": "Portfolio Optimizer",
+    "Link": "https:\/\/portfoliooptimizer.io\/",
+    "Description": "Portfolio analysis and optimization",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/portfoliooptimizer.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Zestful",
+    "Link": "https:\/\/zestfuldata.com\/",
+    "Description": "Parse recipe ingredients",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/zestfuldata.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

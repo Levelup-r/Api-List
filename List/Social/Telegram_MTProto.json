@@ -1,0 +1,11 @@
+{
+    "Name": "Telegram MTProto",
+    "Link": "https:\/\/core.telegram.org\/api#getting-started",
+    "Description": "Read and write Telegram data",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/core.telegram.org\/api#getting-started",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

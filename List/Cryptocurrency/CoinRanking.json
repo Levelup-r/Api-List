@@ -1,0 +1,11 @@
+{
+    "Name": "CoinRanking",
+    "Link": "https:\/\/developers.coinranking.com\/api\/documentation",
+    "Description": "Live Cryptocurrency data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.coinranking.com\/api\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Radio Browser",
+    "Link": "https:\/\/api.radio-browser.info\/",
+    "Description": "List of internet radio stations",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.radio-browser.info\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

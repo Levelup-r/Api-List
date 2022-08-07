@@ -1,0 +1,11 @@
+{
+    "Name": "EXMO",
+    "Link": "https:\/\/documenter.getpostman.com\/view\/10287440\/SzYXWKPi",
+    "Description": "Cryptocurrencies exchange based in UK",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/documenter.getpostman.com\/view\/10287440\/SzYXWKPi",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

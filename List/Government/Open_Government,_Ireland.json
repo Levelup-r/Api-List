@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Ireland",
+    "Link": "https:\/\/data.gov.ie\/pages\/developers",
+    "Description": "Ireland Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.ie\/pages\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

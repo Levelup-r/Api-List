@@ -1,0 +1,11 @@
+{
+    "Name": "Imgbb",
+    "Link": "https:\/\/api.imgbb.com\/",
+    "Description": "Simple and quick private image sharing",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.imgbb.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

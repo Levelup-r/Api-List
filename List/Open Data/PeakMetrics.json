@@ -1,0 +1,11 @@
+{
+    "Name": "PeakMetrics",
+    "Link": "https:\/\/rapidapi.com\/peakmetrics-peakmetrics-default\/api\/peakmetrics-news",
+    "Description": "News articles and public datasets",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/peakmetrics-peakmetrics-default\/api\/peakmetrics-news",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

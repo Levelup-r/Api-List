@@ -1,0 +1,11 @@
+{
+    "Name": "NASA ADS",
+    "Link": "https:\/\/ui.adsabs.harvard.edu\/help\/api\/api-docs.html",
+    "Description": "NASA Astrophysics Data System",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/ui.adsabs.harvard.edu\/help\/api\/api-docs.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

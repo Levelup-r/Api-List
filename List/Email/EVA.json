@@ -1,0 +1,11 @@
+{
+    "Name": "EVA",
+    "Link": "https:\/\/eva.pingutil.com\/",
+    "Description": "Validate email addresses",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/eva.pingutil.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

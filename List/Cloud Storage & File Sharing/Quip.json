@@ -1,0 +1,11 @@
+{
+    "Name": "Quip",
+    "Link": "https:\/\/quip.com\/dev\/automation\/documentation",
+    "Description": "File Sharing and Storage for groups",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/quip.com\/dev\/automation\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

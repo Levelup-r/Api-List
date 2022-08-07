@@ -1,0 +1,11 @@
+{
+    "Name": "ViaCep",
+    "Link": "https:\/\/viacep.com.br",
+    "Description": "Brazil RESTful zip codes API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/viacep.com.br",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Denmark",
+    "Link": "https:\/\/www.opendata.dk\/",
+    "Description": "Denmark Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.opendata.dk\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

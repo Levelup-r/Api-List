@@ -1,0 +1,11 @@
+{
+    "Name": "Moov",
+    "Link": "https:\/\/docs.moov.io\/api\/",
+    "Description": "The Moov API makes it simple for platforms to send, receive, and store money",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.moov.io\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

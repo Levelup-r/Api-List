@@ -1,0 +1,11 @@
+{
+    "Name": "Line",
+    "Link": "https:\/\/developers.line.biz\/",
+    "Description": "Line Login, Share on Line, Social Plugins and more",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.line.biz\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

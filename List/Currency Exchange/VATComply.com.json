@@ -1,0 +1,11 @@
+{
+    "Name": "VATComply.com",
+    "Link": "https:\/\/www.vatcomply.com\/documentation",
+    "Description": "Exchange rates, geolocation and VAT number validation",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.vatcomply.com\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

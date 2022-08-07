@@ -1,0 +1,11 @@
+{
+    "Name": "Movie Quote",
+    "Link": "https:\/\/github.com\/F4R4N\/movie-quote\/",
+    "Description": "Random Movie and Series Quotes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/F4R4N\/movie-quote\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

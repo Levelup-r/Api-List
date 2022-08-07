@@ -1,0 +1,11 @@
+{
+    "Name": "Battuta",
+    "Link": "http:\/\/battuta.medunes.net",
+    "Description": "A (country\/region\/city) in-cascade location API",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/battuta.medunes.net",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

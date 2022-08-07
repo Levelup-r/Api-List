@@ -1,0 +1,11 @@
+{
+    "Name": "FavQs.com",
+    "Link": "https:\/\/favqs.com\/api",
+    "Description": "FavQs allows you to collect, discover and share your favorite quotes",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/favqs.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

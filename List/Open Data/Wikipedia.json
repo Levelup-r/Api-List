@@ -1,0 +1,11 @@
+{
+    "Name": "Wikipedia",
+    "Link": "https:\/\/www.mediawiki.org\/wiki\/API:Main_page",
+    "Description": "Mediawiki Encyclopedia",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mediawiki.org\/wiki\/API:Main_page",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

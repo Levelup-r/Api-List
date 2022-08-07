@@ -1,0 +1,11 @@
+{
+    "Name": "Spaceflight News",
+    "Link": "https:\/\/spaceflightnewsapi.net",
+    "Description": "Spaceflight related news \ud83d\ude80",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/spaceflightnewsapi.net",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Spanish random words",
+    "Link": "https:\/\/palabras-aleatorias-public-api.herokuapp.com",
+    "Description": "Generate spanish words randomly",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/palabras-aleatorias-public-api.herokuapp.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

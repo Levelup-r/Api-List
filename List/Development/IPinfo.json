@@ -1,0 +1,11 @@
+{
+    "Name": "IPinfo",
+    "Link": "https:\/\/ipinfo.io\/developers",
+    "Description": "Another simple IP Address API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ipinfo.io\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

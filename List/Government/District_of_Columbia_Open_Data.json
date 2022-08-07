@@ -1,0 +1,11 @@
+{
+    "Name": "District of Columbia Open Data",
+    "Link": "http:\/\/opendata.dc.gov\/pages\/using-apis",
+    "Description": "Contains D.C. government public datasets, including crime, GIS, financial data, and so on",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/opendata.dc.gov\/pages\/using-apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

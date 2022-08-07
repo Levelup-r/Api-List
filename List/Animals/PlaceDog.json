@@ -1,0 +1,11 @@
+{
+    "Name": "PlaceDog",
+    "Link": "https:\/\/place.dog",
+    "Description": "Placeholder Dog pictures",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/place.dog",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

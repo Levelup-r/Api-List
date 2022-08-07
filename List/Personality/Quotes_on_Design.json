@@ -1,0 +1,11 @@
+{
+    "Name": "Quotes on Design",
+    "Link": "https:\/\/quotesondesign.com\/api\/",
+    "Description": "Inspirational Quotes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/quotesondesign.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

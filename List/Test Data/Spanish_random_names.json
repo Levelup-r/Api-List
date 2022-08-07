@@ -1,0 +1,11 @@
+{
+    "Name": "Spanish random names",
+    "Link": "https:\/\/random-names-api.herokuapp.com\/public",
+    "Description": "Generate spanish names (with gender) randomly",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/random-names-api.herokuapp.com\/public",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

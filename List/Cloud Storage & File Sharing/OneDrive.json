@@ -1,0 +1,11 @@
+{
+    "Name": "OneDrive",
+    "Link": "https:\/\/developer.microsoft.com\/onedrive",
+    "Description": "File Sharing and Storage",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.microsoft.com\/onedrive",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Actinia Grass GIS",
+    "Link": "https:\/\/actinia.mundialis.de\/api_docs\/",
+    "Description": "Actinia is an open source REST API for geographical data that uses GRASS GIS",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/actinia.mundialis.de\/api_docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Squiggle",
+    "Link": "https:\/\/api.squiggle.com.au",
+    "Description": "Fixtures, results and predictions for Australian Football League matches",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.squiggle.com.au",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

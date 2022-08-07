@@ -1,0 +1,11 @@
+{
+    "Name": "IBGE",
+    "Link": "https:\/\/servicodados.ibge.gov.br\/api\/docs\/",
+    "Description": "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/servicodados.ibge.gov.br\/api\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

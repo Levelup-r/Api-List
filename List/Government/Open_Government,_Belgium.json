@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Belgium",
+    "Link": "https:\/\/data.gov.be\/",
+    "Description": "Belgium Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.be\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

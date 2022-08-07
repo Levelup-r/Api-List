@@ -1,0 +1,11 @@
+{
+    "Name": "Storj",
+    "Link": "https:\/\/docs.storj.io\/dcs\/",
+    "Description": "Decentralized Open-Source Cloud Storage",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.storj.io\/dcs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

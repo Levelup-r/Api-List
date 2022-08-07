@@ -1,0 +1,11 @@
+{
+    "Name": "MercadoPago",
+    "Link": "https:\/\/www.mercadopago.com.br\/developers\/es\/reference",
+    "Description": "Mercado Pago API reference - all the information you need to develop your integrations",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.mercadopago.com.br\/developers\/es\/reference",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

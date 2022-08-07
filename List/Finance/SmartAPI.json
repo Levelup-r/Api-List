@@ -1,0 +1,11 @@
+{
+    "Name": "SmartAPI",
+    "Link": "https:\/\/smartapi.angelbroking.com\/",
+    "Description": "Gain access to set of <SmartAPI> and create end-to-end broking services",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/smartapi.angelbroking.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

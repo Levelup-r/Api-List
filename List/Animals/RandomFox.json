@@ -1,0 +1,11 @@
+{
+    "Name": "RandomFox",
+    "Link": "https:\/\/randomfox.ca\/floof\/",
+    "Description": "Random pictures of foxes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/randomfox.ca\/floof\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

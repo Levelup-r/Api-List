@@ -1,0 +1,11 @@
+{
+    "Name": "Serialif Color",
+    "Link": "https:\/\/color.serialif.com\/",
+    "Description": "Color conversion, complementary, grayscale and contrasted text",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/color.serialif.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

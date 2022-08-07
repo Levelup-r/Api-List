@@ -1,0 +1,11 @@
+{
+    "Name": "Cloudmersive Natural Language Processing",
+    "Link": "https:\/\/www.cloudmersive.com\/nlp-api",
+    "Description": "Natural language processing and text analysis",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.cloudmersive.com\/nlp-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Boleto.Cloud",
+    "Link": "https:\/\/boleto.cloud\/",
+    "Description": "A api to generate boletos in Brazil",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/boleto.cloud\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

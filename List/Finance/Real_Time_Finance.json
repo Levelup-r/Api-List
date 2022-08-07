@@ -1,0 +1,11 @@
+{
+    "Name": "Real Time Finance",
+    "Link": "https:\/\/github.com\/Real-time-finance\/finance-websocket-API\/",
+    "Description": "Websocket API to access realtime stock data",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/Real-time-finance\/finance-websocket-API\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

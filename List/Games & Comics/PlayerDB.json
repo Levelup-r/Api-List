@@ -1,0 +1,11 @@
+{
+    "Name": "PlayerDB",
+    "Link": "https:\/\/playerdb.co\/",
+    "Description": "Query Minecraft, Steam and XBox Accounts",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/playerdb.co\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

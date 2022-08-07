@@ -1,0 +1,11 @@
+{
+    "Name": "Alpaca",
+    "Link": "https:\/\/alpaca.markets\/docs\/api-documentation\/api-v2\/market-data\/alpaca-data-api-v2\/",
+    "Description": "Realtime and historical market data on all US equities and ETFs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/alpaca.markets\/docs\/api-documentation\/api-v2\/market-data\/alpaca-data-api-v2\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

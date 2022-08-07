@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Peru",
+    "Link": "https:\/\/www.datosabiertos.gob.pe\/",
+    "Description": "Peru Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.datosabiertos.gob.pe\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

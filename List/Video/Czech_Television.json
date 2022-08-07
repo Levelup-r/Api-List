@@ -1,0 +1,11 @@
+{
+    "Name": "Czech Television",
+    "Link": "http:\/\/www.ceskatelevize.cz\/xml\/tv-program\/",
+    "Description": "TV programme of Czech TV",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.ceskatelevize.cz\/xml\/tv-program\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

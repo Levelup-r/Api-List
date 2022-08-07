@@ -1,0 +1,11 @@
+{
+    "Name": "Blogger",
+    "Link": "https:\/\/developers.google.com\/blogger\/",
+    "Description": "The Blogger APIs allows client applications to view and update Blogger content",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/blogger\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

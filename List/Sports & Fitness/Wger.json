@@ -1,0 +1,11 @@
+{
+    "Name": "Wger",
+    "Link": "https:\/\/wger.de\/en\/software\/api",
+    "Description": "Workout manager data as exercises, muscles or equipment",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wger.de\/en\/software\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

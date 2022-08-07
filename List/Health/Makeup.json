@@ -1,0 +1,11 @@
+{
+    "Name": "Makeup",
+    "Link": "http:\/\/makeup-api.herokuapp.com\/",
+    "Description": "Makeup Information",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/makeup-api.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

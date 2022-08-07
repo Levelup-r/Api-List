@@ -1,0 +1,11 @@
+{
+    "Name": "xColors",
+    "Link": "https:\/\/x-colors.herokuapp.com\/",
+    "Description": "Generate & convert colors",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/x-colors.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

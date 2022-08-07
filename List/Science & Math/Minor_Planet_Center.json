@@ -1,0 +1,11 @@
+{
+    "Name": "Minor Planet Center",
+    "Link": "http:\/\/www.asterank.com\/mpc",
+    "Description": "Asterank.com Information",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.asterank.com\/mpc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

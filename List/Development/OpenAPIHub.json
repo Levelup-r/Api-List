@@ -1,0 +1,11 @@
+{
+    "Name": "OpenAPIHub",
+    "Link": "https:\/\/hub.openapihub.com\/",
+    "Description": "The All-in-one API Platform",
+    "Auth": "`X-Mashape-Key`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/hub.openapihub.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

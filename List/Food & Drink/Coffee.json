@@ -1,0 +1,11 @@
+{
+    "Name": "Coffee",
+    "Link": "https:\/\/coffee.alexflipnote.dev\/",
+    "Description": "Random pictures of coffee",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/coffee.alexflipnote.dev\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

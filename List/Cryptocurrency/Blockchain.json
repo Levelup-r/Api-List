@@ -1,0 +1,11 @@
+{
+    "Name": "Blockchain",
+    "Link": "https:\/\/www.blockchain.com\/api",
+    "Description": "Bitcoin Payment, Wallet & Transaction Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.blockchain.com\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

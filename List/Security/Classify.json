@@ -1,0 +1,11 @@
+{
+    "Name": "Classify",
+    "Link": "https:\/\/classify-web.herokuapp.com\/#\/api",
+    "Description": "Encrypting & decrypting text messages",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/classify-web.herokuapp.com\/#\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

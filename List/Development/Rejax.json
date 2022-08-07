@@ -1,0 +1,11 @@
+{
+    "Name": "Rejax",
+    "Link": "https:\/\/rejax.io\/",
+    "Description": "Reverse AJAX service to notify clients",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/rejax.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

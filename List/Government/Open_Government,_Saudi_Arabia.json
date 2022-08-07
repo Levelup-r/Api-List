@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Saudi Arabia",
+    "Link": "https:\/\/data.gov.sa",
+    "Description": "Saudi Arabia Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.sa",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

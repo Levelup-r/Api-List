@@ -1,0 +1,11 @@
+{
+    "Name": "Hong Kong Obervatory",
+    "Link": "https:\/\/www.hko.gov.hk\/en\/abouthko\/opendata_intro.htm",
+    "Description": "Provide weather information, earthquake information, and climate data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.hko.gov.hk\/en\/abouthko\/opendata_intro.htm",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

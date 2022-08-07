@@ -1,0 +1,11 @@
+{
+    "Name": "KuCoin",
+    "Link": "https:\/\/docs.kucoin.com\/",
+    "Description": "Cryptocurrency Trading Platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.kucoin.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

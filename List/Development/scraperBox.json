@@ -1,0 +1,11 @@
+{
+    "Name": "scraperBox",
+    "Link": "https:\/\/scraperbox.com\/",
+    "Description": "Undetectable web scraping API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/scraperbox.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

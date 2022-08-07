@@ -1,0 +1,11 @@
+{
+    "Name": "Merriam-Webster",
+    "Link": "https:\/\/dictionaryapi.com\/",
+    "Description": "Dictionary and Thesaurus Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dictionaryapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

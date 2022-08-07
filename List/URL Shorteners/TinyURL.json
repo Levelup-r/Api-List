@@ -1,0 +1,11 @@
+{
+    "Name": "TinyURL",
+    "Link": "https:\/\/tinyurl.com\/app\/dev",
+    "Description": "Shorten long URLs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/tinyurl.com\/app\/dev",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

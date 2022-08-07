@@ -1,0 +1,11 @@
+{
+    "Name": "Barter.VG",
+    "Link": "https:\/\/github.com\/bartervg\/barter.vg\/wiki",
+    "Description": "Provides information about Game, DLC, Bundles, Giveaways, Trading",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/bartervg\/barter.vg\/wiki",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

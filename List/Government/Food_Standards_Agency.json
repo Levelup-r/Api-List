@@ -1,0 +1,11 @@
+{
+    "Name": "Food Standards Agency",
+    "Link": "http:\/\/ratings.food.gov.uk\/open-data\/en-GB",
+    "Description": "UK food hygiene rating data API",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/ratings.food.gov.uk\/open-data\/en-GB",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

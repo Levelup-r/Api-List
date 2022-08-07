@@ -1,0 +1,11 @@
+{
+    "Name": "Lexigram",
+    "Link": "https:\/\/docs.lexigram.io\/",
+    "Description": "NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.lexigram.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

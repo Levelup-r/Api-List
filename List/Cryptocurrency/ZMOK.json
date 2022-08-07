@@ -1,0 +1,11 @@
+{
+    "Name": "ZMOK",
+    "Link": "https:\/\/zmok.io",
+    "Description": "Ethereum JSON RPC API and Web3 provider",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/zmok.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

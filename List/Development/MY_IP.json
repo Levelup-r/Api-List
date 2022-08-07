@@ -1,0 +1,11 @@
+{
+    "Name": "MY IP",
+    "Link": "https:\/\/www.myip.com\/api-docs\/",
+    "Description": "Get IP address information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.myip.com\/api-docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "CheetahO",
+    "Link": "https:\/\/cheetaho.com\/docs\/getting-started\/",
+    "Description": "Photo optimization and resize",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/cheetaho.com\/docs\/getting-started\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

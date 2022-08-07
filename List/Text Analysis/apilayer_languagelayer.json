@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer languagelayer",
+    "Link": "https:\/\/languagelayer.com\/",
+    "Description": "Language Detection JSON API supporting 173 languages",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/languagelayer.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

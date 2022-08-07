@@ -1,0 +1,11 @@
+{
+    "Name": "Puyo Nexus",
+    "Link": "https:\/\/github.com\/deltadex7\/puyodb-api-deno",
+    "Description": "Puyo Puyo information from Puyo Nexus Wiki",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/deltadex7\/puyodb-api-deno",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "eBay",
+    "Link": "https:\/\/developer.ebay.com\/",
+    "Description": "Sell and Buy on eBay",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.ebay.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

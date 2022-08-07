@@ -1,0 +1,11 @@
+{
+    "Name": "RoboHash",
+    "Link": "https:\/\/robohash.org\/",
+    "Description": "Generate random robot\/alien avatars",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/robohash.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

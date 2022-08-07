@@ -1,0 +1,11 @@
+{
+    "Name": "COVID-ID",
+    "Link": "https:\/\/data.covid19.go.id\/public\/api\/prov.json",
+    "Description": "Indonesian government Covid data per province",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/data.covid19.go.id\/public\/api\/prov.json",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

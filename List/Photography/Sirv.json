@@ -1,0 +1,11 @@
+{
+    "Name": "Sirv",
+    "Link": "https:\/\/apidocs.sirv.com\/",
+    "Description": "Image management solutions like optimization, manipulation, hosting",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apidocs.sirv.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

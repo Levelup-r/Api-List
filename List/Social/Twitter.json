@@ -1,0 +1,11 @@
+{
+    "Name": "Twitter",
+    "Link": "https:\/\/developer.twitter.com\/en\/docs",
+    "Description": "Read and write Twitter data",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/developer.twitter.com\/en\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

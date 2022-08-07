@@ -1,0 +1,11 @@
+{
+    "Name": "RAWG.io",
+    "Link": "https:\/\/rawg.io\/apidocs",
+    "Description": "500,000+ games for 50 platforms including mobiles",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rawg.io\/apidocs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

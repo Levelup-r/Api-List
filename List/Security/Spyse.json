@@ -1,0 +1,11 @@
+{
+    "Name": "Spyse",
+    "Link": "https:\/\/spyse-dev.readme.io\/reference\/quick-start",
+    "Description": "Access data on all Internet assets and build powerful attack surface management applications",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/spyse-dev.readme.io\/reference\/quick-start",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

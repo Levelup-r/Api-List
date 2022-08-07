@@ -1,0 +1,11 @@
+{
+    "Name": "Mono",
+    "Link": "https:\/\/mono.co\/",
+    "Description": "Connect with users\u2019 bank accounts and access transaction data in Africa",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mono.co\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

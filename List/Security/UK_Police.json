@@ -1,0 +1,11 @@
+{
+    "Name": "UK Police",
+    "Link": "https:\/\/data.police.uk\/docs\/",
+    "Description": "UK Police data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.police.uk\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

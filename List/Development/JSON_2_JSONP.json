@@ -1,0 +1,11 @@
+{
+    "Name": "JSON 2 JSONP",
+    "Link": "https:\/\/json2jsonp.com\/",
+    "Description": "Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/json2jsonp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

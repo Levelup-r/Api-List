@@ -1,0 +1,11 @@
+{
+    "Name": "FreeGeoIP",
+    "Link": "https:\/\/freegeoip.app\/",
+    "Description": "Free geo ip information, no registration required. 15k\/hour rate limit",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/freegeoip.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

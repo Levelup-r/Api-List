@@ -1,0 +1,11 @@
+{
+    "Name": "Alpha Vantage",
+    "Link": "https:\/\/www.alphavantage.co\/",
+    "Description": "Realtime and historical stock data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.alphavantage.co\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

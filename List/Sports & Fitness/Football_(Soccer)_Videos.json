@@ -1,0 +1,11 @@
+{
+    "Name": "Football (Soccer) Videos",
+    "Link": "https:\/\/www.scorebat.com\/video-api\/",
+    "Description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.scorebat.com\/video-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

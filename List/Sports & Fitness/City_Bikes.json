@@ -1,0 +1,11 @@
+{
+    "Name": "City Bikes",
+    "Link": "https:\/\/api.citybik.es\/v2\/",
+    "Description": "City Bikes around the world",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.citybik.es\/v2\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

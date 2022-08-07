@@ -1,0 +1,11 @@
+{
+    "Name": "iDigBio",
+    "Link": "https:\/\/github.com\/idigbio\/idigbio-search-api\/wiki",
+    "Description": "Access millions of museum specimens from organizations around the world",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/idigbio\/idigbio-search-api\/wiki",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

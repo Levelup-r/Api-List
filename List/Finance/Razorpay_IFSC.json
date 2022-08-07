@@ -1,0 +1,11 @@
+{
+    "Name": "Razorpay IFSC",
+    "Link": "https:\/\/razorpay.com\/docs\/",
+    "Description": "Indian Financial Systems Code (Bank Branch Codes)",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/razorpay.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "CORS Proxy",
+    "Link": "https:\/\/github.com\/burhanuday\/cors-proxy",
+    "Description": "Get around the dreaded CORS error by using this proxy as a middle man",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/burhanuday\/cors-proxy",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

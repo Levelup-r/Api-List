@@ -1,0 +1,11 @@
+{
+    "Name": "Pastebin",
+    "Link": "https:\/\/pastebin.com\/doc_api",
+    "Description": "Plain Text Storage",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pastebin.com\/doc_api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

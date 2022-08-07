@@ -1,0 +1,11 @@
+{
+    "Name": "npm Registry",
+    "Link": "https:\/\/github.com\/npm\/registry\/blob\/master\/docs\/REGISTRY-API.md",
+    "Description": "Query information about your favorite Node.js libraries programatically",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/npm\/registry\/blob\/master\/docs\/REGISTRY-API.md",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "keycdn IP Location Finder",
+    "Link": "https:\/\/tools.keycdn.com\/geo",
+    "Description": "Get the IP geolocation data through the simple REST API. All the responses are JSON encoded",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tools.keycdn.com\/geo",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

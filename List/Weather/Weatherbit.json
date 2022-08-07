@@ -1,0 +1,11 @@
+{
+    "Name": "Weatherbit",
+    "Link": "https:\/\/www.weatherbit.io\/api",
+    "Description": "Weather",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.weatherbit.io\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

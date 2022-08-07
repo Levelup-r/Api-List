@@ -1,0 +1,11 @@
+{
+    "Name": "Wikidata",
+    "Link": "https:\/\/www.wikidata.org\/w\/api.php?action=help",
+    "Description": "Collaboratively edited knowledge base operated by the Wikimedia Foundation",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.wikidata.org\/w\/api.php?action=help",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

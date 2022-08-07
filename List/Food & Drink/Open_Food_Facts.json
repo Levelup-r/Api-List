@@ -1,0 +1,11 @@
+{
+    "Name": "Open Food Facts",
+    "Link": "https:\/\/world.openfoodfacts.org\/data",
+    "Description": "Food Products Database",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/world.openfoodfacts.org\/data",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

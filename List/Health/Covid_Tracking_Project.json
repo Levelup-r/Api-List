@@ -1,0 +1,11 @@
+{
+    "Name": "Covid Tracking Project",
+    "Link": "https:\/\/covidtracking.com\/data\/api\/version-2",
+    "Description": "Covid-19  data for the US",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/covidtracking.com\/data\/api\/version-2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

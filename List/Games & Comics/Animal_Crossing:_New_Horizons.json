@@ -1,0 +1,11 @@
+{
+    "Name": "Animal Crossing: New Horizons",
+    "Link": "http:\/\/acnhapi.com\/",
+    "Description": "API for critters, fossils, art, music, furniture and villagers",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/acnhapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

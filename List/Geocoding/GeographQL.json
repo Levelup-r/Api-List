@@ -1,0 +1,11 @@
+{
+    "Name": "GeographQL",
+    "Link": "https:\/\/geographql.netlify.app",
+    "Description": "A Country, State, and City GraphQL API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/geographql.netlify.app",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Sakura CardCaptor",
+    "Link": "https:\/\/github.com\/JessVel\/sakura-card-captor-api",
+    "Description": "Sakura CardCaptor Cards Information",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/JessVel\/sakura-card-captor-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

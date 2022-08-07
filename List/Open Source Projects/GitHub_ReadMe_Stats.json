@@ -1,0 +1,11 @@
+{
+    "Name": "GitHub ReadMe Stats",
+    "Link": "https:\/\/github.com\/anuraghazra\/github-readme-stats",
+    "Description": "Add dynamically generated statistics to your GitHub profile ReadMe",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/anuraghazra\/github-readme-stats",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Clearbit Logo",
+    "Link": "https:\/\/clearbit.com\/docs#logo-api",
+    "Description": "Search for company logos and embed them in your projects",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/clearbit.com\/docs#logo-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

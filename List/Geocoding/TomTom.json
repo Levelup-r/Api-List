@@ -1,0 +1,11 @@
+{
+    "Name": "TomTom",
+    "Link": "https:\/\/developer.tomtom.com\/",
+    "Description": "Maps, Directions, Places and Traffic APIs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developer.tomtom.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

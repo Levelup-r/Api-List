@@ -1,0 +1,11 @@
+{
+    "Name": "OpenAQ",
+    "Link": "https:\/\/docs.openaq.org\/",
+    "Description": "Open air quality data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.openaq.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

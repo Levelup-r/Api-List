@@ -1,0 +1,11 @@
+{
+    "Name": "PatentsView ",
+    "Link": "https:\/\/patentsview.org\/apis\/purpose",
+    "Description": "API is intended to explore and visualize trends\/patterns across the US innovation landscape",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/patentsview.org\/apis\/purpose",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

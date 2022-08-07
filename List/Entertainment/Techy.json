@@ -1,0 +1,11 @@
+{
+    "Name": "Techy",
+    "Link": "https:\/\/techy-api.vercel.app\/",
+    "Description": "JSON and Plaintext API for tech-savvy sounding phrases",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/techy-api.vercel.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

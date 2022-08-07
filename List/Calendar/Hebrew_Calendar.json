@@ -1,0 +1,11 @@
+{
+    "Name": "Hebrew Calendar",
+    "Link": "https:\/\/www.hebcal.com\/home\/developer-apis",
+    "Description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.hebcal.com\/home\/developer-apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Smartsheet",
+    "Link": "https:\/\/smartsheet.redoc.ly\/",
+    "Description": "Allows you to programmatically access and Smartsheet data and account information",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/smartsheet.redoc.ly\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

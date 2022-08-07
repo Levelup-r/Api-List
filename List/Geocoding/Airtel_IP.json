@@ -1,0 +1,11 @@
+{
+    "Name": "Airtel IP",
+    "Link": "https:\/\/sys.airtel.lv\/ip2country\/1.1.1.1\/?full=true",
+    "Description": "IP Geolocation API. Collecting data from multiple sources",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/sys.airtel.lv\/ip2country\/1.1.1.1\/?full=true",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

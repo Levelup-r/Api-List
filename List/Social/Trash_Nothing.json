@@ -1,0 +1,11 @@
+{
+    "Name": "Trash Nothing",
+    "Link": "https:\/\/trashnothing.com\/developer",
+    "Description": "A freecycling community with thousands of free items posted every day",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/trashnothing.com\/developer",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

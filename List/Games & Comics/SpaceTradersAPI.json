@@ -1,0 +1,11 @@
+{
+    "Name": "SpaceTradersAPI",
+    "Link": "https:\/\/spacetraders.io?rel=pub-apis",
+    "Description": "A playable inter-galactic space trading MMOAPI",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/spacetraders.io?rel=pub-apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

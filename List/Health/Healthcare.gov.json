@@ -1,0 +1,11 @@
+{
+    "Name": "Healthcare.gov",
+    "Link": "https:\/\/www.healthcare.gov\/developers\/",
+    "Description": "Educational content about the US Health Insurance Marketplace",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.healthcare.gov\/developers\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

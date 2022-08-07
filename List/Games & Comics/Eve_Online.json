@@ -1,0 +1,11 @@
+{
+    "Name": "Eve Online",
+    "Link": "https:\/\/esi.evetech.net\/ui",
+    "Description": "Third-Party Developer Documentation",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/esi.evetech.net\/ui",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

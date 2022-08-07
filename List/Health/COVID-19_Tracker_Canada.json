@@ -1,0 +1,11 @@
+{
+    "Name": "COVID-19 Tracker Canada",
+    "Link": "https:\/\/api.covid19tracker.ca\/docs\/1.0\/overview",
+    "Description": "Details on Covid-19 cases across Canada",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.covid19tracker.ca\/docs\/1.0\/overview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

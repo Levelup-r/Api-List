@@ -1,0 +1,11 @@
+{
+    "Name": "Aletheia",
+    "Link": "https:\/\/aletheiaapi.com\/",
+    "Description": "Insider trading data, earnings call analysis, financial statements, and more",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/aletheiaapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

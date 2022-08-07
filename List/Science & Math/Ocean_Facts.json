@@ -1,0 +1,11 @@
+{
+    "Name": "Ocean Facts",
+    "Link": "https:\/\/oceanfacts.herokuapp.com\/",
+    "Description": "Facts pertaining to the physical science of Oceanography",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/oceanfacts.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

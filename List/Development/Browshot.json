@@ -1,0 +1,11 @@
+{
+    "Name": "Browshot",
+    "Link": "https:\/\/browshot.com\/api\/documentation",
+    "Description": "Easily make screenshots of web pages in any screen size, as any device",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/browshot.com\/api\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

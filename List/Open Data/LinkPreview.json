@@ -1,0 +1,11 @@
+{
+    "Name": "LinkPreview",
+    "Link": "https:\/\/www.linkpreview.net",
+    "Description": "Get JSON formatted summary with title, description and preview image for any requested URL",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.linkpreview.net",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

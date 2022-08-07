@@ -1,0 +1,11 @@
+{
+    "Name": "Tisane",
+    "Link": "https:\/\/tisane.ai\/",
+    "Description": "Text Analytics with focus on detection of abusive content and law enforcement applications",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/tisane.ai\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

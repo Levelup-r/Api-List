@@ -1,0 +1,11 @@
+{
+    "Name": "KSoft.Si Lyrics",
+    "Link": "https:\/\/docs.ksoft.si\/api\/lyrics-api",
+    "Description": "API to get lyrics for songs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.ksoft.si\/api\/lyrics-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

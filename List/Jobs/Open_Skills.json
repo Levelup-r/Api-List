@@ -1,0 +1,11 @@
+{
+    "Name": "Open Skills",
+    "Link": "https:\/\/github.com\/workforce-data-initiative\/skills-api\/wiki\/API-Overview",
+    "Description": "Job titles, skills and related jobs data",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/workforce-data-initiative\/skills-api\/wiki\/API-Overview",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Premier League Standings ",
+    "Link": "https:\/\/rapidapi.com\/heisenbug\/api\/premier-league-live-scores\/",
+    "Description": "All Current Premier League Standings and Statistics",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/heisenbug\/api\/premier-league-live-scores\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

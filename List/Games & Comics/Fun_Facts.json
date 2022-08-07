@@ -1,0 +1,11 @@
+{
+    "Name": "Fun Facts",
+    "Link": "https:\/\/asli-fun-fact-api.herokuapp.com\/",
+    "Description": "Random Fun Facts",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/asli-fun-fact-api.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

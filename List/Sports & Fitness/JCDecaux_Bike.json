@@ -1,0 +1,11 @@
+{
+    "Name": "JCDecaux Bike",
+    "Link": "https:\/\/developer.jcdecaux.com\/",
+    "Description": "JCDecaux's self-service bicycles",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.jcdecaux.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

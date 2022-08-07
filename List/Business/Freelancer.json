@@ -1,0 +1,11 @@
+{
+    "Name": "Freelancer",
+    "Link": "https:\/\/developers.freelancer.com",
+    "Description": "Hire freelancers to get work done",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.freelancer.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

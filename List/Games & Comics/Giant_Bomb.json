@@ -1,0 +1,11 @@
+{
+    "Name": "Giant Bomb",
+    "Link": "https:\/\/www.giantbomb.com\/api\/documentation",
+    "Description": "Video Games",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.giantbomb.com\/api\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

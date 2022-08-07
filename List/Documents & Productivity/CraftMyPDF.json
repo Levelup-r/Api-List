@@ -1,0 +1,11 @@
+{
+    "Name": "CraftMyPDF",
+    "Link": "https:\/\/craftmypdf.com",
+    "Description": "Generate PDF documents from templates with a drop-and-drop editor and a simple API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/craftmypdf.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "NBA Data",
+    "Link": "https:\/\/rapidapi.com\/api-sports\/api\/api-nba\/",
+    "Description": "All NBA Stats DATA, Games, Livescore, Standings, Statistics",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/api-sports\/api\/api-nba\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

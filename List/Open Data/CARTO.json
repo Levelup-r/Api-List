@@ -1,0 +1,11 @@
+{
+    "Name": "CARTO",
+    "Link": "https:\/\/carto.com\/",
+    "Description": "Location Information Prediction",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/carto.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

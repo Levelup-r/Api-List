@@ -1,0 +1,11 @@
+{
+    "Name": "Mocky",
+    "Link": "https:\/\/designer.mocky.io\/",
+    "Description": "Mock user defined test JSON for REST API endpoints",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/designer.mocky.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

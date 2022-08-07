@@ -1,0 +1,11 @@
+{
+    "Name": "isEven (humor)",
+    "Link": "https:\/\/isevenapi.xyz\/",
+    "Description": "Check if a number is even",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/isevenapi.xyz\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

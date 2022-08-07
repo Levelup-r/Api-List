@@ -1,0 +1,11 @@
+{
+    "Name": "IP2Location",
+    "Link": "https:\/\/www.ip2location.com\/web-service\/ip2location",
+    "Description": "IP geolocation web service to get more than 55 parameters",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.ip2location.com\/web-service\/ip2location",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

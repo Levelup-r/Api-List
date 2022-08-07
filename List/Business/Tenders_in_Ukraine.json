@@ -1,0 +1,11 @@
+{
+    "Name": "Tenders in Ukraine",
+    "Link": "https:\/\/tenders.guru\/ua\/api",
+    "Description": "Get data for procurements in Ukraine in JSON format",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/tenders.guru\/ua\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

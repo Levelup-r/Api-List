@@ -1,0 +1,11 @@
+{
+    "Name": "Keen IO",
+    "Link": "https:\/\/keen.io\/",
+    "Description": "Data Analytics",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/keen.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

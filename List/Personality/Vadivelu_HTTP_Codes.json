@@ -1,0 +1,11 @@
+{
+    "Name": "Vadivelu HTTP Codes",
+    "Link": "https:\/\/vadivelu.anoram.com\/",
+    "Description": "On demand HTTP Codes with images",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/vadivelu.anoram.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

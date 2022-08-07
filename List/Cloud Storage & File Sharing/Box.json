@@ -1,0 +1,11 @@
+{
+    "Name": "Box",
+    "Link": "https:\/\/developer.box.com\/",
+    "Description": "File Sharing and Storage",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.box.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

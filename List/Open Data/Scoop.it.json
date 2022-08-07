@@ -1,0 +1,11 @@
+{
+    "Name": "Scoop.it",
+    "Link": "http:\/\/www.scoop.it\/dev",
+    "Description": "Content Curation Service",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.scoop.it\/dev",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

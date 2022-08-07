@@ -1,0 +1,11 @@
+{
+    "Name": "Russian Calendar",
+    "Link": "https:\/\/github.com\/egno\/work-calendar",
+    "Description": "Check if a date is a Russian holiday or not",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/github.com\/egno\/work-calendar",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

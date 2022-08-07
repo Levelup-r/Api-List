@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Honolulu, US",
+    "Link": "http:\/\/hea.thebus.org\/api_info.asp",
+    "Description": "Honolulu Transportation Information",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/hea.thebus.org\/api_info.asp",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

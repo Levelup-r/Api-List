@@ -1,0 +1,11 @@
+{
+    "Name": "Icon Horse",
+    "Link": "https:\/\/icon.horse",
+    "Description": "Favicons for any website, with fallbacks",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/icon.horse",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

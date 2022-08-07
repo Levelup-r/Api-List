@@ -1,0 +1,11 @@
+{
+    "Name": "CORE",
+    "Link": "https:\/\/core.ac.uk\/services#api",
+    "Description": "Access the world's Open Access research papers",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/core.ac.uk\/services#api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

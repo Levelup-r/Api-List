@@ -1,0 +1,11 @@
+{
+    "Name": "YNAB",
+    "Link": "https:\/\/api.youneedabudget.com\/",
+    "Description": "Budgeting & Planning",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.youneedabudget.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

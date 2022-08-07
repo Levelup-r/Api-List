@@ -1,0 +1,11 @@
+{
+    "Name": "IMDb-API",
+    "Link": "https:\/\/imdb-api.com\/",
+    "Description": "API for receiving movie, serial and cast information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/imdb-api.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

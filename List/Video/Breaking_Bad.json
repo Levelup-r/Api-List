@@ -1,0 +1,11 @@
+{
+    "Name": "Breaking Bad",
+    "Link": "https:\/\/breakingbadapi.com\/documentation",
+    "Description": "Breaking Bad API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/breakingbadapi.com\/documentation",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "GraphHopper",
+    "Link": "https:\/\/docs.graphhopper.com\/",
+    "Description": "A-to-B routing with turn-by-turn instructions",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.graphhopper.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

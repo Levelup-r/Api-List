@@ -1,0 +1,11 @@
+{
+    "Name": "Pantry",
+    "Link": "https:\/\/getpantry.cloud\/",
+    "Description": "Free JSON storage for small projects",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/getpantry.cloud\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

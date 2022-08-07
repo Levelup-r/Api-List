@@ -1,0 +1,11 @@
+{
+    "Name": "Helipaddy sites",
+    "Link": "https:\/\/helipaddy.com\/api\/",
+    "Description": "Helicopter and passenger drone landing site directory, Helipaddy data and much more",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/helipaddy.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

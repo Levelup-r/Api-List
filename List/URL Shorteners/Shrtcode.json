@@ -1,0 +1,11 @@
+{
+    "Name": "Shrtcode",
+    "Link": "https:\/\/shrtco.de\/docs",
+    "Description": "URl Shortener with multiple Domains",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/shrtco.de\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "TheNews",
+    "Link": "https:\/\/www.thenewsapi.com\/",
+    "Description": "Aggregated headlines, top story and live news JSON API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.thenewsapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

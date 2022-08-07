@@ -1,0 +1,11 @@
+{
+    "Name": "Humble Bundle",
+    "Link": "https:\/\/rapidapi.com\/Ziggoto\/api\/humble-bundle",
+    "Description": "Humble Bundle's current bundles",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/Ziggoto\/api\/humble-bundle",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

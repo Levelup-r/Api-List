@@ -1,0 +1,11 @@
+{
+    "Name": "OneSignal",
+    "Link": "https:\/\/documentation.onesignal.com\/docs\/onesignal-api",
+    "Description": "Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/documentation.onesignal.com\/docs\/onesignal-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Black History Facts",
+    "Link": "https:\/\/www.blackhistoryapi.io\/docs",
+    "Description": "Contribute or search one of the largest black history fact databases on the web",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.blackhistoryapi.io\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Switzerland",
+    "Link": "https:\/\/transport.opendata.ch\/",
+    "Description": "Swiss public transport API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/transport.opendata.ch\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

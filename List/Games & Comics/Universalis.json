@@ -1,0 +1,11 @@
+{
+    "Name": "Universalis",
+    "Link": "https:\/\/universalis.app\/docs\/index.html",
+    "Description": "Final Fantasy XIV market board data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/universalis.app\/docs\/index.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

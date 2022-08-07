@@ -1,0 +1,11 @@
+{
+    "Name": "Inspiration",
+    "Link": "https:\/\/inspiration.goprogram.ai\/docs\/",
+    "Description": "Motivational and Inspirational quotes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/inspiration.goprogram.ai\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

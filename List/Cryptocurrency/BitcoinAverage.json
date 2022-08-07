@@ -1,0 +1,11 @@
+{
+    "Name": "BitcoinAverage",
+    "Link": "https:\/\/apiv2.bitcoinaverage.com\/",
+    "Description": "Digital Asset Price Data for the blockchain industry",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apiv2.bitcoinaverage.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

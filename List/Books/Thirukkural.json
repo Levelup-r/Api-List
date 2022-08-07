@@ -1,0 +1,11 @@
+{
+    "Name": "Thirukkural",
+    "Link": "https:\/\/api-thirukkural.web.app\/",
+    "Description": "1330 Thirukkural poems and explanation in Tamil and English",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api-thirukkural.web.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

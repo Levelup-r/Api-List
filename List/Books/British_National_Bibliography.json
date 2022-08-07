@@ -1,0 +1,11 @@
+{
+    "Name": "British National Bibliography",
+    "Link": "http:\/\/bnb.data.bl.uk\/",
+    "Description": "Books",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/bnb.data.bl.uk\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

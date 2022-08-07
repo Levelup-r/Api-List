@@ -1,0 +1,11 @@
+{
+    "Name": "Brazil Central Bank Open Data",
+    "Link": "https:\/\/dadosabertos.bcb.gov.br\/",
+    "Description": "Brazil Central Bank Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dadosabertos.bcb.gov.br\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

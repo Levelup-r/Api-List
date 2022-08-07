@@ -1,0 +1,11 @@
+{
+    "Name": "Google Calendar",
+    "Link": "https:\/\/developers.google.com\/google-apps\/calendar\/",
+    "Description": "Display, create and modify Google calendar events",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/google-apps\/calendar\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

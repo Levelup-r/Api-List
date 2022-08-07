@@ -1,0 +1,11 @@
+{
+    "Name": "Harry Potter Charactes",
+    "Link": "https:\/\/hp-api.herokuapp.com\/",
+    "Description": "Harry Potter Characters Data with with imagery",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/hp-api.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

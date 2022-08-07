@@ -1,0 +1,11 @@
+{
+    "Name": "Colormind",
+    "Link": "http:\/\/colormind.io\/api-access\/",
+    "Description": "Color scheme generator",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/colormind.io\/api-access\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

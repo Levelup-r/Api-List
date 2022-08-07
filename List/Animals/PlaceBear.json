@@ -1,0 +1,11 @@
+{
+    "Name": "PlaceBear",
+    "Link": "https:\/\/placebear.com\/",
+    "Description": "Placeholder bear pictures",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/placebear.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

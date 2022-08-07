@@ -1,0 +1,11 @@
+{
+    "Name": "Hirak IP to Country",
+    "Link": "https:\/\/iplocation.hirak.site\/",
+    "Description": "Ip to location with country code, currency code & currency name, fast response, unlimited requests",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/iplocation.hirak.site\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Atlanta, US",
+    "Link": "http:\/\/www.itsmarta.com\/app-developer-resources.aspx",
+    "Description": "Marta",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.itsmarta.com\/app-developer-resources.aspx",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

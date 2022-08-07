@@ -1,0 +1,11 @@
+{
+    "Name": "PostalPinCode",
+    "Link": "http:\/\/www.postalpincode.in\/Api-Details",
+    "Description": "API for getting Pincode details in India",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.postalpincode.in\/Api-Details",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

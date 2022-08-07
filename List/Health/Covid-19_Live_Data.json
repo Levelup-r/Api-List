@@ -1,0 +1,11 @@
+{
+    "Name": "Covid-19 Live Data",
+    "Link": "https:\/\/github.com\/mathdroid\/covid-19-api",
+    "Description": "Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/mathdroid\/covid-19-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

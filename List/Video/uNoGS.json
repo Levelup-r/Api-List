@@ -1,0 +1,11 @@
+{
+    "Name": "uNoGS",
+    "Link": "https:\/\/rapidapi.com\/unogs\/api\/unogsng",
+    "Description": "Unofficial Netflix Online Global Search, Search all netflix regions in one place",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/rapidapi.com\/unogs\/api\/unogsng",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

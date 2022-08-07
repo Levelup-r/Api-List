@@ -1,0 +1,11 @@
+{
+    "Name": "IPS Online",
+    "Link": "https:\/\/docs.identity.ps\/docs",
+    "Description": "Face and License Plate Anonymization",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.identity.ps\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

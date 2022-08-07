@@ -1,0 +1,11 @@
+{
+    "Name": "The Bible",
+    "Link": "https:\/\/docs.api.bible",
+    "Description": "Everything you need from the Bible in one discoverable place",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.api.bible",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

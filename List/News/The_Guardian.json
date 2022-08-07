@@ -1,0 +1,11 @@
+{
+    "Name": "The Guardian",
+    "Link": "http:\/\/open-platform.theguardian.com\/",
+    "Description": "Access all the content the Guardian creates, categorised by tags and section",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/open-platform.theguardian.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

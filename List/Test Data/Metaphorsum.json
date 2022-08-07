@@ -1,0 +1,11 @@
+{
+    "Name": "Metaphorsum",
+    "Link": "http:\/\/metaphorpsum.com\/",
+    "Description": "Generate demo paragraphs giving number of words and sentences",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/metaphorpsum.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

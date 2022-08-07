@@ -1,0 +1,11 @@
+{
+    "Name": "Bank Data API",
+    "Link": "https:\/\/apilayer.com\/marketplace\/bank_data-api",
+    "Description": "Instant IBAN and SWIFT number validation across the globe",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apilayer.com\/marketplace\/bank_data-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

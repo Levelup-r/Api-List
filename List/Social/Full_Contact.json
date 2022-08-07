@@ -1,0 +1,11 @@
+{
+    "Name": "Full Contact",
+    "Link": "https:\/\/docs.fullcontact.com\/",
+    "Description": "Get Social Media profiles and contact Information",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.fullcontact.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

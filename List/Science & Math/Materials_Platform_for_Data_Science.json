@@ -1,0 +1,11 @@
+{
+    "Name": "Materials Platform for Data Science",
+    "Link": "https:\/\/mpds.io",
+    "Description": "Curated experimental data for materials science",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/mpds.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Am\u00e9thyste",
+    "Link": "https:\/\/api.amethyste.moe\/",
+    "Description": "Generate images for Discord users",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.amethyste.moe\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "AI Mastering",
+    "Link": "https:\/\/aimastering.com\/api_docs\/",
+    "Description": "Automated Music Mastering",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/aimastering.com\/api_docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, West Australia",
+    "Link": "https:\/\/data.wa.gov.au\/",
+    "Description": "West Australia Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.wa.gov.au\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "BreezoMeter Pollen",
+    "Link": "https:\/\/docs.breezometer.com\/api-documentation\/pollen-api\/v2\/",
+    "Description": "Daily Forecast pollen conditions data for a specific location",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.breezometer.com\/api-documentation\/pollen-api\/v2\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

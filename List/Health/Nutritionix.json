@@ -1,0 +1,11 @@
+{
+    "Name": "Nutritionix",
+    "Link": "https:\/\/developer.nutritionix.com\/",
+    "Description": "Worlds largest verified nutrition database",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.nutritionix.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

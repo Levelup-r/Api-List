@@ -1,0 +1,11 @@
+{
+    "Name": "Halo",
+    "Link": "https:\/\/developer.haloapi.com\/",
+    "Description": "Halo 5 and Halo Wars 2 Information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.haloapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

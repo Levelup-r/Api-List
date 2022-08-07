@@ -1,0 +1,11 @@
+{
+    "Name": "LCBO",
+    "Link": "https:\/\/lcboapi.com\/",
+    "Description": "Alcohol",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/lcboapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

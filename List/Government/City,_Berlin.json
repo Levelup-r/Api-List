@@ -1,0 +1,11 @@
+{
+    "Name": "City, Berlin",
+    "Link": "https:\/\/daten.berlin.de\/",
+    "Description": "Berlin(DE) City Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/daten.berlin.de\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

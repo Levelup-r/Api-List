@@ -1,0 +1,11 @@
+{
+    "Name": "The Graph",
+    "Link": "https:\/\/thegraph.com",
+    "Description": "Indexing protocol for querying networks like Ethereum with GraphQL",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/thegraph.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

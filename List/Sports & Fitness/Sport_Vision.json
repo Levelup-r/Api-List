@@ -1,0 +1,11 @@
+{
+    "Name": "Sport Vision",
+    "Link": "https:\/\/developers.decathlon.com\/products\/sport-vision",
+    "Description": "Identify sport, brands and gear in an image. Also does image sports captioning",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developers.decathlon.com\/products\/sport-vision",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

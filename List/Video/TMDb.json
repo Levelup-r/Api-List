@@ -1,0 +1,11 @@
+{
+    "Name": "TMDb",
+    "Link": "https:\/\/www.themoviedb.org\/documentation\/api",
+    "Description": "Community-based movie data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.themoviedb.org\/documentation\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

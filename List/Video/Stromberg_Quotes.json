@@ -1,0 +1,11 @@
+{
+    "Name": "Stromberg Quotes",
+    "Link": "https:\/\/www.stromberg-api.de\/",
+    "Description": "Returns Stromberg quotes and more",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.stromberg-api.de\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

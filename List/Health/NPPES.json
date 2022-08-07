@@ -1,0 +1,11 @@
+{
+    "Name": "NPPES",
+    "Link": "https:\/\/npiregistry.cms.hhs.gov\/registry\/help-api",
+    "Description": "National Plan & Provider Enumeration System, info on healthcare providers registered in US",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/npiregistry.cms.hhs.gov\/registry\/help-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

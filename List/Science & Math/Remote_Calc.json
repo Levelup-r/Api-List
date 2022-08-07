@@ -1,0 +1,11 @@
+{
+    "Name": "Remote Calc",
+    "Link": "https:\/\/github.com\/elizabethadegbaju\/remotecalc",
+    "Description": "Decodes base64 encoding and parses it to return a solution to the calculation in JSON",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/elizabethadegbaju\/remotecalc",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

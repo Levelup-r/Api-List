@@ -1,0 +1,11 @@
+{
+    "Name": "ClickMeter",
+    "Link": "https:\/\/support.clickmeter.com\/hc\/en-us\/categories\/201474986",
+    "Description": "Monitor, compare and optimize your marketing links",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/support.clickmeter.com\/hc\/en-us\/categories\/201474986",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

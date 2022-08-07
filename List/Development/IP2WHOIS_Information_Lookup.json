@@ -1,0 +1,11 @@
+{
+    "Name": "IP2WHOIS Information Lookup",
+    "Link": "https:\/\/www.ip2whois.com\/",
+    "Description": "WHOIS domain name lookup",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.ip2whois.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

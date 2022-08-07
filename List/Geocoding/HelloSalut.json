@@ -1,0 +1,11 @@
+{
+    "Name": "HelloSalut",
+    "Link": "https:\/\/fourtonfish.com\/project\/hellosalut-api\/",
+    "Description": "Get hello translation following user language",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/fourtonfish.com\/project\/hellosalut-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

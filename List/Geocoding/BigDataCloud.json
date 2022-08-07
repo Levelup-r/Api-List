@@ -1,0 +1,11 @@
+{
+    "Name": "BigDataCloud",
+    "Link": "https:\/\/www.bigdatacloud.com\/ip-geolocation-apis",
+    "Description": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.bigdatacloud.com\/ip-geolocation-apis",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

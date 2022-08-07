@@ -1,0 +1,11 @@
+{
+    "Name": "Apiip",
+    "Link": "https:\/\/apiip.net\/",
+    "Description": "Get location information by IP address",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/apiip.net\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

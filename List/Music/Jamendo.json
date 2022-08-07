@@ -1,0 +1,11 @@
+{
+    "Name": "Jamendo",
+    "Link": "https:\/\/developer.jamendo.com\/v3.0\/docs",
+    "Description": "Music",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.jamendo.com\/v3.0\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

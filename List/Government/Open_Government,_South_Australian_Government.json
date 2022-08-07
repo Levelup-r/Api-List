@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, South Australian Government",
+    "Link": "https:\/\/data.sa.gov.au\/",
+    "Description": "South Australian Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.sa.gov.au\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

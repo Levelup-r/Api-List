@@ -1,0 +1,11 @@
+{
+    "Name": "Docker Hub",
+    "Link": "https:\/\/docs.docker.com\/docker-hub\/api\/latest\/",
+    "Description": "Interact with Docker Hub",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.docker.com\/docker-hub\/api\/latest\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

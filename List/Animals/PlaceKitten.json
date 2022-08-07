@@ -1,0 +1,11 @@
+{
+    "Name": "PlaceKitten",
+    "Link": "https:\/\/placekitten.com\/",
+    "Description": "Placeholder Kitten pictures",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/placekitten.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

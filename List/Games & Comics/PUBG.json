@@ -1,0 +1,11 @@
+{
+    "Name": "PUBG",
+    "Link": "https:\/\/developer.pubg.com\/",
+    "Description": "Access in-game PUBG data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/developer.pubg.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Hunter",
+    "Link": "https:\/\/hunter.io\/api",
+    "Description": "API for domain search, professional email finder, author finder and email verifier",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/hunter.io\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

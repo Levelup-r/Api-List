@@ -1,0 +1,11 @@
+{
+    "Name": "NASA",
+    "Link": "https:\/\/api.nasa.gov",
+    "Description": "NASA data, including imagery",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/api.nasa.gov",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

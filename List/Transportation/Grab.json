@@ -1,0 +1,11 @@
+{
+    "Name": "Grab",
+    "Link": "https:\/\/developer.grab.com\/docs\/",
+    "Description": "Track deliveries, ride fares, payments and loyalty points",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.grab.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

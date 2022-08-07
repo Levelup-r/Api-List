@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer mailboxlayer",
+    "Link": "https:\/\/mailboxlayer.com",
+    "Description": "Email address validation",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mailboxlayer.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

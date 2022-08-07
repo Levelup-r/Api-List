@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Budapest, Hungary",
+    "Link": "https:\/\/bkkfutar.docs.apiary.io",
+    "Description": "Budapest public transport API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bkkfutar.docs.apiary.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

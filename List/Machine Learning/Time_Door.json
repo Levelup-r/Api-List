@@ -1,0 +1,11 @@
+{
+    "Name": "Time Door",
+    "Link": "https:\/\/timedoor.io",
+    "Description": "A time series analysis API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/timedoor.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

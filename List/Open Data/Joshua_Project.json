@@ -1,0 +1,11 @@
+{
+    "Name": "Joshua Project",
+    "Link": "https:\/\/api.joshuaproject.net\/",
+    "Description": "People groups of the world with the fewest followers of Christ",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.joshuaproject.net\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

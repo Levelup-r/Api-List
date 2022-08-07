@@ -1,0 +1,11 @@
+{
+    "Name": "Bugsnax",
+    "Link": "https:\/\/www.bugsnaxapi.com\/",
+    "Description": "Get information about Bugsnax",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.bugsnaxapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

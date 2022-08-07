@@ -1,0 +1,11 @@
+{
+    "Name": "apilayer pdflayer",
+    "Link": "https:\/\/pdflayer.com",
+    "Description": "HTML\/URL to PDF",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/pdflayer.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

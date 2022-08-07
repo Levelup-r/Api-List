@@ -1,0 +1,11 @@
+{
+    "Name": "Deutscher Bundestag DIP",
+    "Link": "https:\/\/dip.bundestag.de\/documents\/informationsblatt_zur_dip_api_v01.pdf",
+    "Description": "This API provides read access to DIP entities (e.g. activities, persons, printed material)",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dip.bundestag.de\/documents\/informationsblatt_zur_dip_api_v01.pdf",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Studio Ghibli",
+    "Link": "https:\/\/ghibliapi.herokuapp.com",
+    "Description": "Resources from Studio Ghibli films",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/ghibliapi.herokuapp.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Html2PDF",
+    "Link": "https:\/\/html2pdf.app\/",
+    "Description": "HTML\/URL to PDF",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/html2pdf.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

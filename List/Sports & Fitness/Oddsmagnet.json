@@ -1,0 +1,11 @@
+{
+    "Name": "Oddsmagnet",
+    "Link": "https:\/\/data.oddsmagnet.com",
+    "Description": "Odds history from multiple UK bookmakers",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/data.oddsmagnet.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

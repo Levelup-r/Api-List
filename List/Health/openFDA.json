@@ -1,0 +1,11 @@
+{
+    "Name": "openFDA",
+    "Link": "https:\/\/open.fda.gov",
+    "Description": "Public FDA data about drugs, devices and foods",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/open.fda.gov",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

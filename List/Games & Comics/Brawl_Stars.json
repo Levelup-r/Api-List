@@ -1,0 +1,11 @@
+{
+    "Name": "Brawl Stars",
+    "Link": "https:\/\/developer.brawlstars.com",
+    "Description": "Brawl Stars Game Information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.brawlstars.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

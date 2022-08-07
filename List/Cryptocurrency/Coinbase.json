@@ -1,0 +1,11 @@
+{
+    "Name": "Coinbase",
+    "Link": "https:\/\/developers.coinbase.com",
+    "Description": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.coinbase.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

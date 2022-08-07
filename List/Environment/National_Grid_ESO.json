@@ -1,0 +1,11 @@
+{
+    "Name": "National Grid ESO",
+    "Link": "https:\/\/data.nationalgrideso.com\/",
+    "Description": "Open data from Great Britain\u2019s Electricity System Operator",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.nationalgrideso.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

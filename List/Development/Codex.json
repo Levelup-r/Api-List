@@ -1,0 +1,11 @@
+{
+    "Name": "Codex",
+    "Link": "https:\/\/github.com\/Jaagrav\/CodeX",
+    "Description": "Online Compiler for Various Languages",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/Jaagrav\/CodeX",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

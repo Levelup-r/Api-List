@@ -1,0 +1,11 @@
+{
+    "Name": "Board Game Geek",
+    "Link": "https:\/\/boardgamegeek.com\/wiki\/page\/BGG_XML_API2",
+    "Description": "Board games, RPG and videogames",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/boardgamegeek.com\/wiki\/page\/BGG_XML_API2",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

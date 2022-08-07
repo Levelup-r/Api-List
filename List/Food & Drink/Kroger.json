@@ -1,0 +1,11 @@
+{
+    "Name": "Kroger",
+    "Link": "https:\/\/developer.kroger.com\/reference",
+    "Description": "Supermarket Data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.kroger.com\/reference",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "FraudLabs Pro",
+    "Link": "https:\/\/www.fraudlabspro.com\/developer\/api\/screen-order",
+    "Description": "Screen order information using AI to detect frauds",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.fraudlabspro.com\/developer\/api\/screen-order",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

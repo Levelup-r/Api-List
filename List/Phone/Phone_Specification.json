@@ -1,0 +1,11 @@
+{
+    "Name": "Phone Specification",
+    "Link": "https:\/\/github.com\/azharimm\/phone-specs-api",
+    "Description": "Rest Api for Phone specifications",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/github.com\/azharimm\/phone-specs-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

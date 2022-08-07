@@ -1,0 +1,11 @@
+{
+    "Name": "Age of Empires II",
+    "Link": "https:\/\/age-of-empires-2-api.herokuapp.com",
+    "Description": "Get information about Age of Empires II resources",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/age-of-empires-2-api.herokuapp.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

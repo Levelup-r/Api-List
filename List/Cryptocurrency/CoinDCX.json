@@ -1,0 +1,11 @@
+{
+    "Name": "CoinDCX",
+    "Link": "https:\/\/docs.coindcx.com\/",
+    "Description": "Cryptocurrency Trading Platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.coindcx.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

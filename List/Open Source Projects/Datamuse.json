@@ -1,0 +1,11 @@
+{
+    "Name": "Datamuse",
+    "Link": "https:\/\/www.datamuse.com\/api\/",
+    "Description": "Word-finding query engine",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.datamuse.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

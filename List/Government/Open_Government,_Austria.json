@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Austria",
+    "Link": "https:\/\/www.data.gv.at\/",
+    "Description": "Austria Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.data.gv.at\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "MLB Records and Stats",
+    "Link": "https:\/\/appac.github.io\/mlb-data-api-docs\/",
+    "Description": "Current and historical MLB statistics",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/appac.github.io\/mlb-data-api-docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

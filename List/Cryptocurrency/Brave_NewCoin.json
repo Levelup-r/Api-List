@@ -1,0 +1,11 @@
+{
+    "Name": "Brave NewCoin",
+    "Link": "https:\/\/bravenewcoin.com\/developers",
+    "Description": "Real-time and historic crypto data from more than 200+ exchanges",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bravenewcoin.com\/developers",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

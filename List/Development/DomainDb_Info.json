@@ -1,0 +1,11 @@
+{
+    "Name": "DomainDb Info",
+    "Link": "https:\/\/api.domainsdb.info\/",
+    "Description": "Domain name search to find all domains containing particular words\/phrases\/etc",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.domainsdb.info\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

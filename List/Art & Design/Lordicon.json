@@ -1,0 +1,11 @@
+{
+    "Name": "Lordicon",
+    "Link": "https:\/\/lordicon.com\/",
+    "Description": "Icons with predone Animations",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/lordicon.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

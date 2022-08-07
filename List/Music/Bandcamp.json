@@ -1,0 +1,11 @@
+{
+    "Name": "Bandcamp",
+    "Link": "https:\/\/bandcamp.com\/developer",
+    "Description": "API of Music store Bandcamp",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bandcamp.com\/developer",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

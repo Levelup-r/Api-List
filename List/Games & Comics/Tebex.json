@@ -1,0 +1,11 @@
+{
+    "Name": "Tebex",
+    "Link": "https:\/\/docs.tebex.io\/plugin\/",
+    "Description": "Tebex API for information about game purchases",
+    "Auth": "`X-Mashape-Key`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/docs.tebex.io\/plugin\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

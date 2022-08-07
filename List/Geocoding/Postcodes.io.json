@@ -1,0 +1,11 @@
+{
+    "Name": "Postcodes.io",
+    "Link": "https:\/\/postcodes.io",
+    "Description": "Postcode lookup & Geolocation for the UK",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/postcodes.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

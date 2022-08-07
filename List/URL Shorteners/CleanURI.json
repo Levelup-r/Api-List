@@ -1,0 +1,11 @@
+{
+    "Name": "CleanURI",
+    "Link": "https:\/\/cleanuri.com\/docs",
+    "Description": "URL shortener service",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/cleanuri.com\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Auth0",
+    "Link": "https:\/\/auth0.com",
+    "Description": "Easy to implement, adaptable authentication and authorization platform",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/auth0.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

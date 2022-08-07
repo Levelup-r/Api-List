@@ -1,0 +1,11 @@
+{
+    "Name": "OpenVisionAPI",
+    "Link": "https:\/\/openvisionapi.com",
+    "Description": "Open source computer vision API based on open source models",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/openvisionapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

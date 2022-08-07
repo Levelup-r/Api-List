@@ -1,0 +1,11 @@
+{
+    "Name": "Medium",
+    "Link": "https:\/\/github.com\/Medium\/medium-api-docs",
+    "Description": "Community of readers and writers offering unique perspectives on ideas",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/Medium\/medium-api-docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

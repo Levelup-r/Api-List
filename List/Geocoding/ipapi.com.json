@@ -1,0 +1,11 @@
+{
+    "Name": "ipapi.com",
+    "Link": "https:\/\/ipapi.com\/",
+    "Description": "Real-time Geolocation & Reverse IP Lookup REST API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ipapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

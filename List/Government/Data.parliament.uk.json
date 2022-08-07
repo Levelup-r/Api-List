@@ -1,0 +1,11 @@
+{
+    "Name": "Data.parliament.uk",
+    "Link": "https:\/\/explore.data.parliament.uk\/?learnmore=Members",
+    "Description": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/explore.data.parliament.uk\/?learnmore=Members",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

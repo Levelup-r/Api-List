@@ -1,0 +1,11 @@
+{
+    "Name": "Short Link",
+    "Link": "https:\/\/github.com\/FayasNoushad\/Short-Link-API",
+    "Description": "Short URLs support so many domains",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/FayasNoushad\/Short-Link-API",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

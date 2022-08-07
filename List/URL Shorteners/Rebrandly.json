@@ -1,0 +1,11 @@
+{
+    "Name": "Rebrandly",
+    "Link": "https:\/\/developers.rebrandly.com\/v1\/docs",
+    "Description": "Custom URL shortener for sharing branded links",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.rebrandly.com\/v1\/docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

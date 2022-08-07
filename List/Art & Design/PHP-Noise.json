@@ -1,0 +1,11 @@
+{
+    "Name": "PHP-Noise",
+    "Link": "https:\/\/php-noise.com\/",
+    "Description": "Noise Background Image Generator",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/php-noise.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

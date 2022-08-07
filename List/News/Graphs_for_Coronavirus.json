@@ -1,0 +1,11 @@
+{
+    "Name": "Graphs for Coronavirus",
+    "Link": "https:\/\/corona.dnsforfamily.com\/api.txt",
+    "Description": "Each Country separately and Worldwide Graphs for Coronavirus. Daily updates",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/corona.dnsforfamily.com\/api.txt",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

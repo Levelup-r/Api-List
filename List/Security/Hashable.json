@@ -1,0 +1,11 @@
+{
+    "Name": "Hashable",
+    "Link": "https:\/\/hashable.space\/pages\/api\/",
+    "Description": "A REST API to access high level cryptographic functions and methods",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/hashable.space\/pages\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

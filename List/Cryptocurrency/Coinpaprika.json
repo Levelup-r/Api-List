@@ -1,0 +1,11 @@
+{
+    "Name": "Coinpaprika",
+    "Link": "https:\/\/api.coinpaprika.com",
+    "Description": "Cryptocurrencies prices, volume and more",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/api.coinpaprika.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Mailtrap",
+    "Link": "https:\/\/mailtrap.docs.apiary.io\/#",
+    "Description": "A service for the safe testing of emails sent from the development and staging environments",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mailtrap.docs.apiary.io\/#",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

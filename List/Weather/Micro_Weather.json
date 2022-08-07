@@ -1,0 +1,11 @@
+{
+    "Name": "Micro Weather",
+    "Link": "https:\/\/m3o.com\/weather\/api",
+    "Description": "Real time weather forecasts and historic data",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/m3o.com\/weather\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

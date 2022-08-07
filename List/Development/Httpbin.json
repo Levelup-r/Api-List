@@ -1,0 +1,11 @@
+{
+    "Name": "Httpbin",
+    "Link": "https:\/\/httpbin.org\/",
+    "Description": "A Simple HTTP Request & Response Service",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/httpbin.org\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

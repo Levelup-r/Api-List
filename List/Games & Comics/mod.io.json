@@ -1,0 +1,11 @@
+{
+    "Name": "mod.io",
+    "Link": "https:\/\/docs.mod.io",
+    "Description": "Cross Platform Mod API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/docs.mod.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

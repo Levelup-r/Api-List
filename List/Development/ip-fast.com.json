@@ -1,0 +1,11 @@
+{
+    "Name": "ip-fast.com",
+    "Link": "https:\/\/ip-fast.com\/docs\/",
+    "Description": "IP address, country and city",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/ip-fast.com\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

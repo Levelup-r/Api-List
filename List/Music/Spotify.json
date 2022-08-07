@@ -1,0 +1,11 @@
+{
+    "Name": "Spotify",
+    "Link": "https:\/\/beta.developer.spotify.com\/documentation\/web-api\/",
+    "Description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/beta.developer.spotify.com\/documentation\/web-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

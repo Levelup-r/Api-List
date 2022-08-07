@@ -1,0 +1,11 @@
+{
+    "Name": "blockfrost Cardano",
+    "Link": "https:\/\/blockfrost.io\/",
+    "Description": "Interaction with the Cardano mainnet and several testnets",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/blockfrost.io\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

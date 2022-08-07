@@ -1,0 +1,11 @@
+{
+    "Name": "Checkiday - National Holiday API",
+    "Link": "https:\/\/apilayer.com\/marketplace\/checkiday-api",
+    "Description": "Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World\u2019s leading companies",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/apilayer.com\/marketplace\/checkiday-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

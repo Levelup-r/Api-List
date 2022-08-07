@@ -1,0 +1,11 @@
+{
+    "Name": "Ziptastic",
+    "Link": "https:\/\/ziptasticapi.com\/",
+    "Description": "Get the country, state, and city of any US zip-code",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/ziptasticapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

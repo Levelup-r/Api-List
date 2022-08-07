@@ -1,0 +1,11 @@
+{
+    "Name": "Clash of Clans",
+    "Link": "https:\/\/developer.clashofclans.com",
+    "Description": "Clash of Clans Game Information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.clashofclans.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

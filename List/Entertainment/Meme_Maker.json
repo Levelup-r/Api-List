@@ -1,0 +1,11 @@
+{
+    "Name": "Meme Maker",
+    "Link": "https:\/\/mememaker.github.io\/API\/",
+    "Description": "REST API for create your own meme",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mememaker.github.io\/API\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

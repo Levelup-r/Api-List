@@ -1,0 +1,11 @@
+{
+    "Name": "Ayrshare",
+    "Link": "https:\/\/www.ayrshare.com",
+    "Description": "Social media APIs to post, get analytics, and manage multiple users social media accounts",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.ayrshare.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Gfycat",
+    "Link": "https:\/\/developers.gfycat.com\/api\/",
+    "Description": "Jiffier GIFs",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.gfycat.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

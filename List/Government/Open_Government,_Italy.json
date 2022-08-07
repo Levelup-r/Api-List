@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Italy",
+    "Link": "https:\/\/www.dati.gov.it\/",
+    "Description": "Italy Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/www.dati.gov.it\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

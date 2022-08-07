@@ -1,0 +1,11 @@
+{
+    "Name": "Open Movie Database",
+    "Link": "http:\/\/www.omdbapi.com\/",
+    "Description": "Movie information",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "http:\/\/www.omdbapi.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

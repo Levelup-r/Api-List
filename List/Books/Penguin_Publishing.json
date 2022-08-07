@@ -1,0 +1,11 @@
+{
+    "Name": "Penguin Publishing",
+    "Link": "http:\/\/www.penguinrandomhouse.biz\/webservices\/rest\/",
+    "Description": "Books, book covers and related data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "http:\/\/www.penguinrandomhouse.biz\/webservices\/rest\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

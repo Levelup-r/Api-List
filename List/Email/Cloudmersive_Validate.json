@@ -1,0 +1,11 @@
+{
+    "Name": "Cloudmersive Validate",
+    "Link": "https:\/\/cloudmersive.com\/validate-api",
+    "Description": "Validate email addresses, phone numbers, VAT numbers and domain names",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/cloudmersive.com\/validate-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Catalogopolis",
+    "Link": "https:\/\/api.catalogopolis.xyz\/docs\/",
+    "Description": "Doctor Who API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.catalogopolis.xyz\/docs\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

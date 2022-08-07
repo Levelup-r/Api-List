@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Switzerland",
+    "Link": "https:\/\/handbook.opendata.swiss\/de\/content\/nutzen\/api-nutzen.html",
+    "Description": "Switzerland Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/handbook.opendata.swiss\/de\/content\/nutzen\/api-nutzen.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "NHL Records and Stats",
+    "Link": "https:\/\/gitlab.com\/dword4\/nhlapi",
+    "Description": "NHL historical data and statistics",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/gitlab.com\/dword4\/nhlapi",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

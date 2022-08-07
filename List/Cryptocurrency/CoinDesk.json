@@ -1,0 +1,11 @@
+{
+    "Name": "CoinDesk",
+    "Link": "https:\/\/old.coindesk.com\/coindesk-api\/",
+    "Description": "CoinDesk's Bitcoin Price Index (BPI) in multiple currencies",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/old.coindesk.com\/coindesk-api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

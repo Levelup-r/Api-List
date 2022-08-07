@@ -1,0 +1,11 @@
+{
+    "Name": "Google Analytics",
+    "Link": "https:\/\/developers.google.com\/analytics\/",
+    "Description": "Collect, configure and analyze your data to reach the right audience",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/analytics\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

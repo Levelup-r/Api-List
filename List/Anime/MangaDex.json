@@ -1,0 +1,11 @@
+{
+    "Name": "MangaDex",
+    "Link": "https:\/\/api.mangadex.org\/docs.html",
+    "Description": "Manga Database and Community",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/api.mangadex.org\/docs.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

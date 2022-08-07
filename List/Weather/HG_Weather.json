@@ -1,0 +1,11 @@
+{
+    "Name": "HG Weather",
+    "Link": "https:\/\/hgbrasil.com\/status\/weather",
+    "Description": "Provides weather forecast data for cities in Brazil",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/hgbrasil.com\/status\/weather",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Bitquery",
+    "Link": "https:\/\/graphql.bitquery.io\/ide",
+    "Description": "Onchain GraphQL APIs & DEX APIs",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/graphql.bitquery.io\/ide",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

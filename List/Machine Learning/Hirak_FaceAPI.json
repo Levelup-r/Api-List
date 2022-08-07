@@ -1,0 +1,11 @@
+{
+    "Name": "Hirak FaceAPI",
+    "Link": "https:\/\/faceapi.hirak.site\/",
+    "Description": "Face detection, face recognition with age estimation\/gender estimation, accurate, no quota limits",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown",
+    "Docs": "https:\/\/faceapi.hirak.site\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

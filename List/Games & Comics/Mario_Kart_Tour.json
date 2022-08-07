@@ -1,0 +1,11 @@
+{
+    "Name": "Mario Kart Tour",
+    "Link": "https:\/\/mario-kart-tour-api.herokuapp.com\/",
+    "Description": "API for Drivers, Karts, Gliders and Courses",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/mario-kart-tour-api.herokuapp.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

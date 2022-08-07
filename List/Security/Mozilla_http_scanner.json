@@ -1,0 +1,11 @@
+{
+    "Name": "Mozilla http scanner",
+    "Link": "https:\/\/github.com\/mozilla\/http-observatory\/blob\/master\/httpobs\/docs\/api.md",
+    "Description": "Mozilla observatory http scanner",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/mozilla\/http-observatory\/blob\/master\/httpobs\/docs\/api.md",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Image-Charts",
+    "Link": "https:\/\/documentation.image-charts.com\/",
+    "Description": "Generate charts, QR codes and graph images",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/documentation.image-charts.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

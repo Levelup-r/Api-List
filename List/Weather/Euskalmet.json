@@ -1,0 +1,11 @@
+{
+    "Name": "Euskalmet",
+    "Link": "https:\/\/opendata.euskadi.eus\/api-euskalmet\/-\/api-de-euskalmet\/",
+    "Description": "Meteorological data of the Basque Country",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/opendata.euskadi.eus\/api-euskalmet\/-\/api-de-euskalmet\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

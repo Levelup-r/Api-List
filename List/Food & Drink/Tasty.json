@@ -1,0 +1,11 @@
+{
+    "Name": "Tasty",
+    "Link": "https:\/\/rapidapi.com\/apidojo\/api\/tasty\/",
+    "Description": "API to query data about recipe, plan, ingredients",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/rapidapi.com\/apidojo\/api\/tasty\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

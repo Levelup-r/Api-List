@@ -1,0 +1,11 @@
+{
+    "Name": "eBird",
+    "Link": "https:\/\/documenter.getpostman.com\/view\/664302\/S1ENwy59",
+    "Description": "Retrieve recent or notable birding observations within a region",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/documenter.getpostman.com\/view\/664302\/S1ENwy59",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

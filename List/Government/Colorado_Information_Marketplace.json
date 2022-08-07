@@ -1,0 +1,11 @@
+{
+    "Name": "Colorado Information Marketplace",
+    "Link": "https:\/\/data.colorado.gov\/",
+    "Description": "Colorado State Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.colorado.gov\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

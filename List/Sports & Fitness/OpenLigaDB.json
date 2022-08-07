@@ -1,0 +1,11 @@
+{
+    "Name": "OpenLigaDB",
+    "Link": "https:\/\/www.openligadb.de",
+    "Description": "Crowd sourced sports league results",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/www.openligadb.de",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

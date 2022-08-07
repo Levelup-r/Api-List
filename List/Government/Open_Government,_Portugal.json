@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Portugal",
+    "Link": "https:\/\/dados.gov.pt\/en\/docapi\/",
+    "Description": "Portugal Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/dados.gov.pt\/en\/docapi\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

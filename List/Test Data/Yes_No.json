@@ -1,0 +1,11 @@
+{
+    "Name": "Yes No",
+    "Link": "https:\/\/yesno.wtf\/api",
+    "Description": "Generate yes or no randomly",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/yesno.wtf\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

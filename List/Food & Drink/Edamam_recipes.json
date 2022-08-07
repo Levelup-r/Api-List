@@ -1,0 +1,11 @@
+{
+    "Name": "Edamam recipes",
+    "Link": "https:\/\/developer.edamam.com\/edamam-docs-recipe-api",
+    "Description": "Recipe Search",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.edamam.com\/edamam-docs-recipe-api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

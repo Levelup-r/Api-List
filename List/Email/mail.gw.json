@@ -1,0 +1,11 @@
+{
+    "Name": "mail.gw",
+    "Link": "https:\/\/docs.mail.gw",
+    "Description": "10 Minute Mail",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/docs.mail.gw",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

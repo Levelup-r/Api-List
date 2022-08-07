@@ -1,0 +1,11 @@
+{
+    "Name": "BitWarden",
+    "Link": "https:\/\/bitwarden.com\/help\/api\/",
+    "Description": "Best open-source password manager",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/bitwarden.com\/help\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

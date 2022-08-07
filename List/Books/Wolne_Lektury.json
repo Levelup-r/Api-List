@@ -1,0 +1,11 @@
+{
+    "Name": "Wolne Lektury",
+    "Link": "https:\/\/wolnelektury.pl\/api\/",
+    "Description": "API for obtaining information about e-books available on the WolneLektury.pl website",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/wolnelektury.pl\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

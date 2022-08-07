@@ -1,0 +1,11 @@
+{
+    "Name": "Free Dictionary",
+    "Link": "https:\/\/dictionaryapi.dev\/",
+    "Description": "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/dictionaryapi.dev\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

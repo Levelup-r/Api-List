@@ -1,0 +1,11 @@
+{
+    "Name": "Represent by Open North",
+    "Link": "https:\/\/represent.opennorth.ca\/",
+    "Description": "Find Canadian Government Representatives",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/represent.opennorth.ca\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

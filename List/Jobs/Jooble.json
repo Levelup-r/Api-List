@@ -1,0 +1,11 @@
+{
+    "Name": "Jooble",
+    "Link": "https:\/\/jooble.org\/api\/about",
+    "Description": "Job search engine",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/jooble.org\/api\/about",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

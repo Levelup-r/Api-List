@@ -1,0 +1,11 @@
+{
+    "Name": "Coinigy",
+    "Link": "https:\/\/coinigy.docs.apiary.io",
+    "Description": "Interacting with Coinigy Accounts and Exchange Directly",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/coinigy.docs.apiary.io",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

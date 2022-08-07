@@ -1,0 +1,11 @@
+{
+    "Name": "Lucifer Quotes",
+    "Link": "https:\/\/github.com\/shadowoff09\/lucifer-quotes",
+    "Description": "Returns Lucifer quotes",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/shadowoff09\/lucifer-quotes",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

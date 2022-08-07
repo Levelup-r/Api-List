@@ -1,0 +1,11 @@
+{
+    "Name": "Huobi",
+    "Link": "https:\/\/huobiapi.github.io\/docs\/spot\/v1\/en\/",
+    "Description": "Seychelles based cryptocurrency exchange",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/huobiapi.github.io\/docs\/spot\/v1\/en\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

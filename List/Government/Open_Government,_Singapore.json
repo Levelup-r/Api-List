@@ -1,0 +1,11 @@
+{
+    "Name": "Open Government, Singapore",
+    "Link": "https:\/\/data.gov.sg\/developer",
+    "Description": "Singapore Government Open Data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/data.gov.sg\/developer",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

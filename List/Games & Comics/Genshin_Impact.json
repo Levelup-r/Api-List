@@ -1,0 +1,11 @@
+{
+    "Name": "Genshin Impact",
+    "Link": "https:\/\/genshin.dev",
+    "Description": "Genshin Impact game data",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/genshin.dev",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

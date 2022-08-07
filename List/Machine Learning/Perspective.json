@@ -1,0 +1,11 @@
+{
+    "Name": "Perspective",
+    "Link": "https:\/\/perspectiveapi.com",
+    "Description": "NLP API to return probability that if text is toxic, obscene, insulting or threatening",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/perspectiveapi.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Interpol Red Notices",
+    "Link": "https:\/\/interpol.api.bund.dev\/",
+    "Description": "Access and search Interpol Red Notices",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/interpol.api.bund.dev\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

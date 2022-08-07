@@ -1,0 +1,11 @@
+{
+    "Name": "IBM Text to Speech",
+    "Link": "https:\/\/cloud.ibm.com\/docs\/text-to-speech\/getting-started.html",
+    "Description": "Convert text to speech",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/cloud.ibm.com\/docs\/text-to-speech\/getting-started.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

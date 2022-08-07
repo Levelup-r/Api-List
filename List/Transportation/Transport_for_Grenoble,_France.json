@@ -1,0 +1,11 @@
+{
+    "Name": "Transport for Grenoble, France",
+    "Link": "https:\/\/www.mobilites-m.fr\/pages\/opendata\/OpenDataApi.html",
+    "Description": "Grenoble public transport",
+    "Auth": "No",
+    "HTTPS": "No",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.mobilites-m.fr\/pages\/opendata\/OpenDataApi.html",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

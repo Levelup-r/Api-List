@@ -1,0 +1,11 @@
+{
+    "Name": "MetaWeather",
+    "Link": "https:\/\/www.metaweather.com\/api\/",
+    "Description": "Weather",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/www.metaweather.com\/api\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

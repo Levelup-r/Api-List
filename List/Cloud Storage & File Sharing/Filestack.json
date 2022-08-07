@@ -1,0 +1,11 @@
+{
+    "Name": "Filestack",
+    "Link": "https:\/\/www.filestack.com",
+    "Description": "Filestack File Uploader & File Upload API",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown",
+    "Docs": "https:\/\/www.filestack.com",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

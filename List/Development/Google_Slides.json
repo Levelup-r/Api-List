@@ -1,0 +1,11 @@
+{
+    "Name": "Google Slides",
+    "Link": "https:\/\/developers.google.com\/slides\/api\/reference\/rest",
+    "Description": "API to read, write, and format Google Slides presentations",
+    "Auth": "`OAuth`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developers.google.com\/slides\/api\/reference\/rest",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

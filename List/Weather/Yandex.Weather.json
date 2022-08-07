@@ -1,0 +1,11 @@
+{
+    "Name": "Yandex.Weather",
+    "Link": "https:\/\/yandex.com\/dev\/weather\/",
+    "Description": "Assesses weather condition in specific locations",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "No |",
+    "Docs": "https:\/\/yandex.com\/dev\/weather\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

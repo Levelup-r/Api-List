@@ -1,0 +1,11 @@
+{
+    "Name": "Musixmatch",
+    "Link": "https:\/\/developer.musixmatch.com\/",
+    "Description": "Music",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/developer.musixmatch.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

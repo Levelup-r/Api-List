@@ -1,0 +1,11 @@
+{
+    "Name": "quoteclear",
+    "Link": "https:\/\/quoteclear.web.app\/",
+    "Description": "Ever-growing list of James Clear quotes from the 3-2-1 Newsletter",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/quoteclear.web.app\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

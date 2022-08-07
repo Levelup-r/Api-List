@@ -1,0 +1,11 @@
+{
+    "Name": "An API of Ice And Fire",
+    "Link": "https:\/\/anapioficeandfire.com\/",
+    "Description": "Game Of Thrones API",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/anapioficeandfire.com\/",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

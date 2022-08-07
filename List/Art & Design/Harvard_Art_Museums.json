@@ -1,0 +1,11 @@
+{
+    "Name": "Harvard Art Museums",
+    "Link": "https:\/\/github.com\/harvardartmuseums\/api-docs",
+    "Description": "Art",
+    "Auth": "`apiKey`",
+    "HTTPS": "No",
+    "CORS": "Unknown |",
+    "Docs": "https:\/\/github.com\/harvardartmuseums\/api-docs",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

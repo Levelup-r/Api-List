@@ -1,0 +1,11 @@
+{
+    "Name": "Open Charge Map",
+    "Link": "https:\/\/openchargemap.org\/site\/develop\/api",
+    "Description": "Global public registry of electric vehicle charging locations",
+    "Auth": "`apiKey`",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/openchargemap.org\/site\/develop\/api",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

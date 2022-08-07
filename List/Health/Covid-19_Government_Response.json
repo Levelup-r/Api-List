@@ -1,0 +1,11 @@
+{
+    "Name": "Covid-19 Government Response",
+    "Link": "https:\/\/covidtracker.bsg.ox.ac.uk",
+    "Description": "Government measures tracker to fight against the Covid-19 pandemic",
+    "Auth": "No",
+    "HTTPS": "Yes",
+    "CORS": "Yes |",
+    "Docs": "https:\/\/covidtracker.bsg.ox.ac.uk",
+    "Status_Check": "False",
+    "Status_Token": "NONE"
+}

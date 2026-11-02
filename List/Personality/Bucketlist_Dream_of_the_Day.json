@@ -1,0 +1,11 @@
+{
+   "Name": "Bucketlist Dream of the Day",
+   "Link": "https://bucketlist.nl/api/droom-van-de-dag",
+   "Description": "One daily experience suggestion with image and source URL; defaults to Dutch and Netherlands scope. Free and keyless; cache responses. Provider/partner content terms apply.",
+   "Auth": "No",
+   "HTTPS": "Yes",
+   "CORS": "Yes",
+   "Docs": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json",
+   "Status_Check": "True",
+   "Status_Token": "NONE"
+}
